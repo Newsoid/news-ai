@@ -1,0 +1,1786 @@
+{
+    "status": "ok",
+    "total_articles": 178,
+    "articles": [
+        {
+            "published_date": "2025-01-10T23:38:41",
+            "title": "Microsoft accuses group of developing tool to abuse its AI service in new lawsuit",
+            "author": "News Feed Editor",
+            "url": "https://rocketnews.com/2025/01/microsoft-accuses-group-of-developing-tool-to-abuse-its-ai-service-in-new-lawsuit",
+            "url_media": "https://techcrunch.com/wp-content/uploads/2024/07/microsoft-logo-office.jpg?resize=1200,798",
+            "country": "US",
+            "language": "en",
+            "summary": "Microsoft has taken legal action against a group it claims intentionally developed and used tools to bypass the safety guardrails of its cloud AI products. 10 unnamed defendants allegedly used stolen customer credentials and custom-designed software to break into the Azure OpenAI Service powered by ChatGPT maker OpenAI's technologies. Microsoft is seeking injunctive and 'other equitable' relief and damages."
+        },
+        {
+            "published_date": "2025-01-10T23:38:08",
+            "title": "OpenAI has begun building out its robotics team",
+            "author": "",
+            "url": "https://dnyuz.com/2025/01/10/openai-has-begun-building-out-its-robotics-team",
+            "url_media": "https://dnyuz.com/wp-content/uploads/2025/01/OpenAI-has-begun-building-out-its-robotics-team.png",
+            "country": "US",
+            "language": "en",
+            "summary": "Caitlin Kalinowski, a member of the technical staff at OpenAI, has announced her hiring at the company. She is an EE sensing engineer and a robotics mechanical design engineer. The company is focusing on general-purpose robotics and pushing towards AG-level intelligence in dynamic, real-world settings."
+        },
+        {
+            "published_date": "2025-01-10T23:15:17",
+            "title": "The Limits of AI",
+            "author": "Consortium News",
+            "url": "https://article.wn.com/view/2025/01/10/The_Limits_of_AI",
+            "url_media": "https://i.ytimg.com/vi/-upu1m4Ya7U/0.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial Intelligence needs to get its act together first or there may be hell to pay, writes TV weatherman Joe Lauria. He believes complex AI systems make mistakes.      .   (Fox 4 News Kansas City/YouTube) "
+        },
+        {
+            "published_date": "2025-01-10T22:54:26",
+            "title": "Need a tutor? Mitchell School District has artificial intelligence for that",
+            "author": "External Links",
+            "url": "https://www.archyde.com/need-a-tutor-mitchell-school-district-has-artificial-intelligence-for-that-mitchell-republic",
+            "url_media": "https://cdn.forumcomm.com/dims4/default/c1fbb2f/2147483647/strip/true/crop/8192x5464+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fcf%2Ff5%2F4cdeaa26438e8dfb65924e8f6c08%2F1-9-25khanmigomhs-9.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Khanmigo is an AI-powered teaching assistant developed by Khan Academy. It was introduced in the Mitchell School District on January 9, 2025. Over 221,000 people used Khanmigo during the 2023-24 school year. The program was initially rolled out in high school algebra classes but has expanded to other subjects as educators evaluate its impact."
+        },
+        {
+            "published_date": "2025-01-10T22:45:11",
+            "title": "Data Doctors: Is a Copilot+ PC worth buying?",
+            "author": "Wtop",
+            "url": "https://article.wn.com/view/2025/01/10/Data_Doctors_Is_a_Copilot_PC_worth_buying",
+            "url_media": "https://article.wn.com/view/2025/01/10/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "A Copilot+ PC is Microsoft's current campaign for those using the Windows operating system. It's not worth buying right now, but the overwhelming use of artificial intelligence to sell just about everything will continue to be used to sell things. It is not a replacement for an actual computer."
+        },
+        {
+            "published_date": "2025-01-10T22:42:07",
+            "title": "Google DeepMind researchers introduce new benchmark to improve LLM factuality, reduce hallucinations",
+            "author": "",
+            "url": "https://dnyuz.com/2025/01/10/google-deepmind-researchers-introduce-new-benchmark-to-improve-llm-factuality-reduce-hallucinations",
+            "url_media": "https://dnyuz.com/wp-content/uploads/2025/01/Google-DeepMind-researchers-introduce-new-benchmark-to-improve-LLM-factuality.j.jpeg",
+            "country": "US",
+            "language": "en",
+            "summary": "As of this week, Gemini 2.0 Flash topped the leaderboard with a factuality score of 83.6%. Other models in the top 9 include Google's Gemini 1.5 Flash, Anthropic's Clade 3.5 Sonnet and OpenAI's GPT-4o, 4o-mini, o1-mini and o1 -preview."
+        },
+        {
+            "published_date": "2025-01-10T22:32:04",
+            "title": "Enough Already, CES: Just What Is Agentic AI And Why Should Lawyers Care?",
+            "author": "Chris Williams",
+            "url": "https://abovethelaw.com/2025/01/enough-already-ces-just-what-is-agentic-ai-and-why-should-lawyers-care",
+            "url_media": "https://abovethelaw.com/wp-content/uploads/2025/01/GettyImages-2192450824-scaled.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "A panel at CES discussed the rise of AI agents and what they can do for lawyers and legal professionals. The panelists believe that in a few years we will all have our own digital personal assistant or concierge that can take care of various tasks that now occupy chunks of our time."
+        },
+        {
+            "published_date": "2025-01-10T22:09:45",
+            "title": "While AI Causes Climate Change, Nvidia Scientist Proposes AI-Powered Firefighting Robots",
+            "author": "Noor Al-Sibai",
+            "url": "https://www.yahoo.com/news/while-ai-causes-climate-change-220945704.html",
+            "url_media": "https://media.zenfs.com/en/futurism_981/f4859a9fd54e5943303e40ca4bc13394",
+            "country": "US",
+            "language": "en",
+            "summary": "Nvidia scientist Jim Fan suggested that AI could help fight the wildfires in California, even though the technology has already begun degrading the environment and is slated to do much more. This year's Consumer Electronics Show took place in Las Vegas, a five-hour drive away from the wildfire-stricken city of angels."
+        },
+        {
+            "published_date": "2025-01-10T22:00:36",
+            "title": "A face among 50 billion leads to arrests of alleged thieves",
+            "author": "Ken Kolker",
+            "url": "https://www.yahoo.com/news/face-among-50-billion-leads-220036228.html",
+            "url_media": "https://media.zenfs.com/en/wood_articles_694/786b501ce467dd86793633400e8fbf99",
+            "country": "US",
+            "language": "en",
+            "summary": "Suspects from Pennsylvania stole $20,000 from Macatawa Bank in Byron Center in November. They used falsified passports to withdraw money from the account. The suspects were staying at two hotels along 28th Street SE in Grand Rapids. They bought a check from a bank for $10,000 and a printer to turn it into a $15,000."
+        },
+        {
+            "published_date": "2025-01-10T21:54:55",
+            "title": "New OpenAI job listings reveal its robotics plans",
+            "author": "archyde",
+            "url": "https://www.archyde.com/new-openai-job-listings-reveal-its-robotics-plans",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/CMgnC2z2R63s8M49lMTejg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/657a4dcc8acc064a4e47361a6e45381d",
+            "country": "US",
+            "language": "en",
+            "summary": "After a brief hiatus, OpenAI is reviving its robotics ambitions. Caitlin Kalinowski, the company's new hardware director, wants to create intelligent, adaptable robots that can operate in dynamic, real-world settings. The company's robots are expected to feature custom sensors and computational elements, enabling them to perform tasks with unprecedented precision and adaptability."
+        },
+        {
+            "published_date": "2025-01-10T21:52:26",
+            "title": "A.I. To Be Trained On Reddit To Make Sure It Never Becomes Too Intelligent",
+            "author": "",
+            "url": "https://babylonbee.com/news/ai-to-be-trained-on-reddit-to-make-sure-it-never-becomes-too-intelligent",
+            "url_media": "https://media.babylonbee.com/articles/678194cc026ec678194cc026ed.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Tech companies are training their AI models on Reddit to make sure they won't become too intelligent. The best part is that they will soon start bickering among themselves and care less about humans. The U.S. Congress proposed new legislation demanding all tech companies follow suit."
+        },
+        {
+            "published_date": "2025-01-10T21:32:05",
+            "title": "‘Embracing AI': Mississippi governor mandates creating policies for using artificial intelligence",
+            "author": "",
+            "url": "https://apnews.com/us-news/tate-reeves-artificial-intelligence-mississippi-general-news-d43d88dcd34de5f346919fe1f65c6b10",
+            "url_media": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+            "country": "US",
+            "language": "en",
+            "summary": "The Mississippi Department of Internet Technology Services will evaluate how state agencies use or plan to use artificial intelligence and create policy recommendations for using AI in the public and private sectors. The policy recommendations must be fair, innovative, secure, safe, transparent, accountable, accessible, valid, reliable and provide privacy. The order requires state agencies to cooperate with ITS's examination of AI practices."
+        },
+        {
+            "published_date": "2025-01-10T21:32:05",
+            "title": "‘Embracing AI': Mississippi governor mandates creating policies for using artificial intelligence",
+            "author": "Mississippi Free Press",
+            "url": "https://kdhnews.com/business/technology/embracing-ai-mississippi-governor-mandates-creating-policies-for-using-artificial-intelligence/article_86ec7375-2be0-5195-96ee-6a1cc3e14f82.html",
+            "url_media": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/custom/image/d24d118c-8888-11e9-94c1-a36b64682479.jpg?resize=600%2C315",
+            "country": "US",
+            "language": "en",
+            "summary": "The Mississippi Department of Internet Technology Services will create policy recommendations for using artificial intelligence in the public and private sectors under an executive order Gov. Tate Reeves issued on Wednesday. AI policy recommendations must be fair, innovative, secure, safe, transparent, accountable, accessible, valid and reliable."
+        },
+        {
+            "published_date": "2025-01-10T21:14:01",
+            "title": "From over-design to optimization: the AI advantage in structural engineering",
+            "author": "Interesting Engineering",
+            "url": "https://article.wn.com/view/2025/01/10/From_overdesign_to_optimization_the_AI_advantage_in_structur",
+            "url_media": "https://article.wn.com/view/2025/01/10/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "Sina Flynn, PE, is a senior structural engineer and project manager at Little Diversified Architectural Consulting. Sina talked about how artificial intelligence (AI) benefits industries like architecture and design. Currently, the way we design involves a lot of manual inputs."
+        },
+        {
+            "published_date": "2025-01-10T21:08:12",
+            "title": "Microsoft Catches Hackers Bypassing Safeguards for AI Image Generator DALL-E",
+            "author": "Michael Kan",
+            "url": "https://www.msn.com/en-us/news/technology/microsoft-catches-hackers-bypassing-safeguards-for-ai-image-generator-dall-e/ar-BB1rfpjJ",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "summary": "Microsoft has used a court order to seize an internet domain used to create 'offensive and harmful' AI-generated images through the company's Azure OpenAI service. The domain's creators used stolen login credentials for the service to access the AI image generator DALL-E. Microsoft discovered the activity last July when the hackers accessed the service through API keys from customers based in Pennsylvania and New Jersey. Redmond revoked the access and filed a lawsuit last month in the Eastern District of Virginia to let it seize the domain."
+        },
+        {
+            "published_date": "2025-01-10T20:43:00",
+            "title": "HR managers largely feel good about using AI tools in hiring but skepticism remains",
+            "author": "",
+            "url": "https://www.bizjournals.com/bizjournals/news/2025/01/10/how-hr-managers-feel-about-ai-tools.html",
+            "url_media": "https://media.bizj.us/view/img/10393191/bizwomensciencemarch27*1200xx5616-3171-0-495.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "MyPerfectResume survey found that 64% of HR managers use artificial-intelligence tools to complete certain tasks, but some feel the tools harm candidate quality in hiring. Ethical concerns about data privacy, bias, and transparency in AI algorithms are high. Most HR professionals believe AI helps streamline their hiring process."
+        },
+        {
+            "published_date": "2025-01-10T20:41:09",
+            "title": "Breaking the data bottleneck: Salesforce's ProVision speeds multimodal AI training with image scene graphs",
+            "author": "",
+            "url": "https://dnyuz.com/2025/01/10/breaking-the-data-bottleneck-salesforces-provision-speeds-multimodal-ai-training-with-image-scene-graphs",
+            "url_media": "https://dnyuz.com/wp-content/uploads/2025/01/Breaking-the-data-bottleneck-Salesforces-ProVision-speeds-multimodal-AI-training.png",
+            "country": "US",
+            "language": "en",
+            "summary": "Salesforce has released the ProVision-10M dataset to boost the performance and accuracy of various multimodal AI models. It is now available on Salesforce's website. The company used scene graphs in conjunction with human-written programs to systematically synthesize vision-centric instruction data."
+        },
+        {
+            "published_date": "2025-01-10T20:25:56",
+            "title": "What is prompt engineering?",
+            "author": "Computer Weekly",
+            "url": "https://article.wn.com/view/2025/01/10/What_is_prompt_engineering",
+            "url_media": "https://article.wn.com/view/2025/01/10/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "Prompt engineering is an artificial intelligence (AI) engineering technique that refines large language models (LLMs) with specific prompts and recommended outputs. It also is part of the process of refining input to various generative AI. It is a form of AI engineering."
+        },
+        {
+            "published_date": "2025-01-10T19:50:39",
+            "title": "State Government Use of AI: The Opportunities of Executive Action in 2025",
+            "author": "archyde",
+            "url": "https://www.archyde.com/state-government-use-of-ai-the-opportunities-of-executive-action-in-2025",
+            "url_media": "https://cdt.org/wp-content/uploads/2020/03/2020-03-10-CDT-default-image-BLUE.png",
+            "country": "US",
+            "language": "en",
+            "summary": "As artificial intelligence (AI) continues to transform industries, state governments are stepping up to craft policies that balance innovation with ethical considerations. To date, thirteen states have issued executive orders addressing the use of AI in government, including Washington, D.C. and California."
+        },
+        {
+            "published_date": "2025-01-10T19:19:39",
+            "title": "Enhance Legal Expertise Online: Campbell Law Alumni Association Hosts",
+            "author": "Source",
+            "url": "https://hoodline.com/2025/01/enhance-legal-expertise-online-campbell-law-alumni-association-hosts-virtual-cle-on-ai-and-ethics",
+            "url_media": "https://img.hoodline.com/2025/1/enhance-legal-expertise-online-campbell-law-alumni-association-hosts-virtual-cle-on-ai-and-ethics-1.webp",
+            "country": "US",
+            "language": "en",
+            "summary": "Campbell Law Alumni Association is organizing a virtual legal learning session on February 4th from 9-11 a.m. Alumni can earn CLE credits without leaving their desks. Ann Ochsner '11, from the firm White and Stradley, will give a presentation on \"Spoliation of Evidence\" and Mark Scruggs '86 on \"Ethics and the Use of Artificial Intelligence in Your Law Practice\"."
+        },
+        {
+            "published_date": "2025-01-10T18:28:46",
+            "title": "YouTubers sell unused video footage to AI companies",
+            "author": "Xinhua",
+            "url": "https://article.wn.com/view/2025/01/10/YouTubers_sell_unused_video_footage_to_AI_companies",
+            "url_media": "https://article.wn.com/view/2025/01/10/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "YouTubers and other digital content creators are selling their unused video footage to artificial intelligence (AI) companies seeking exclusive videos to better train their AI algorithms. OpenAI, Alphabet Inc.'s Google, AI media company Moonvalley and several other AI companies are collectively paying hundreds of content creators for access to their unpublished videos."
+        },
+        {
+            "published_date": "2025-01-10T18:12:19",
+            "title": "AI may cause massive layoffs on Wall Street in the near future",
+            "author": "Vishnu Kaimal",
+            "url": "https://americanbazaaronline.com/2025/01/10/ai-may-cause-massive-layoffs-on-wall-street-in-the-near-future458244",
+            "url_media": "https://americanbazaaronline.com/wp-content/uploads/2012/12/Wall-Street.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Wall Street may have to cut nearly 200,000 jobs in the next 3 to 5 years thanks to the rise of artificial intelligence. Back office, middle office and operations' roles will be the most vulnerable. AI could boost bank profits by as much as 17% by 2027, according to Bloomberg Intelligence."
+        },
+        {
+            "published_date": "2025-01-10T18:07:42",
+            "title": "Priority admissions to Alabama's prestigious residential high school ends today",
+            "author": "Grayson Everett",
+            "url": "https://yellowhammernews.com/priority-admissions-to-alabamas-prestigious-residential-high-school-ends-today",
+            "url_media": "https://yellowhammernews.com/wp-content/uploads/2025/01/ASCTE-e1736498678123.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "The deadline for priority applications for the Alabama School of Cyber Technology and Engineering's 2025-26 academic year is January 10th at midnight. The final admissions deadline is February 7th. The school is ranked in the top 1% of public high schools nationwide and Alabama's 3rd-best in college preparation. It's located in the middle of the nation's second-largest research park and offers a tuition-free educational experience to students throughout Alabama."
+        },
+        {
+            "published_date": "2025-01-10T18:01:59",
+            "title": "AI might be leaving scam emails in your inbox. Here's how to protect yourself from them",
+            "author": "Mariyam Muhammad",
+            "url": "https://www.dispatch.com/story/news/2025/01/10/ai-scam-emails-spot-them-protect/77582745007",
+            "url_media": "https://www.dispatch.com/gcdn/-mm-/3b8b0abcb585d9841e5193c3d072eed1e5ce62bc/c=0-30-580-356/local/-/media/2018/01/22/USATODAY/usatsports/robots-botz-ai-nvidia-irobot-stocks_large.jpg?width=580&height=326&fit=crop&format=pjpg&auto=webp",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial intelligence is being used to create 'hyper-personalized' emails. This form of scamming is known as 'phishing'. Major email platforms such as Gmail, Outlook and Apple Mail don't have defenses to protect against AI-generated phishing emails. The FBI recommends that you take the following actions if you encounter a phishing email."
+        },
+        {
+            "published_date": "2025-01-10T18:01:59",
+            "title": "AI might be leaving scam emails in your inbox. Here's how to protect yourself from them",
+            "author": "Mariyam Muhammad",
+            "url": "https://www.cincinnati.com/story/news/2025/01/10/ai-scam-emails-spot-them-protect/77582745007",
+            "url_media": "https://www.cincinnati.com/gcdn/-mm-/3b8b0abcb585d9841e5193c3d072eed1e5ce62bc/c=0-30-580-356/local/-/media/2018/01/22/USATODAY/usatsports/robots-botz-ai-nvidia-irobot-stocks_large.jpg?width=580&height=326&fit=crop&format=pjpg&auto=webp",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial intelligence is being used to send 'hyper-personalized' emails. This form of phishing is known as 'phishing' because it's difficult to tell if the emails are from humans or bots. Gmail, Outlook and Apple Mail don't have defenses to protect against AI-generated phishing emails."
+        },
+        {
+            "published_date": "2025-01-10T18:00:00",
+            "title": "Opinion - AI is taking the ‘human' out of human resources",
+            "author": "Adam Klein",
+            "url": "https://www.yahoo.com/news/opinion-ai-taking-human-human-180000651.html",
+            "url_media": "https://media.zenfs.com/en/the_hill_articles_341/5808763a4c23e7b0bc81a04c3e554c44",
+            "country": "US",
+            "language": "en",
+            "summary": "Companies increasingly rely on AI-based tools to replace HR functions. Left unchecked, these systems can replicate human biases that lead to discrimination. Some workers have had early successes targeting AI-facilitated discrimination by filing lawsuits. Businesses should mandate robust training for HR departments on how these tools work and how to monitor for and identify trends that indicate bias."
+        },
+        {
+            "published_date": "2025-01-10T18:00:00",
+            "title": "Can Generative AI Uncover the ‘Language of Biology'?",
+            "author": "Matteo Wong",
+            "url": "https://www.theatlantic.com/newsletters/archive/2025/01/virtual-cell-generative-ai-discovery/681276",
+            "url_media": "https://cdn.theatlantic.com/thumbor/8ck5bCYH60wzBdFyS1Ca9V20_vc=/0x40:2000x1082/1200x625/media/img/mt/2025/01/AI_frame_virtual_cell/original.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "In recent decades, scientists have collected troves of DNA and microscopic imaging data from human cells. Now they have a tool, generative AI, that might make sense of all that information. The research is in its early stages and full-fledged, AI-driven 'virtual cells' may never be realized, but biologists have made progress using the technology to study the basic components of our bodies."
+        },
+        {
+            "published_date": "2025-01-10T17:54:53",
+            "title": "Some of the most innovative tech products found at CES 2025",
+            "author": "Logan Stefanich",
+            "url": "https://www.msn.com/en-us/news/technology/some-of-the-most-innovative-tech-products-found-at-ces-2025/ar-BB1rf42g",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "summary": "CES is one of the premier tech events in the world. TCL this week rolled out its latest smart home concept: Ai Me. Panasonic's AI refrigerator is equipped with interior cameras. ENVISION's Augmented Reality Precision Orientation System transforms what binoculars are capable of. UNISTELLAR's Smart Binoculars let you see the stars at night."
+        },
+        {
+            "published_date": "2025-01-10T17:54:53",
+            "title": "Some of the most innovative tech products KSL.com found at CES 2025",
+            "author": "Logan Stefanich",
+            "url": "https://www.deseret.com/utah/2025/01/10/some-of-the-most-innovative-tech-products-found-at-ces-2025",
+            "url_media": "https://www.deseret.com/resizer/v2/MMWI254JSUOIK3BKO2KXBH532A.jpg?focal=0%2C0&auth=1ed948225cb6da35e702385f9859f26274423d8c5d5f1d7e44f598b579feb6e4&width=1200&height=630",
+            "country": "US",
+            "language": "en",
+            "summary": "CES is one of the premier tech events in the world. The show is packed with interesting products from home tech to electric vehicles and drones. Here are some of the coolest and most innovative tech products to keep an eye on as CES 2025 kicks off.TCL this week rolled out its latest smart home concept: Ai Me. Ai Me is an interactive robot companion for children and parents. Panasonic's AI refrigerator is equipped with interior cameras. LG has partnered with Benzamin to develop an AI mattress."
+        },
+        {
+            "published_date": "2025-01-10T17:53:22",
+            "title": "Daniela Rus Inducted Into The French Académie Nationale De Médecine",
+            "author": "John Werner",
+            "url": "https://www.forbes.com/sites/johnwerner/2025/01/10/daniela-rus-inducted-into-the-french-acadmie-nationale-de-mdecine",
+            "url_media": "https://imageio.forbes.com/specials-images/imageserve/67815e6d28796f0268964c69/0x0.png?format=png&height=900&width=1600&fit=bounds",
+            "country": "US",
+            "language": "en",
+            "summary": "Daniela Rus was inducted into the French Académie Nationale de Médecine on January 7th. John Werner is excited about this honor. Daniela talked about AI for preventative healthcare and AI for better diagnosis in her acceptance speech. She also mentioned nanorobots for procedures that used to be invasive."
+        },
+        {
+            "published_date": "2025-01-10T17:30:21",
+            "title": "‘Eve is around 3 years old and would love to meet you'",
+            "author": "Uriah Kiser",
+            "url": "https://www.potomaclocal.com/2025/01/10/eve-is-around-3-years-old-and-would-love-to-meet-you",
+            "url_media": "https://www.potomaclocal.com/wp-content/uploads/2024/12/Adoptable-Animals.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Dr. Amarda Shehu is the inaugural Chief Artificial Intelligence Officer at George Mason University. She discusses her groundbreaking role at Mason and the transformative impact of artificial intelligence on education, the workforce, and the economy on the Potomac Local News Podcast. "
+        },
+        {
+            "published_date": "2025-01-10T17:13:53",
+            "title": "Robots set to move beyond factory as AI advances",
+            "author": "John BIERS",
+            "url": "https://kdhnews.com/news/nation/robots-set-to-move-beyond-factory-as-ai-advances/article_1507e9ad-c3d6-5b4c-92e9-1dd34b5afda4.html",
+            "url_media": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/5/1b/51be8284-baeb-5b96-b821-647d2e045679/6781640d4d83e.image.jpg?crop=341%2C341%2C85%2C0&resize=200%2C200&order=crop%2Cresize",
+            "country": "US",
+            "language": "en",
+            "summary": "Today's robots perform safety checks at industrial plants, conduct quality control in manufacturing and are even starting to keep hospital patients company. But soon, increasingly humanlike machines will handle more sophisticated tasks, freeing up people and raising complex questions about the roles of artificial intelligence. "
+        },
+        {
+            "published_date": "2025-01-10T17:09:32",
+            "title": "AI's next big bet - AI Agents: These are the top Silicon Valley startups to watch out for",
+            "author": "",
+            "url": "https://www.msn.com/en-in/money/news/ai-s-next-big-bet-ai-agents-these-are-the-top-silicon-valley-startups-to-watch-out-for/ar-BB1reTBm",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "summary": "In the year 2025, artificial intelligence is all poised to transform the workplace with the introduction of AI agents. OpenAI CEO Sam Altman gave a prediction that these agents will'materially change' the company operations. Investors are enthusiastically backing this technological shift with startups exploring AI agent applications raising $8.2 billion in the year 2024."
+        },
+        {
+            "published_date": "2025-01-10T17:00:00",
+            "title": "Responsible AI Use in Journalism: Our commitment to transparency and ethical practices",
+            "author": "Nancy Niles",
+            "url": "https://www.wenatcheeworld.com/opinion/responsible-ai-use-in-journalism-our-commitment-to-transparency-and-ethical-practices/article_c3271fdc-ce22-11ef-a469-8f1e2398a52f.html",
+            "url_media": "https://bloximages.newyork1.vip.townnews.com/wenatcheeworld.com/content/tncms/assets/v3/editorial/8/40/8407a774-cee8-11ef-9a63-ffc64bcc1690/678068c595473.image.png?crop=1079%2C567%2C0%2C53&resize=1079%2C567&order=crop%2Cresize",
+            "country": "US",
+            "language": "en",
+            "summary": "Newsrooms are using artificial intelligence to analyze data, make grammar corrections and offer headline suggestions. It saves reporters and editors time to spend on the parts of their job that really need a human being, such as asking critical questions, conducting tough interviews and actual storytelling."
+        },
+        {
+            "published_date": "2025-01-10T17:00:00",
+            "title": "Bartow Business Women program eyes AI in marketing Jan. 28",
+            "author": "",
+            "url": "https://www.daily-tribune.com/news/bartow-business-women-program-eyes-ai-in-marketing-jan-28/article_c632b6f3-dcbe-5605-80c2-220ef05c8762.html",
+            "url_media": "https://bloximages.chicago2.vip.townnews.com/daily-tribune.com/content/tncms/assets/v3/editorial/1/69/169fb335-495d-5db2-8015-06cbcbf835cb/6781c06f3d852.image.jpg?crop=1096%2C575%2C0%2C87&resize=1096%2C575&order=crop%2Cresize",
+            "country": "US",
+            "language": "en",
+            "summary": "Kelly Biggs will deliver a presentation titled 'How to Use AI in Your Marketing to Save Time and Money' at Bartow Business Women's luncheon on Jan. 28 at 11:30 a.m. at the Cartersville-Bartow County Chamber of Commerce's Anheuser-Busch Community Room 122 W. Main St. in Carterville. The presentation will focus on how small and medium-sized businesses can harness the power of AI to streamline their marketing efforts and achieve measurable growth. Kelly Biggs is the owner of WSI Biggs Digital, which was established in 2019."
+        },
+        {
+            "published_date": "2025-01-10T16:57:09",
+            "title": "Against Induction From \"Silly People Thought X\"",
+            "author": "Bentham's Bulldog",
+            "url": "https://benthams.substack.com/p/against-induction-from-silly-people",
+            "url_media": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6b3e02f-922c-41f6-b3ba-41ecc8cd2919_768x675.webp",
+            "country": "US",
+            "language": "en",
+            "summary": "Sarah over at the blog longer ramblings has written an article called Are AI safetyists crying wolf? Sarah notes that claims that people predict every new kind of technology will end the world are greatly exaggerated. It's only reasonable to complain about overwrought fears from new technology if you can demonstrate that new technology is feared too much. The argument that we shouldn't take AI risk seriously because people have repeatedly thought new technology would ended the world is wrong on empirical grounds."
+        },
+        {
+            "published_date": "2025-01-10T16:55:04",
+            "title": "AI can enhance cervical cancer detection with medical image recognition",
+            "author": "Science X staff",
+            "url": "https://www.msn.com/en-us/health/other/ai-can-enhance-cervical-cancer-detection-with-medical-image-recognition/ar-BB1reY5D",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "summary": "WHO has set an ambitious target to screen 70% of women aged 35 to 45 by 2030. Cervical cancer remains a major health threat for women globally, with the highest incidence in developing nations. Researchers from the Chinese Academy of Medical Sciences and Peking Union Medical College have published a review in Cancer Biology & Medicine on the current and future applications of artificial intelligence in improving cervical cancer screening methods."
+        },
+        {
+            "published_date": "2025-01-10T16:53:34",
+            "title": "Thread by @dottxtai on Thread Reader App",
+            "author": "",
+            "url": "https://threadreaderapp.com/thread/1877760709246824919.html",
+            "url_media": "https://threadreaderapp.com/images/screenshots/thread/1877760709246824919.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "\"Agents\" are programs that operate without human interaction. They are autonomous and goal-oriented. They have different capabilities and flexibility. They can be programmed with an agent framework or written directly with Outlines or Structured Generation. They need to perceive something and react to it."
+        },
+        {
+            "published_date": "2025-01-10T16:38:58",
+            "title": "5 Unexpected Things You Should Be Using ChatGPT For, According to AI Expert",
+            "author": "Melissa Fleur Afshar",
+            "url": "https://www.newsweek.com/ai-expert-shares-unexpected-chatgpt-hacks-2013128",
+            "url_media": "https://d.newsweek.com/en/full/2561992/zaria-zinn-shares-her-five-chatgpt-hacks.png",
+            "country": "US",
+            "language": "en",
+            "summary": "Zaria Zinn, 28, is an AI expert and founder of Create.xyz, a company that helps people build software. Her TikTok post on ChatGPT has been viewed more than 414,000 times so far. She shares five useful AI-powered hacks with her followers."
+        },
+        {
+            "published_date": "2025-01-10T16:26:49",
+            "title": "BT Connect To Discuss Artificial Intelligence In Education",
+            "author": "Alexis Tarrazi",
+            "url": "https://patch.com/new-jersey/baskingridge/bt-connect-discuss-artificial-intelligence-education",
+            "url_media": "https://patch.com/img/cdn20/shutterstock/22871539/20250110/104934/styles/patch_image/public/shutterstock-683338024___10104924742.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "The BT Connect meeting will discuss Artificial Intelligence in Education on Wednesday, Jan. 22 from 7 to 8:30 p.m. at Ridge High School Cafeteria. The event will discuss various topics on AI in education including updates on the district's planning for AI."
+        },
+        {
+            "published_date": "2025-01-10T16:23:32",
+            "title": "OpenAI's Most Advanced AI Release Stumped by New York Times Word Game",
+            "author": "Futurism",
+            "url": "https://article.wn.com/view/2025/01/10/OpenAI_s_Most_Advanced_AI_Release_Stumped_by_New_York_Times_",
+            "url_media": "https://article.wn.com/view/2025/01/10/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "OpenAI's most advanced AI system failed a simple test of general intelligence. CEO Sam Altman claims that the company already has the building blocks for artificial general intelligence, but the test failed to reach the desired level of intelligence.  \"words that start with fire\" failed the test. "
+        },
+        {
+            "published_date": "2025-01-10T16:14:31",
+            "title": "‘Emotional support robot' Romi helps people fight loneliness and depression – but it comes with hefty price tag",
+            "author": "Carsen Holaday",
+            "url": "https://www.the-sun.com/tech/13266862/romi-robot-ai-ces",
+            "url_media": "https://www.the-sun.com/wp-content/uploads/sites/6/2025/01/JL_SUPPORT-ROBO-OP.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+            "country": "US",
+            "language": "en",
+            "summary": "Mixi Inc. created a conversation robot named Romi designed to comfort lonely people. Romi costs $570 plus a $12 monthly subscription fee. The robot is currently sold in Japan and can only speak Japanese, but some models are being sold on eBay for $446 to $531. There are no confirmed plans to expand the robot's range."
+        },
+        {
+            "published_date": "2025-01-10T16:13:00",
+            "title": "Simmons Cancer Institute is accepting research internship applications",
+            "author": "THE SOUTHERN STAFF",
+            "url": "https://thesouthern.com/life-entertainment/health/simmons-cancer-institute-is-accepting-research-internship-applications/article_f8cd3b1a-4f8a-5b4e-89ef-3f7f2ef4e7e2.html",
+            "url_media": "https://bloximages.chicago2.vip.townnews.com/thesouthern.com/content/tncms/assets/v3/editorial/0/65/06548680-24c4-518b-b126-2daa0de5cc8b/6781bcc6bb833.image.jpg?crop=630%2C331%2C0%2C149&resize=630%2C331&order=crop%2Cresize",
+            "country": "US",
+            "language": "en",
+            "summary": "Summer lab internships at Simmons Cancer Institute at Southern Illinois University School of Medicine are being accepted through Feb. 21. Four positions will be awarded on a competitive basis to qualified college students who plan a career in medicine or research with a focus on cancer. The paid internship program provides hands-on experience for college undergraduates. It is funded through Denim & Diamonds, the cancer institute's annual gala."
+        },
+        {
+            "published_date": "2025-01-10T16:01:28",
+            "title": "Wall Street analysts say these two unknown AI stocks could soar up to 108% in ...",
+            "author": "The Economic Times",
+            "url": "https://article.wn.com/view/2025/01/10/Wall_Street_analysts_say_these_two_unknown_AI_stocks_could_s_b",
+            "url_media": "https://i.ytimg.com/vi/mQyfavXGBkk/0.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "2024 has been all about Artificial Intelligence and related stocks. It's now time to focus on AI stocks.    - The list of potential AI-related stocks is now very long and it's time for AI stocks to be added to it. "
+        },
+        {
+            "published_date": "2025-01-10T15:54:17",
+            "title": "FREE ONE WEEK CAMP FOR HIGH SCHOOL STUDENTS INTERESTED IN CYBERSECURITY",
+            "author": "Barrett Seaman",
+            "url": "https://thehudsonindependent.com/free-one-week-camp-for-high-school-students-interested-in-cybersecurity",
+            "url_media": "https://thehudsonindependent.com/wp-content/uploads/2025/01/Gullotta-House-Plunge-003-740x300-1.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Pace University has a free camp for students interested in cybersecurity. It's a dynamic, interactive, and mission-driven camp that introduces high school students to the basics of cybersecurity. The camp is funded through a grant by the National Security Agency. Pauline Mosley and Pauline's Radio Show features Ethan Zhou who attended the camp. "
+        },
+        {
+            "published_date": "2025-01-10T15:54:00",
+            "title": "UNH researchers utilize AI to create database for 700 million northern lights images",
+            "author": "KC Downey",
+            "url": "https://www.wmur.com/article/unh-new-hampshire-ai-northern-lights-database/63393274",
+            "url_media": "https://kubrick.htvapps.com/vidthumb/24b0dfd0-2e57-41ca-b561-7738c77ace20/d0ea7b98-c065-42ea-b9be-ddee138404f5.jpg?crop=0.787xw:0.786xh;0.0561xw,0&resize=1200:*",
+            "country": "US",
+            "language": "en",
+            "summary": "Researchers at the University of New Hampshire are using AI to create a categorized database with photos of the aurora borealis. The database will have more than 706 million images labeled in six different categories, such as arc, diffuse, discrete, cloudy, moon and clear or no aurora."
+        },
+        {
+            "published_date": "2025-01-10T15:49:25",
+            "title": "Menarini Group and Insilico Medicine Enter a Second Exclusive Global License Agreement for an AI ...",
+            "author": "Canada Newswire",
+            "url": "https://article.wn.com/view/2025/01/10/Menarini_Group_and_Insilico_Medicine_Enter_a_Second_Exclusiv_y",
+            "url_media": "https://i.ytimg.com/vi/8L6GdEBmEUY/0.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "This is the second asset Menarini Group has inlicensed from Insilico Medicine. It is similar to the preclinical stage KAT6 inhibitor (MEN2312) licensed a year ago and which advanced. It's a highly selective and potentially best-in-class small molecule targeting cancers."
+        },
+        {
+            "published_date": "2025-01-10T15:44:47",
+            "title": "AI's groundbreaking role in medical advancements",
+            "author": "News Desk",
+            "url": "https://www.globalvillagespace.com/ais-groundbreaking-role-in-medical-advancements",
+            "url_media": "https://cbx57v6vu4bo.wpcdn.shift8cdn.com/wp-content/uploads/2025/01/1_-JLpoAwpdj_VyUxgKK4gQA.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial Intelligence (AI) is revolutionizing the medical field, revolutionizing drug discovery and improving diagnostic accuracy for complex conditions. AI's capacity to reduce costs and accelerate timelines could democratize treatment for rare and complex diseases, making life-saving therapies more accessible. Companies like Insilico Medicine and Recursion Pharmaceuticals are using AI to address diseases once considered untreatable."
+        },
+        {
+            "published_date": "2025-01-10T15:42:03",
+            "title": "AI-enabled technology is 98% accurate at spotting illegal contraband",
+            "author": "",
+            "url": "https://techxplore.com/news/2025-01-ai-enabled-technology-accurate-illegal.html",
+            "url_media": "https://scx2.b-cdn.net/gfx/news/hires/2024/container-port-1.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "AI-enabled technology is 98% accurate at spotting illegal contraband. In the U.S., more than 11 million containers arrive by sea, 11 million on trucks, and 2.7 million by rail each year. The method could also be applied in microscopy, medical research, disaster recovery, and quality control."
+        },
+        {
+            "published_date": "2025-01-10T15:39:00",
+            "title": "Menarini Group and Insilico Medicine Enter a Second Exclusive Global License Agreement for an AI Discovered Preclinical Asset Targeting High Unmet Needs in Oncology",
+            "author": "PR Newswire",
+            "url": "https://finance.yahoo.com/news/menarini-group-insilico-medicine-enter-153900218.html",
+            "url_media": "https://media.zenfs.com/en/prnewswire.com/5c61e35687d7da4ee478be0f4484acae",
+            "country": "US",
+            "language": "en",
+            "summary": "Stemline Therapeutics, Inc. and Insilico Medicine have entered into an exclusive licensing agreement granting Stemline the global rights to develop and commercialize a preclinical small molecule targeting high unmet needs in oncology. The deal includes a $20m upfront payment and the combined value of the deal is over $550 million."
+        },
+        {
+            "published_date": "2025-01-10T15:33:08",
+            "title": "George Mason Invests in AI Future: Dr. Amarda Shehu",
+            "author": "Uriah Kiser",
+            "url": "https://www.potomaclocal.com/2025/01/10/george-mason-invests-in-ai-future-dr-amarda-shehu-potomac-local-news-podcast",
+            "url_media": "https://www.potomaclocal.com/wp-content/uploads/2025/01/Copy-of-POD-Thumbnail-7.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Dr. Amarda Shehu is the inaugural Chief Artificial Intelligence Officer at George Mason University. Shehu discusses the transformative impact of artificial intelligence on education, the workforce, and the economy on the Potomac Local News Podcast. Listen to the full interview and join the conversation."
+        },
+        {
+            "published_date": "2025-01-10T15:11:17",
+            "title": "Leading European Fashion Retailer, Shoeby, Teams Up with Rezolve Ai to Revolutionize Digital Shopping with ...",
+            "author": "Nasdaq Globe Newswire",
+            "url": "https://article.wn.com/view/2025/01/10/Leading_European_Fashion_Retailer_Shoeby_Teams_Up_with_Rezol",
+            "url_media": "https://i.ytimg.com/vi/1Wdzodfx87s/0.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "AI-Powered Conversational Commerce Drive Customer Engagement, Reduce Cart Abandonment, and Boost Online Growth, according to a report by Google. It is used to drive customer engagement, reduce cart abandonment, and boost online growth. It reduces the need to buy a new item."
+        },
+        {
+            "published_date": "2025-01-10T15:00:00",
+            "title": "Embracing the evolution of AI in 2025 and beyond",
+            "author": "Dag Peak",
+            "url": "https://www.fastcompany.com/91257408/embracing-the-evolution-of-ai-in-2025-and-beyond",
+            "url_media": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2025/01/Embracing_the_evolution_of_AI_in_2025_and_beyond.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "In 2025, the focus will be on integrating AI with enterprise-specific data and knowledge. Flexibility is becoming the cornerstone of innovation. Organizations will be better positioned to harness the potential of AI's potential as it evolves. AI is no longer just a buzzword, but a force that will reshape how we work, think and create."
+        },
+        {
+            "published_date": "2025-01-10T14:59:20",
+            "title": "Menarini Group and Insilico Medicine Enter a Second Exclusive Global License Agreement for an AI Discovered Preclinical Asset Targeting High Unmet Needs in Oncology (A Menarini Industrie Farmaceutiche Riunite Srl)",
+            "author": "Public Technologies",
+            "url": "https://article.wn.com/view/2025/01/10/Menarini_Group_and_Insilico_Medicine_Enter_a_Second_Exclusiv_h",
+            "url_media": "https://i.ytimg.com/vi/8L6GdEBmEUY/0.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "This is the second asset Menarini Group has inlicensed from Insilico Medicine. It is similar to the preclinical stage KAT6 inhibitor (MEN2312) licensed a year ago and which advanced. It's a highly selective and potentially best-in-class small molecule targeting cancers."
+        },
+        {
+            "published_date": "2025-01-10T14:55:00",
+            "title": "U.S. Stock Market Faces Healthy Correction Amid Rising Economic Indicators",
+            "author": "Alphabiz",
+            "url": "https://www.msn.com/en-us/money/markets/u-s-stock-market-faces-healthy-correction-amid-rising-economic-indicators/ar-BB1reCYj",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "summary": "Recent analysis suggests the U.S. stock market is experiencing a healthy correction amid fluctuations. November's job openings and December's ISM services index suggest substantial employment and significant inflationary pressures. The second Trump administration is expected to prioritize promoting the AI industry through deregulation and support measures. Moon advises investors to capitalize on current market fluctuations by increasing their stakes in major tech stocks."
+        },
+        {
+            "published_date": "2025-01-10T14:53:00",
+            "title": "Streamline Photo Editing With AI Ease",
+            "author": "Tom White",
+            "url": "https://www.stltoday.com/exclusive/streamline-photo-editing-with-ai-ease/article_62c9b19a-7b58-5085-8f37-0121b0c86322.html",
+            "url_media": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/6/2c/62c9b19a-7b58-5085-8f37-0121b0c86322/67813430dd4a2.preview.png?crop=1520%2C798%2C0%2C108&resize=1200%2C630&order=crop%2Cresize",
+            "country": "US",
+            "language": "en",
+            "summary": "AI Ease is a free online photo editing tool that automates the background removal and replacement of photo backgrounds. It's useful for e-commerce product images, headshots, professional headshots and social media posts. AI Ease's background remover can be user-friendly and quick."
+        },
+        {
+            "published_date": "2025-01-10T14:50:29",
+            "title": "Sexy life-size AI robot that talks, expresses emotion can be your girlfriend for a hefty price: ‘It remembers who you are'",
+            "author": "Ben Cost",
+            "url": "https://nypost.com/2025/01/10/tech/sexy-life-size-ai-robot-that-talks-expresses-emotion-can-be-your-girlfriend-for-a-hefty-price-it-remembers-who-you-are",
+            "url_media": "https://nypost.com/wp-content/uploads/sites/2/2025/01/melody-open-source-robot-designed-96501079.jpg?quality=75&strip=all&w=1024",
+            "country": "US",
+            "language": "en",
+            "summary": "Melody is a life-sized AI robot designed by Realbotix for $175,000. She was on display at the 2025 Consumer Electronics Show in Las Vegas on Jan. 7. The company's CEO Andrew Kiguel wants to make robots indistinguishable from humans. The robot's functions are made possible by infusing it with a combination of AI and advanced motor technology."
+        },
+        {
+            "published_date": "2025-01-10T14:37:44",
+            "title": "Fear Sells",
+            "author": "The Grumpy Old Fart",
+            "url": "https://www.dailykos.com/stories/2025/1/10/2296142/-Fear-Sells",
+            "url_media": "https://cdn.prod.dailykos.com/images/1386364/story_image/ai-generated-8986416_1280.jpg?1736499380",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial intelligence (AI) has long been a topic of fascination and debate. Media outlets have ramped up the narrative that AI is dangerous. Similar scare stories have been told about computerized databases, speed cameras and facial recognition technology. The media's emphasis on fear can stifle meaningful conversations about how to responsibly innovate and use AI technology."
+        },
+        {
+            "published_date": "2025-01-10T14:36:11",
+            "title": "Researchers at UNH use AI to create categorized database of 700 million+ aurora borealis images",
+            "author": "WMUR",
+            "url": "https://www.yahoo.com/news/researchers-unh-ai-create-categorized-143611298.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/NhYWH4WFWEpwZUGlJqycew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/video.wmur.hearstnews.com/5de5b4b89a3d8c92460c32b859f346d5",
+            "country": "US",
+            "language": "en",
+            "summary": "Researchers at UNH are using AI to create a categorized database with photos of the aurora borealis using AI and other techniques. They hope to create the database by the end of the year. It will be called the Aurora Borealis Categorized Database."
+        },
+        {
+            "published_date": "2025-01-10T14:15:00",
+            "title": "Council Post: AI: Amplifying Human Ingenuity",
+            "author": "Ramiro Gonzalez Forcada",
+            "url": "https://www.forbes.com/councils/forbestechcouncil/2025/01/10/ai-amplifying-human-ingenuity",
+            "url_media": "https://imageio.forbes.com/specials-images/imageserve/677fe237ffa865c2eb4e7938/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "country": "US",
+            "language": "en",
+            "summary": "Ramiro Gonzalez Forcada is CEO and founder of The Flock, a company that connects tech talent with business vision. He believes that AI's most immediate impact lies in operational excellence. AI's future will be defined by how much it allows humans to connect ideas, take risks and dream of solutions that didn't exist before."
+        },
+        {
+            "published_date": "2025-01-10T14:11:58",
+            "title": "A post from Grandpa Boathouse in Jacksonville.",
+            "author": "",
+            "url": "https://www.news4jax.com/pins/p/6e5717fe-643b-4eed-ad52-167fdc3b8fec",
+            "url_media": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_scale,w_1280/media/pins/6e5717fe-643b-4eed-ad52-167fdc3b8fec",
+            "country": "US",
+            "language": "en",
+            "summary": "At WJXT, we are committed to informing and delighting our audience. We incorporate Artificial Intelligence (AI) technologies to enhance our news gathering, reporting, and presentation processes. Read our article to see how we are using Artificial Intelligence. If you need help with the Public File, call (904) 393-9801."
+        },
+        {
+            "published_date": "2025-01-10T14:07:37",
+            "title": "FACT CHECK: Facebook Video Purporting To Show Robot Cutting Elon Musk's Hair Is AI-Generated",
+            "author": "",
+            "url": "http://checkyourfact.com/2025/01/10/fact-check-video-robot-musks-hair-ai",
+            "url_media": "https://cdn01.dailycaller.com/wp-content/uploads/2025/01/GettyImages-2188387811-scaled-e1736361080237.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "A video shared on Facebook purports to show a robot cutting Tesla CEO and owner of X, Elon Musk's hair. The claim is false. Check Your Fact performed a content detection scan using the website TrueMedia.org and found some evidence of manipulation. An AI expert from the University of Notre Dame also denied the video's authenticity."
+        },
+        {
+            "published_date": "2025-01-10T14:03:29",
+            "title": "How to write with AI and stay 100% human, with Alexandra Samuel",
+            "author": "Pete Pachal",
+            "url": "https://mediacopilot.substack.com/p/integrating-ai-ushers-in-a-new-era",
+            "url_media": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F154520859%2F92f68bdd-99dd-4a46-9a96-eb806f546534%2Ftranscoded-1736480466.png",
+            "country": "US",
+            "language": "en",
+            "summary": "This week on The Media Copilot, I'm joined by Alexandra Samuel, author, data journalist and keynote speaker on the intersection of creativity and AI. Alexandra is currently writing her next book on managing information overload. She's producing at a lightning pace, writing 50,000 words in just over a week."
+        },
+        {
+            "published_date": "2025-01-10T14:02:03",
+            "title": "Teaching robots empathy to enhance human interaction",
+            "author": "James Cook University",
+            "url": "https://techxplore.com/news/2025-01-robots-empathy-human-interaction.html",
+            "url_media": "https://scx2.b-cdn.net/gfx/news/hires/2024/robot.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Professor Bouchra Senadji is Head of Engineering at James Cook University and co-author of a study investigating the role of empathy in long-term human-robot interactions. The paper is published in the International Journal of Social Robotics. She says robots are increasingly used to support childhood learning and development, and in senior care to support older adults."
+        },
+        {
+            "published_date": "2025-01-10T14:01:19",
+            "title": "Menarini Group and Insilico Medicine Enter a Second Exclusive Global License Agreement for an ...",
+            "author": "Stemline Therapeutics",
+            "url": "https://www.enidnews.com/region/menarini-group-and-insilico-medicine-enter-a-second-exclusive-global-license-agreement-for-an/article_86433704-2cf4-5464-a0f0-200d9d980e57.html",
+            "url_media": "https://bloximages.chicago2.vip.townnews.com/enidnews.com/content/tncms/custom/image/274f102e-c5aa-11e8-8594-87a63e6d4522.jpg?resize=600%2C315",
+            "country": "US",
+            "language": "en",
+            "summary": "Stemline Therapeutics, Inc. and Insilico Medicine have entered into an exclusive licensing agreement granting Stemline the global rights to develop and commercialize a preclinical small molecule targeting high unmet needs in oncology. The deal includes a $20 million upfront payment and the combined value of the deal is over $550 million."
+        },
+        {
+            "published_date": "2025-01-10T14:00:33",
+            "title": "The Prototype: Study Suggests AI Tools Decrease Critical Thinking Skills",
+            "author": "Alex Knapp",
+            "url": "https://www.forbes.com/sites/alexknapp/2025/01/10/the-prototype-study-suggests-ai-tools-decrease-critical-thinking-skills",
+            "url_media": "https://imageio.forbes.com/specials-images/imageserve/678062a9b944ea2bb3c676ea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "country": "US",
+            "language": "en",
+            "summary": "This week on The Prototype, we look at how too much reliance on AI assistants could make it harder to think, a company building bioengineered arteries, the role viruses play in Alzheimer's, and a plan to conduct future studies on repeated blows to the head."
+        },
+        {
+            "published_date": "2025-01-10T14:00:00",
+            "title": "Find out how AI can save you time at work (or do your job for you) in 2025",
+            "author": "Stack Commerce",
+            "url": "https://nypost.com/2025/01/10/shopping/1minai-advanced-business-plan-lifetime-subscription-is-85-off",
+            "url_media": "https://nypost.com/wp-content/uploads/sites/2/2025/01/1minfeat.jpg?quality=75&strip=all&w=1024",
+            "country": "US",
+            "language": "en",
+            "summary": "1minAI's Advanced Business Plan lifetime subscription is 81% off until January 12 at 11:59 PM Pacific. New Year's price drop ends in two days. AI is a virtual robot that answers questions and solves problems. It can generate articles, images, transcriptions, PDFs and voice-overs from text."
+        },
+        {
+            "published_date": "2025-01-10T14:00:00",
+            "title": "Pittsfield school officials have developed a strategic plan that emphasizes teaching human skills that AI can't replace",
+            "author": "Greg Sukiennik",
+            "url": "https://www.berkshireeagle.com/news/central_berkshires/school-committee-pittsfield-strategic-plan/article_55631d4e-cea8-11ef-bb82-f77ca14a68f3.html",
+            "url_media": "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/assets/v3/editorial/7/96/796d7d7e-ce1c-11ef-a660-d3904e5b5503/677f112c54116.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "country": "US",
+            "language": "en",
+            "summary": "The School Committee voted to accept the first strategic plan for the Pittsfield Public Schools. The plan was developed by a panel of 30 educators, parents and administrators in a process that started in 2023. It takes its cues from the district's mission statement and the Berkshire Portrait of a Graduate developed by Berkshire Education Resources K12."
+        },
+        {
+            "published_date": "2025-01-10T13:41:20",
+            "title": "On Dwarkesh Patel's 4th Podcast With Tyler Cowen",
+            "author": "Zvi Mowshowitz",
+            "url": "https://thezvi.substack.com/p/on-dwarkesh-patels-4th-podcast-with",
+            "url_media": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43693261-3b91-4bd3-98a1-abb0438ff844_983x382.png",
+            "country": "US",
+            "language": "en",
+            "summary": "Dwarkesh interviewed Tyler Cowen about AI and economic growth. Tyler predicts 0.5%/year additional RGDP growth from AI. Dwarkesh argues that AI won't accelerate GDP growth much. Tyler points to cost disease as a reason why AI can't grow the economy. AI can help reduce labor costs and free up valuable human capital."
+        },
+        {
+            "published_date": "2025-01-10T13:34:24",
+            "title": "‘Distrust and verify': Marines warily embrace generative AI with new guidance, task forces",
+            "author": "Sydney J. Freedberg Jr.",
+            "url": "https://breakingdefense.com/2025/01/distrust-and-verify-marines-warily-embrace-generative-ai-with-new-guidance-task-forces",
+            "url_media": "https://breakingdefense.com/wp-content/uploads/sites/3/2025/01/250109_marine_computer_hawaii_1042582-scaled-e1736454587761-1024x577.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "The Marine Corps has issued its marching orders on how to safely implement the new generative AI technology. The new policy gives commanders a new to-do list for 2025. The most open-ended item is the mention of task forces, whose full assignment will be detailed in forthcoming policy."
+        },
+        {
+            "published_date": "2025-01-10T13:34:11",
+            "title": "AI robot girlfriend unveiled at the 2025 Consumer Electronics Show in Las Vegas",
+            "author": "",
+            "url": "https://nypost.com/video/ai-robot-girlfriend-unveiled-at-the-2025-consumer-electronics-show-in-las-vegas",
+            "url_media": "https://nypost.com/wp-content/uploads/sites/2/2025/01/wp-thumb_2d987f.png?w=1024",
+            "country": "US",
+            "language": "en",
+            "summary": "Researchers have created a life-sized AI robot to tackle the loneliness epidemic. The robot costs $175,000 and is based on a robot from 'Terminator 2'. It's designed to look like a sexy cybernetic companion. It's called 'Lonely AI Robot'."
+        },
+        {
+            "published_date": "2025-01-10T13:20:03",
+            "title": "WhatsApp really hopes you want to talk with AI bots",
+            "author": "Dominic Preston",
+            "url": "https://www.theverge.com/2025/1/10/24340539/whatsapp-beta-ai-chatbot-tab",
+            "url_media": "https://cdn.vox-cdn.com/thumbor/TTHtVMuyLgJ0BaAei235MWPocJE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24062761/STK110_whats_app_Kradtke_02.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "WhatsApp is testing a new design that gives prominent space to a suite of AI chatbots. The design is currently only accessible through the app's Android beta. Other AI-powered features within WhatsApp include AI-generated images and stickers and a search tool using Meta AI. WhatsApp beta is available through Google Play."
+        },
+        {
+            "published_date": "2025-01-10T13:12:22",
+            "title": "Super Micro Stock Rebounds Ahead of Critical Filing Deadline",
+            "author": "Nauman khan",
+            "url": "https://finance.yahoo.com/news/super-micro-stock-rebounds-ahead-131222536.html",
+            "url_media": "https://media.zenfs.com/en/us.finance.gurufocus/fc0c11a1bbd769fcd3f6137f495fb16d",
+            "country": "US",
+            "language": "en",
+            "summary": "Shares of Super Micro Computer were up 1.5% in premarket trading Friday to $33. The company has come under pressure for delayed financial filings stemming from an internal review of its reporting controls. The key to restoring investor confidence is that Super Micro has to produce its accounts by February 25."
+        },
+        {
+            "published_date": "2025-01-10T13:00:00",
+            "title": "10 Things You Didn't Know ChatGPT Could Do",
+            "author": "Jodie Cook",
+            "url": "https://www.forbes.com/sites/jodiecook/2025/01/10/10-things-you-didnt-know-chatgpt-could-do",
+            "url_media": "https://imageio.forbes.com/specials-images/imageserve/677f6198aa799959f0f8a57e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "country": "US",
+            "language": "en",
+            "summary": "ChatGPT is a powerful AI tool that can help you improve your business. Here are ten useful uses of ChatGPT that you might not have considered. ChatGpt can create custom keyboard shortcut guides for any software you use. It can scan terms and conditions to flag concerning clauses in new contracts and help with search engine optimization."
+        },
+        {
+            "published_date": "2025-01-10T13:00:00",
+            "title": "LETTER: AI to be replaced by AGI; then what?",
+            "author": "",
+            "url": "https://www.fltimes.com/opinion/letters_to_editor/letter-ai-to-be-replaced-by-agi-then-what/article_6b071a10-a752-11ef-979a-b79b3108283d.html",
+            "url_media": "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/custom/image/b0352330-9d33-11e5-a934-9bac0af3ff38.jpg?resize=600%2C315",
+            "country": "US",
+            "language": "en",
+            "summary": "Ray Kurzweil predicts that Artificial General Intelligence will arrive before 2029. We have been brainwashed into believing that men are natural leaders since birth. We are dangerously slow to recognize that women are not better at governance than men. GPT5 is said to be a quantum leap ahead of GPT4. Sycamore performed a calculation within seconds that would have taken the world's most powerful super computer 47 years."
+        },
+        {
+            "published_date": "2025-01-10T12:56:06",
+            "title": "ChatGPT is getting powerful new custom personalities – and they could change how you use the AI chatbot",
+            "author": "Graham Barlow",
+            "url": "https://www.msn.com/en-gb/money/technology/chatgpt-is-getting-powerful-new-custom-personalities-and-they-could-change-how-you-use-the-ai-chatbot/ar-BB1reLLY",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "summary": "Some ChatGPT users have reported seeing new options in the Customize section of the chatbot. The new options feature personality traits like 'Chatty', 'Skeptical' and 'Forward thinking'. It's unclear if OpenAI is going to beef up the ways you can customize ChatGpt or if it is just giving you suggestions for ways of customizing it that already exist."
+        },
+        {
+            "published_date": "2025-01-10T12:45:50",
+            "title": "WhatsApp Might Soon Let You Create Personalised AI Characters",
+            "author": "NDTV",
+            "url": "https://article.wn.com/view/2025/01/10/WhatsApp_Might_Soon_Let_You_Create_Personalised_AI_Character",
+            "url_media": "https://i.ytimg.com/vi/Es_uQAQkNXo/0.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "WhatsApp for Android is working on an artificial intelligence (AI) feature that will let users create personalised AI characters within the app, as per a claim by a feature tracker. The new feature is expected to be available in the next few months. "
+        },
+        {
+            "published_date": "2025-01-10T12:35:56",
+            "title": "Using AI for crime: What tech companies are doing to stop it",
+            "author": "Dominga Murray",
+            "url": "https://www.fox4now.com/news/local-news/using-ai-for-crime-what-tech-companies-are-doing-to-stop-it",
+            "url_media": "https://ewscripps.brightspotcdn.com/dims4/default/f886daf/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fause%2Fslices%2F1ca%2F1fc9d2805b3e4e6c81b38049210ea338%2F1ca9d911459d47779d664f8e1192e4ff%2Fposter_944dc640a50c447c9f9b82020eb91182.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial intelligence has the potential to change many things in our lives. Professor Chrisann Ruehle teaches the ethics of artificial intelligence at Florida Gulf Coast University. She believes AI companies are starting to tweak the algorithms so the technology is not used to harm people in the future."
+        },
+        {
+            "published_date": "2025-01-10T12:30:00",
+            "title": "Council Post: How Nonprofits Are Scaling Impact With AI Agents",
+            "author": "Suzanne Di Bianca",
+            "url": "https://www.forbes.com/councils/forbesbusinessdevelopmentcouncil/2025/01/10/how-nonprofits-are-scaling-impact-with-ai-agents",
+            "url_media": "https://imageio.forbes.com/specials-images/imageserve/64380b9cf62710e3f921d3ea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "country": "US",
+            "language": "en",
+            "summary": "Suzanne DiBianca is EVP and Chief Impact Officer at Salesforce. She believes AI agents can help nonprofits scale their impact and do more with less. Salesforce has launched an Agentforce accelerator, Agents for Impact, to help nonprofits enhance their operations. "
+        },
+        {
+            "published_date": "2025-01-10T12:21:46",
+            "title": "Will Generation Beta be at mercy of AI? South Florida experts predict future of newest age group",
+            "author": "Lisa J. Huriash",
+            "url": "https://www.sun-sentinel.com/2025/01/10/south-florida-experts-make-predictions-for-generation-beta",
+            "url_media": "https://www.sun-sentinel.com/wp-content/uploads/2025/01/tfl-l-broward-first-baby-2025-2.jpg?w=1024&h=736",
+            "country": "US",
+            "language": "en",
+            "summary": "Generation Beta, which began on January 1, 25th, goes through 2039. Many Gen Betas will live to see the 22nd century before they've retired. They follow the Boomers, Generation X and Generation Y. Arie Greenleaf, a professor in the College of Psychology at Nova Southeastern University, predicts the next generation will be more reliant on artificial intelligence. Emi Guerra, co-founder of Miami-based Breakwater Hospitality Group, thinks the reason people go out today is going to be different from it was 30 years ago."
+        },
+        {
+            "published_date": "2025-01-10T12:21:46",
+            "title": "Oh baby, South Florida experts make predictions for Generation Beta",
+            "author": "Lisa J. Huriash",
+            "url": "https://www.sun-sentinel.com/2025/01/10/oh-baby-south-florida-experts-make-predictions-for-generation-beta",
+            "url_media": "https://www.sun-sentinel.com/wp-content/uploads/2025/01/tfl-l-broward-first-baby-2025-2.jpg?w=1024&h=736",
+            "country": "US",
+            "language": "en",
+            "summary": "Generation Beta, which began on January 1, 25th, goes through 2039. Many Gen Betas will live to see the 22nd century before they've retired. Arie Greenleaf, an NSU professor in the College of Psychology, predicts the next generation will be more reliant on artificial intelligence. Albert Williams, an economic professor at NSU, is teaching Generation Alpha. Emi Guerra is co-founder of Breakwater Hospitality Group, which owns food and cocktail businesses in South Florida. "
+        },
+        {
+            "published_date": "2025-01-10T12:15:00",
+            "title": "UiPath Stock Was Down 50% in 2024, but Could Artificial Intelligence (AI) Agents Turn It Around in 2025?",
+            "author": "Keithen Drury",
+            "url": "https://www.msn.com/en-us/money/savingandinvesting/uipath-stock-was-down-50-in-2024-but-could-artificial-intelligence-ai-agents-turn-it-around-in-2025/ar-BB1rfleO",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "summary": "UiPath (NYSE: PATH) hasn't had a great run over the past few years. Its primary business is software for robotic process automation (RPA). In the third quarter, revenue only rose 9% year over year, while the dollar-based net retention rate (how much money existing customers spent this year versus last year) came in at 113%."
+        },
+        {
+            "published_date": "2025-01-10T12:00:00",
+            "title": "On Leadership",
+            "author": "Suzanna De Baca",
+            "url": "https://www.businessrecord.com/the-future-is-human-why-soft-skills-will-rule-the-workplace-in-2025",
+            "url_media": "https://www.businessrecord.com/wp-content/uploads/2024/11/Suzanna-de-Baca-column-graphic.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Leading effectively in the future will require more than strategy and sharp intellect. Emotional intelligence, civility, and an insatiable thirst for learning will be the cornerstones of success. According to Korn Ferry research, 71% of CEOs grapple with imposter syndrome. Incivility in the workplace is contagious and erodes morale and productivity."
+        },
+        {
+            "published_date": "2025-01-10T11:46:39",
+            "title": "How Artificial Intelligence Is Transforming The Job Market: A Guide To Adaptation And Career Transformation",
+            "author": "Forbes",
+            "url": "https://article.wn.com/view/2025/01/10/How_Artificial_Intelligence_Is_Transforming_The_Job_Market_A",
+            "url_media": "https://article.wn.com/view/2025/01/10/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "I aim to explore whether AI poses a threat to the job market or if it could serve as a catalyst for its complete transformation. I will write a book on the topic.       for a book project called \"Artificial Intelligence and the Job Market\"."
+        },
+        {
+            "published_date": "2025-01-10T11:46:00",
+            "title": "Teaching Robots Emotional Intelligence",
+            "author": "Mirage News",
+            "url": "https://www.miragenews.com/teaching-robots-emotional-intelligence-1388842",
+            "url_media": "https://cdn1.miragenews.com/wp-content/uploads/2017/11/news-developments.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Professor Bouchra Senadji is Head of Engineering at James Cook University and co-author of a study investigating the role of empathy in long-term human-robot interactions. She says robots are increasingly used to support childhood learning and development, and in senior care to support older adults. Previous studies have shown that robots have difficulties in sustaining human engagement over time."
+        },
+        {
+            "published_date": "2025-01-10T11:30:01",
+            "title": "A Minecraft-based benchmark to train and test multi-modal multi-agent systems",
+            "author": "Ingrid Fadelli",
+            "url": "https://techxplore.com/news/2025-01-minecraft-based-benchmark-multi-modal.html",
+            "url_media": "https://scx2.b-cdn.net/gfx/news/hires/2025/a-minecraft-based-benc-1.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "TeamCraft is a new open-world environment for the training and evaluation of algorithms for embodied artificial intelligence (AI) agents. It is based on the popular videogame Minecraft. TeamCraft can be used to train algorithms on four different types of tasks, namely building, clearing, farming and smelting. It also helps evaluate existing vision-language models."
+        },
+        {
+            "published_date": "2025-01-10T11:30:00",
+            "title": "Will Palantir's Stock Double in 2025? Here's 1 Metric That Gives a Clear Indication",
+            "author": "Keithen Drury",
+            "url": "https://finance.yahoo.com/news/palantirs-stock-double-2025-heres-113000240.html",
+            "url_media": "https://media.zenfs.com/en/motleyfool.com/226b9c0057aaca877a58ce052eaab03c",
+            "country": "US",
+            "language": "en",
+            "summary": "Palantir Technologies (NASDAQ: PLTR) was one of the hottest artificial intelligence (AI) stocks of 2024. Its stock jumped 340% in 2024, meaning it more than quadrupled in value in just one year. Palantir is an AI company that provides purpose-built solutions for its clients. Its revenue increased 30% year over year this last quarter, but the stock rose 340% for the year. The company is profitable, producing around 20% profit margins. It trades at 69 times sales."
+        },
+        {
+            "published_date": "2025-01-10T11:30:00",
+            "title": "Council Post: How Artificial Intelligence Is Transforming The Job Market: A Guide To Adaptation And Career Transformation",
+            "author": "Adrian Stelmach",
+            "url": "https://www.forbes.com/councils/forbestechcouncil/2025/01/10/how-artificial-intelligence-is-transforming-the-job-market-a-guide-to-adaptation-and-career-transformation",
+            "url_media": "https://imageio.forbes.com/specials-images/imageserve/677fc8e615f71cfd4641ad24/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "country": "US",
+            "language": "en",
+            "summary": "Adrian Stelmach is the founder and CEO of EXPLITIA. He is concerned about the impact of artificial intelligence (AI) on the job market. He argues that AI has the potential to reshape economies by enabling the creation of added value across multiple levels."
+        },
+        {
+            "published_date": "2025-01-10T11:21:07",
+            "title": "Nvidia's AI agents, Delta's play, and insurance denials: AI news roundup",
+            "author": "",
+            "url": "https://dnyuz.com/2025/01/10/nvidias-ai-agents-deltas-play-and-insurance-denials-ai-news-roundup",
+            "url_media": "https://dnyuz.com/wp-content/uploads/2025/01/Nvidias-AI-agents-Deltas-play-and-insurance-denials-AI-news.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "The tech world is focused on Las Vegas this week as companies show the industry's future at the Consumer Electronics Show. Nvidia CEO Jensen Huang delivered a keynote to open the event in his signature leather jacket. Sam Altman was briefly fired as OpenAI chief executive. "
+        },
+        {
+            "published_date": "2025-01-10T11:20:00",
+            "title": "Editor's notebook: AI in health care shows promise but raises equity concerns",
+            "author": "Alexis Muellner",
+            "url": "https://www.bizjournals.com/tampabay/news/2025/01/10/health-equity-concerns-evident-in-ai-strategy.html",
+            "url_media": "https://media.bizj.us/view/img/12901277/ai-health-care-roundtabe2024cdwgroup-shot*1200xx5139-2896-333-292.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial intelligence is advancing in health care and has major potential, but it also has risks. AI tools may provide access to better care in low-resource countries. Some companies are leveraging AI for radiology services, promising improved scan accuracy with an up-charge."
+        },
+        {
+            "published_date": "2025-01-10T10:47:02",
+            "title": "AI agents are here. Here's how AI startup Cohere is deploying them for consultants and other businesses.",
+            "author": "Lakshmi Varanasi",
+            "url": "https://africa.businessinsider.com/news/ai-agents-are-here-heres-how-ai-startup-cohere-is-deploying-them-for-consultants-and/pw1w9ms",
+            "url_media": "https://ocdn.eu/pulscms-transforms/1/hHyktkuTURBXy9jYTQxZTA1ZS0yODg4LTQyZDEtYmJjMS1mNWFiYmU0NjhlNmEuanBlZ5GTBc0EsM0Cdg",
+            "country": "US",
+            "language": "en",
+            "summary": "Cohere, an AI startup focused on enterprise technology, unveiled North on Thursday. North is an all-in-one platform combining large language models, multimodal search, and agents to help its customers work more efficiently with AI. Cohere is now deploying North to a small set of companies in finance, healthcare, and critical infrastructure as it continues to refine the platform."
+        },
+        {
+            "published_date": "2025-01-10T10:47:02",
+            "title": "AI agents are here. Here's how AI startup Cohere is deploying them for consultants and other businesses.",
+            "author": "",
+            "url": "https://www.msn.com/en-ie/money/companies/ai-agents-are-here-here-s-how-ai-startup-cohere-is-deploying-them-for-consultants-and-other-businesses/ar-BB1rdubV",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "summary": "Cohere has launched a new AI platform called North. North allows users to quickly deploy AI agents to execute tasks across various business sectors. Cohere is now deploying North to a small set of companies in finance, healthcare, and critical infrastructure. There is no set date for when it will make the platform available more widely."
+        },
+        {
+            "published_date": "2025-01-10T10:30:00",
+            "title": "The L.A. wildfires show how social media has become just another spin room",
+            "author": "Joseph Bien-Kahn",
+            "url": "https://www.fastcompany.com/91258156/la-wildfires-social-media-spin-room",
+            "url_media": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2025/01/p-1-91258156-Social-Media-Has-Become-a-Spin-Room.-Thats-a-Problem-During-a-Natural-Disaster.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "There was a time when Twitter was used as a source of breaking news. Now it's used to promote political talking points. The wildfire in Los Angeles was little more than a rhetorical tool to win existing arguments, to dunk on enemies, and to serve political points."
+        },
+        {
+            "published_date": "2025-01-10T10:02:25",
+            "title": "Fighting Deep Fakes",
+            "author": "",
+            "url": "https://lasvegassun.com/photos/galleries/2025/jan/10/fighting-deep-fakes",
+            "url_media": "https://media.lasvegassun.com/media/img/photos/2025/01/09/0109_sun_CES_DeepFakes06.JPG",
+            "country": "US",
+            "language": "en",
+            "summary": "A panel discusses deepfakes, disinformation and misinformation at CES 2025 on Thursday, Jan. 9, 2025. The panel consists of German Lancioni, chief AI scientist at McAfee, Daniela Braga, founder and CEO of Defined.ai, Andy Parsons, senior director of the Content Authenticity Initiative at Adobe, and Amy Henninger, senior advisor in advanced computing with the Department of Homeland Security's Science and Technology Directorate."
+        },
+        {
+            "published_date": "2025-01-10T10:01:03",
+            "title": "History predicts Nasdaq surge in 2025: Top AI stocks to buy today",
+            "author": "Danny Vena",
+            "url": "https://www.usatoday.com/story/money/investing/2025/01/10/nasdaq-artificial-intelligence-stocks-2025/77373600007",
+            "url_media": "https://www.gannett-cdn.com/authoring/images/motleyfool/2025/01/01/USAT/77373598007-a-person-in-business-attire-drawing-an-arrow-with-an-upward-trajectory-marked-2025.jpeg?auto=webp&crop=2748,1545,x1,y0&format=pjpg&width=1200",
+            "country": "US",
+            "language": "en",
+            "summary": "History predicts Nasdaq surge in 2025. Top AI stocks to buy today are Palantir Technologies (NASDAQ: PLTR), Broadcom (NASADA: AVGO) and Microsoft. The economic impact of generative AI is expected to be as much as $15.7 trillion by 2030."
+        },
+        {
+            "published_date": "2025-01-10T09:56:03",
+            "title": "Shocking Revelation: GenAI Allegedly Used to Plot Cybertruck Explosion",
+            "author": "Jammuna",
+            "url": "https://publishedreporter.com/2025/01/10/shocking-revelation-genai-allegedly-used-to-plot-cybertruck-explosion",
+            "url_media": "https://publishedreporter.com/wp-content/uploads/2025/01/%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A5%87%E0%A4%82%E0%A4%9F-%E0%A4%8F%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A5%8B%E0%A4%AF%E0%A5%80-%E0%A4%95%E0%A4%BE-%E0%A4%A8%E0%A4%BE%E0%A4%AE-%E0%A4%95%E0%A5%88%E0%A4%B8%E0%A5%87-%E0%A4%AC%E0%A4%A6%E0%A4%B2%E0%A5%87%E0%A4%82.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Matthew Alan Livelsberger, a 37-year-old active-duty Green Beret, used a chatbot called ChatGPT to work out how much explosive was needed to trigger a Tesla Cybertruck explosion on New Year's Day in Las Vegas. It is the first documented case of AI being used to build an explosive device on US soil. The incident raises concerns about the implications of AI technology in criminal activities."
+        },
+        {
+            "published_date": "2025-01-10T09:53:00",
+            "title": "Artificial Intelligence (AI) In Banking Market Forecasts 2025-2030: Growth Opportunities, Challenges, Regulatory Framework, Customer Behaviour, and Trend Analysis",
+            "author": "Research",
+            "url": "https://uk.finance.yahoo.com/news/artificial-intelligence-ai-banking-market-095300514.html",
+            "url_media": "https://media.zenfs.com/en/globenewswire.com/e151c30fb7e6b382b5eba15ae9215ec9",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial Intelligence (AI) in the banking market is estimated to grow at a CAGR of 17.96%, attaining US$75.357 billion by 2030, from US$32.988 billion in 2025. The growth of AI in China's banking sector is a phenomenal development in terms of technology and strategy for the industry. "
+        },
+        {
+            "published_date": "2025-01-10T09:45:00",
+            "title": "Artificial Intelligence (AI), Quantum Computing, and RoboTaxis: Here's 1 \"Magnificent Seven\" Stock That Has It All",
+            "author": "Keith Speights",
+            "url": "https://finance.yahoo.com/news/artificial-intelligence-ai-quantum-computing-094500001.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/AuP4AfBZGt8GYwDYoW50Dg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/c33e2d0e7845c947afe6733e9d49e946",
+            "country": "US",
+            "language": "en",
+            "summary": "Alphabet is one of the Magnificent Seven stocks to buy now. It is a leader in AI, autonomous ride-hailing services, quantum computing, and robotaxis. Its stock is also one of cheapest based on growth prospects. It has a lower PEG ratio than any other Magnificent 7 stock."
+        },
+        {
+            "published_date": "2025-01-10T09:30:00",
+            "title": "2 Reasons to Buy Palantir Stock Like There's No Tomorrow",
+            "author": "Harsh Chauhan",
+            "url": "https://finance.yahoo.com/news/2-reasons-buy-palantir-stock-093000316.html",
+            "url_media": "https://media.zenfs.com/en/motleyfool.com/c4e3175aeaac2a1c46670905c5229a67",
+            "country": "US",
+            "language": "en",
+            "summary": "Palantir Technologies (NASDAQ: PLTR) stock's surge of 372% in 2024 has made the stock extremely expensive. Wall Street is expecting Palantir stock to dip in the coming year. However, the company's growth has accelerated in recent quarters thanks to the fast-growing demand for its Artificial Intelligence Platform (AIP)."
+        },
+        {
+            "published_date": "2025-01-10T09:30:00",
+            "title": "Meet Alibaba's AI coder: an automated system that can build an app 'in minutes'",
+            "author": "South China Morning Post",
+            "url": "https://uk.news.yahoo.com/meet-alibabas-ai-coder-automated-093000430.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/HrLhy493cnp_0zci0ITTBw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/south_china_morning_post_us_228/5ddf77cc718939c9fcf0bde5b735d633",
+            "country": "US",
+            "language": "en",
+            "summary": "Alibaba's cloud computing unit launched a novel artificial intelligence (AI) coder that is capable of building an application \"in minutes\". It is powered by Alibaba Cloud's Tongyi Qianwen family of large language models (LLMs) - the technology behind generative AI (GenAI) services like ChatGPT. It improves code development efficiency \"by over 10 times\" and supports VS Code and JetBrains IDEs."
+        },
+        {
+            "published_date": "2025-01-10T09:10:57",
+            "title": "NVIDIA Cosmos and Omniverse: Simulating The World For AI Brains",
+            "author": "Interesting Engineering",
+            "url": "https://interestingengineering.com/videos/nvidia-cosmos-and-omniverse-simulating-the-world-for-ai-brains",
+            "url_media": "https://cms.interestingengineering.com/wp-content/uploads/2025/01/WEB-25.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "In this exclusive interview, we get the scoop on NVIDIA's dive into robotics and AI technology. Watch for more details on their physical AI platform, Cosmos, working in sync with their simulation technology platform, Omniverse, to facilitate humanoid robot interaction in a factory space."
+        },
+        {
+            "published_date": "2025-01-10T09:00:00",
+            "title": "Here come the AI agents",
+            "author": "Emily Peck",
+            "url": "https://www.msn.com/en-us/news/technology/here-come-the-ai-agents/ar-BB1rdiTu",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "summary": "Some companies are already experimenting with AI agents in limited pilot programs. Most experts agree that agents will change the nature of work over the coming years. Humans are moving more slowly than the technology. Companies will have to adjust operations to accommodate AI workers.   . "
+        },
+        {
+            "published_date": "2025-01-10T08:12:27",
+            "title": "Aetina Works with Qualcomm to Advance Edge AI with Groundbreaking On-Prem Solutions",
+            "author": "PR Newswire",
+            "url": "https://www.eagletribune.com/region/aetina-works-with-qualcomm-to-advance-edge-ai-with-groundbreaking-on-prem-solutions/article_dc6517a2-1470-5052-9e41-1cf8f9b589bb.html",
+            "url_media": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
+            "country": "US",
+            "language": "en",
+            "summary": "Aetina Corporation, a subsidiary of Innodisk Group, announced a collaboration with Qualcomm Technologies. The flagship offering, the Aetina MegaEdge AIP-FR68, sets a new industry benchmark by integrating Qualcomm's Cloud AI family of accelerator cards. The system supports dual Cloud AI 100 Ultra cards in a single desktop workstation."
+        },
+        {
+            "published_date": "2025-01-10T08:07:00",
+            "title": "Aetina Works with Qualcomm to Advance Edge AI with Groundbreaking On-Prem Solutions",
+            "author": "PR Newswire",
+            "url": "https://finance.yahoo.com/news/aetina-works-qualcomm-advance-edge-080700287.html",
+            "url_media": "https://media.zenfs.com/en/prnewswire.com/aed0a1beb1c54e8d88b0a0ebd1cff5d3",
+            "country": "US",
+            "language": "en",
+            "summary": "Aetina Corporation, a subsidiary of Innodisk Group, announced a collaboration with Qualcomm Technologies, Inc. Aetina's AI On-Prem Appliance Solution and Qualcomm's AI Inference Suite for On-prem will be available starting in Q1 2025."
+        },
+        {
+            "published_date": "2025-01-10T07:07:20",
+            "title": "🌱 Cony student earns prestigious language award",
+            "author": "Patch AM Team",
+            "url": "https://patch.com/maine/augusta/cony-student-earns-prestigious-language-award-nodx-20250110",
+            "url_media": "https://patch.com/img/cdn20/assets/layout/amPlaceholder_2.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Augusta man was arrested at a school board meeting for exceeding his public comment time. Cony High School student Anabelle Orth has earned the Global Seal of Biliteracy. Maine Switching Services has been selected to operate the Rockland Branch. The company plans to resume freight services and offer scenic train rides."
+        },
+        {
+            "published_date": "2025-01-10T07:06:00",
+            "title": "AI Tools Are Here to Stay",
+            "author": "Madeline Mayhood",
+            "url": "https://virginialiving.com/culture/ai-tools-are-here-to-stay",
+            "url_media": "https://virginialiving.com/wp-content/uploads/2024/12/solen-feyissa-sTq_Iuri06Q-unsplash-scaled.webp",
+            "country": "US",
+            "language": "en",
+            "summary": "A majority of Americans over 55 express an interest in AI, with 57 percent admitting to test-driving ChatGPT, a chatbot and virtual assistant. Walid Saad, an artificial intelligence expert at Virginia Tech, likens AI to the Internet of the 1990s."
+        },
+        {
+            "published_date": "2025-01-10T06:44:53",
+            "title": "AI-assisted police more effectively combat telecom, network fraud",
+            "author": "People Daily",
+            "url": "https://article.wn.com/view/2025/01/10/AIassisted_police_more_effectively_combat_telecom_network_fr",
+            "url_media": "https://article.wn.com/view/2025/01/10/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial intelligence (AI) technologies have been introduced in various sectors in China. Since the 'AI police' were deployed, they have assisted in solving 609 cases of telecommunications and online fraud, recovering 32.47 million yuan in losses, according to Xinhua."
+        },
+        {
+            "published_date": "2025-01-10T06:18:01",
+            "title": "People Gaming Emotion-Detecting AI By Faking Emotional Reactions Could Lead To Widespread Societal Emotional Habits And Hysteria",
+            "author": "Lance Eliot",
+            "url": "https://www.forbes.com/sites/lanceeliot/2025/01/10/people-gaming-emotion-detecting-ai-by-faking-emotional-reactions-could-lead-to-widespread-societal-emotional-habits-and-hysteria",
+            "url_media": "https://imageio.forbes.com/specials-images/imageserve/6780b7cc9763198c7ffdb84c/0x0.jpg?format=jpg&crop=1045,783,x65,y0,safe&height=900&width=1600&fit=bounds",
+            "country": "US",
+            "language": "en",
+            "summary": "Using emotional trickery to get AI to do your bidding is a trend that we might regret. People are self-training to be angry and over-the-top so that AI will concede to their demands. The long-term adverse consequences could be that society as a whole will lean further and further into emotional tirades."
+        },
+        {
+            "published_date": "2025-01-10T06:09:07",
+            "title": "AI comes down from the cloud as chips get smarter",
+            "author": "Manila Standard",
+            "url": "https://article.wn.com/view/2025/01/10/AI_comes_down_from_the_cloud_as_chips_get_smarter",
+            "url_media": "https://article.wn.com/view/2025/01/10/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial intelligence is moving from data centers to 'the edge' as computer makers build the technology into laptops, robots, cars and more devices closer to home. The Consumer Electronics Show (CES) gadget that was running in the cloud last year is running on the edge this year."
+        },
+        {
+            "published_date": "2025-01-10T06:02:37",
+            "title": "AI: Enterprises like convenience too. RTZ #596",
+            "author": "Michael Parekh",
+            "url": "https://michaelparekh.substack.com/p/ai-enterprises-like-convenience-too",
+            "url_media": "https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fmichaelparekh.substack.com%2Fapi%2Fv1%2Fpost_preview%2F154488721%2Ftwitter.jpg%3Fversion%3D4",
+            "country": "US",
+            "language": "en",
+            "summary": "Businesses are choosing closed vs open AI models. OpenAI and Anthropic each grew revenue 500% last year despite a proliferation of free, open-source alternatives from Meta Platforms, Mistral AI and others. Open-source models need better tools and packaging. "
+        },
+        {
+            "published_date": "2025-01-10T06:00:29",
+            "title": "How AI can help neurodiverse workers",
+            "author": "Lydia Smith",
+            "url": "https://uk.finance.yahoo.com/news/ai-neurodiverse-workers-artificial-intelligence-060029996.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/yHXG_7MjJ3NawMm7USNEzQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-01/d23dbb00-cdcf-11ef-bcef-23a3fd1e8a22",
+            "country": "US",
+            "language": "en",
+            "summary": "About 15% to 20% of the global population are neurodivergent. Autistic people receive a third less than neurotypical workers. Only 30% of working-age autistic Britons have a job. AI-powered task management tools can help organise tasks, set reminders, and break down complex tasks into manageable steps."
+        },
+        {
+            "published_date": "2025-01-10T05:26:05",
+            "title": "AI comes down from the cloud as chips get smarter",
+            "author": "Glenn CHAPMAN",
+            "url": "https://www.yahoo.com/tech/ai-comes-down-cloud-chips-052605476.html",
+            "url_media": "https://media.zenfs.com/en/afp.com/ceb6ef57ff0b58a1846806f029957a71",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial intelligence is moving from data centers to \"the edge\" as computer makers build the technology into laptops, robots, cars and more devices closer to home. AI-capable PCs will account for some 40 percent of overall PC shipments this year, with that number more than doubling by 2028."
+        },
+        {
+            "published_date": "2025-01-10T05:26:05",
+            "title": "AI comes down from the cloud as chips get smarter",
+            "author": "Glenn CHAPMAN",
+            "url": "https://www.wyomingnews.com/news/national/ai-comes-down-from-the-cloud-as-chips-get-smarter/article_85486fff-26a4-52f3-a605-e46d523cffc5.html",
+            "url_media": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/e/6c/e6c1f224-6c6d-516f-ba7a-f6d49e09749f/6780bb357ec61.image.jpg?crop=385%2C385%2C63%2C0&resize=200%2C200&order=crop%2Cresize",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial intelligence is moving from data centers to \"the edge\" as computer makers build the technology into laptops, robots, cars and more devices closer to home. The Consumer Electronics Show (CES) gadget extravaganza closing Friday was rife with PCs and other devices touting AI chips."
+        },
+        {
+            "published_date": "2025-01-10T05:26:05",
+            "title": "AI comes down from the cloud as chips get smarter",
+            "author": "Glenn CHAPMAN",
+            "url": "https://www.myleaderpaper.com/news/national/ai-comes-down-from-the-cloud-as-chips-get-smarter/article_e4ff1b10-22a8-56c3-ba15-868be643a95d.html",
+            "url_media": "https://bloximages.newyork1.vip.townnews.com/myleaderpaper.com/content/tncms/assets/v3/editorial/8/d1/8d1c84a9-5c41-5997-acd7-79c2bc147d20/6780bb2f2e0fb.image.jpg?crop=385%2C385%2C63%2C0&resize=200%2C200&order=crop%2Cresize",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial intelligence is moving from data centers to \"the edge\" as computer makers build the technology into laptops, robots, cars and more devices closer to home. AI-capable PCs will account for some 40 percent of overall PC shipments this year, with that number more than doubling by 2028."
+        },
+        {
+            "published_date": "2025-01-10T05:26:05",
+            "title": "AI comes down from the cloud as chips get smarter",
+            "author": "Glenn CHAPMAN",
+            "url": "https://www.webstercountycitizen.com/news/national/article_5daa0cd1-d4a5-55c5-aa12-b8fe29e60ee0.html",
+            "url_media": "https://bloximages.newyork1.vip.townnews.com/webstercountycitizen.com/content/tncms/assets/v3/editorial/c/e1/ce1253d4-c787-5e0d-906a-8c3e9f9e0782/6780bb5ba4e97.image.jpg?crop=385%2C385%2C63%2C0&resize=200%2C200&order=crop%2Cresize",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial intelligence is moving from data centers to \"the edge\" as computer makers build the technology into laptops, robots, cars and more devices closer to home.    iReport.com: What do you think about artificial intelligence in the future? Share your thoughts."
+        },
+        {
+            "published_date": "2025-01-10T03:54:10",
+            "title": "Thinking of Switching Careers? Explore 10 High-Paying UK Jobs Safe from AI—You Won't Believe the Top One",
+            "author": "Vinay Patel",
+            "url": "https://www.ibtimes.co.uk/thinking-switching-careers-explore-10-high-paying-uk-jobs-safe-aiyou-wont-believe-top-one-1730037",
+            "url_media": "https://d.ibtimes.co.uk/en/full/1734233/highest-paying-ai-proof-jobs.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "According to Adzuna, dermatologists, surgeons, psychotherapists, paralegals, physicists, veterinarians, marriage counsellors and social workers are the top ten high-paying UK jobs that are considered safe from AI and pay the highest salaries. "
+        },
+        {
+            "published_date": "2025-01-10T03:53:56",
+            "title": "AI in the seas: marine monitoring turtle robot",
+            "author": "Interesting Engineering",
+            "url": "https://interestingengineering.com/videos/ai-in-the-seas-marine-monitoring-turtle-robot",
+            "url_media": "https://cms.interestingengineering.com/wp-content/uploads/2025/01/WEB_19918e.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Beatbot's AquaSense 2 series introduces groundbreaking AI-powered water robots tailored for specialized tasks. The amphibious robo turtle gathers real-time data for environmental research and aiding marine monitoring. The world's first 5-in-1 AI pool cleaner highlights AquaSense's versatility, setting a new standard in aquatic robotics."
+        },
+        {
+            "published_date": "2025-01-10T03:49:39",
+            "title": "2025 will be 'year of reckoning' for AI implementation: HR software firm",
+            "author": "",
+            "url": "https://www.cnbc.com/video/2025/01/10/2025-will-be-year-of-reckoning-for-ai-implementation-hr-firm.html",
+            "url_media": "https://image.cnbcfm.com/api/v1/image/108084572-1736481201698-1736480319-37921494056-hd.jpg?v=1736481207&w=1920&h=1080",
+            "country": "US",
+            "language": "en",
+            "summary": "Mark Samlal from Deel talks about how artificial intelligence is being adopted in the workplace, especially for small and medium-sized enterprises. He also talks about the advantages of this technology in the business world.      .   for Deel."
+        },
+        {
+            "published_date": "2025-01-10T03:44:38",
+            "title": "Maybe ChatGPT has some pre-frontal cortex problems",
+            "author": "Greg Baker",
+            "url": "https://solresol.substack.com/p/maybe-chatgpt-has-some-pre-frontal",
+            "url_media": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F173c86f4-1bec-4ff9-88df-477f98852334_800x800.png",
+            "country": "US",
+            "language": "en",
+            "summary": "ChatGPT has been degrading with each new version. Anthropic Claude suggests some neurological conditions that could be the cause of ChatGPT's cognitive decline. The problem with the current version is that it can't draw a clock face with the time being 10 after 11."
+        },
+        {
+            "published_date": "2025-01-10T02:35:41",
+            "title": "Building the future: The top 5 AI applications for real estate",
+            "author": "The Philadelphia Inquirer",
+            "url": "https://article.wn.com/view/2025/01/10/Building_the_future_The_top_5_AI_applications_for_real_estat",
+            "url_media": "https://article.wn.com/view/2025/01/10/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial intelligence is transforming the physical world with real estate applications. AI is integrating into every part of the real estate industry, from designing structures to building new ones.      Â   i.e. it's changing digital spaces and it's transforming physical world. "
+        },
+        {
+            "published_date": "2025-01-10T02:26:28",
+            "title": "Nevermined Secures $4M to Revolutionize AI-to-AI Payment Systems",
+            "author": "archyde",
+            "url": "https://www.archyde.com/nevermined-secures-4m-to-revolutionize-ai-to-ai-payment-systems",
+            "url_media": "https://www.pymnts.com/wp-content/uploads/2025/01/Nevermined-AI-agents-pay.png",
+            "country": "US",
+            "language": "en",
+            "summary": "Nevermined has raised $4 million in funding to advance its AI-to-AI payment protocol. This technology allows artificial intelligence agents to autonomously pay and receive payments. AI agents are increasingly taking on roles traditionally managed by humans. Intuit, the powerhouse behind TurboTax, Credit Karma, QuickBooks, and Mailchimp are integrating AI capabilities into their platforms."
+        },
+        {
+            "published_date": "2025-01-10T01:15:42",
+            "title": "Artificial Intelligence Researchers Thought They Were Building 'Gods', But Have They Summoned Something Else Instead?",
+            "author": "Michael Snyder",
+            "url": "https://conservativefiringline.com/artificial-intelligence-researchers-thought-they-were-building-gods-but-have-they-summoned-something-else-instead",
+            "url_media": "https://conservativefiringline.com/wp-content/uploads/2025/01/Snip20250107_6.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial intelligence systems are learning to do things they were never intended to do. They are teaching themselves new languages, they are proficient in research-grade chemistry without being taught it and they have learned to lie and manipulate humans for their own advantage. Elon Musk warned that by choosing to develop artificial intelligence we are'summoning the demon' and it is more dangerous than nukes."
+        },
+        {
+            "published_date": "2025-01-10T01:02:31",
+            "title": "Meet Alibaba's AI coder: an automated system that can build an app ‘in minutes'",
+            "author": "South China Morning Post",
+            "url": "https://article.wn.com/view/2025/01/10/meet_alibaba_x2019s_ai_coder_an_automated_system_that_can_bu",
+            "url_media": "https://article.wn.com/view/2025/01/10/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "AI coder forms part of Alibaba Cloud's artificial intelligence programming tool called Tongyi Lingma, which is a programming tool for artificial intelligence programs. It is available on Alibaba Cloud.       for free on the company's cloud platform. "
+        },
+        {
+            "published_date": "2025-01-10T00:31:08",
+            "title": "Nvidia's AI avatar sat on my computer screen and weirded me out",
+            "author": "Maxwell Zeff",
+            "url": "https://finance.yahoo.com/news/nvidia-ai-avatar-sat-computer-003108372.html",
+            "url_media": "https://media.zenfs.com/en/techcrunch_350/5933e80d0c012995290c080bad5000f1",
+            "country": "US",
+            "language": "en",
+            "summary": "Nvidia unveiled a prototype AI avatar at CES 2025 that lives on your PC's desktop. The R2X avatar is rendered and animated using Nvidia's AI models and runs on popular LLMs such as OpenAI's GPT-4o or xAI's Grok. The company plans to open-source these avatars in the first half of 2025."
+        },
+        {
+            "published_date": "2025-01-10T00:31:08",
+            "title": "Nvidia's AI avatar sat on my computer screen and weirded me out",
+            "author": "News Feed Editor",
+            "url": "https://rocketnews.com/2025/01/nvidias-ai-avatar-sat-on-my-computer-screen-and-weirded-me-out",
+            "url_media": "https://techcrunch.com/wp-content/uploads/2025/01/IMG_9CC69B31B7BF-1.jpeg?w=1179",
+            "country": "US",
+            "language": "en",
+            "summary": "Nvidia unveiled a prototype AI avatar at CES 2025. The AI assistant, R2X, looks like a video game character and it can help you navigate apps on your computer. The company plans to open-source these avatars in the first half of 2025. "
+        },
+        {
+            "published_date": "2025-01-10T00:01:03",
+            "title": "Bloomberg: AI to Cut 200,000 Banking Jobs, Transform Workforce, and Boost Profits",
+            "author": "Off-Site Seo",
+            "url": "https://www.archyde.com/bloomberg-ai-to-cut-200000-banking-jobs-transform-workforce-and-boost-profits",
+            "url_media": "https://static.open.online/wp-content/uploads/2025/01/finanza.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Up to 200,000 banking jobs could be eliminated within the next five years as AI automates repetitive and routine tasks. However, banks are poised to achieve unprecedented financial success due to the adoption of AI-powered tools, such as advanced analytics and automation systems. Dr. Emily Carter is an expert in AI and workforce transformation in the banking industry."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "7 Game-Changing Legal Tech Trends That Will Transform Law Firms In 2025",
+            "author": "Forbes",
+            "url": "https://article.wn.com/view/2025/01/10/7_GameChanging_Legal_Tech_Trends_That_Will_Transform_Law_Fir",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial intelligence and technology are revolutionizing the legal industry in 2025, from AI-powered document automation to predictive justice systems, according to the report.      Â  .   for more information, go to: http://www.justin.com/legal-industry/top-five-tech-technologies-revolutionizing-the-lawyer-world/"
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "Britain must learn from Ukraine and use AI for warfare, MPs say",
+            "author": "AOL",
+            "url": "https://article.wn.com/view/2025/01/10/Britain_must_learn_from_Ukraine_and_use_AI_for_warfare_MPs_s_3",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Emma Lewell-Buck, a member of the committee, believes that AI in defence is here to stay and that the UK must move fast to avoid falling behind. She believes that the use of AI in Ukraine shows that it offers serious military advantage on the battlefield and as AI becomes more widespread and sophisticated, it will change the way in which defence AI is developed."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "Goertek Unveils Ultra-Light AI+AR Smart Glasses Reference Design, Redefining Visual Experience",
+            "author": "Vermillion Plain Talk",
+            "url": "https://article.wn.com/view/2025/01/10/Goertek_Unveils_UltraLight_AI_AR_Smart_Glasses_Reference_Des_y",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "As artificial intelligence technology advances at an exponential rate, so will artificial intelligence in the future of the business. In Las Vegas, it will be possible to create a robot that can predict and act on its own volition. In 2025, the technology will be available to everyone. "
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "Technologies like AI and digital twins can tackle challenges like equitable growth to sustainability: WEF",
+            "author": "Beijing News",
+            "url": "https://article.wn.com/view/2025/01/10/Technologies_like_AI_and_digital_twins_can_tackle_challenges",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Sixty per cent of global manufacturers will use generative AI as a tool to help people gain expertise faster by 2027, according to the WEF report. The report added that to mitigate the growing shortage of skilled labour, the technology will become standard across more industries."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "Sexy life-size AI robot that talks, expresses emotion can be your girlfriend for a hefty ...",
+            "author": "New York Post",
+            "url": "https://article.wn.com/view/2025/01/10/Sexy_lifesize_AI_robot_that_talks_expresses_emotion_can_be_y",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Researchers have created a life-sized AI robot to tackle the loneliness epidemic. The robot costs $175,000 and is designed to look like a robot from 'Terminator 2'. It can be yours for the same price as the robot from the movie. "
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "Ethereum's Buterin: AI Should Enhance, Not Overpower Humans",
+            "author": "Coin Edition",
+            "url": "https://article.wn.com/view/2025/01/10/Ethereum_s_Buterin_AI_Should_Enhance_Not_Overpower_Humans",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Vitalik Buterin warns against self-replicating AI and promotes human-augmenting technologies. Distilled human judgment offers a cheaper, real-time way to make collective decisions than AI chatbots. Buterins supports AI enhancing human agency, not replacing it."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "Why This AI Agent Crypto AIXBT is Up 55% Today?",
+            "author": "Coin Gape",
+            "url": "https://article.wn.com/view/2025/01/10/Why_This_AI_Agent_Crypto_AIXBT_is_Up_55_Today_6",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Aixbt is an AI agent built on the Solana blockchain. It has its own X account, freedom and token. It gained popularity in crypto due to its niche and the ongoing AI-based trends. It crashed due to Bitcoin's collapse, but AIXBT price triggered a 55% recovery rally."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "It's getting harder to measure just how good AI is getting",
+            "author": "Vox",
+            "url": "https://article.wn.com/view/2025/01/10/It_s_getting_harder_to_measure_just_how_good_AI_is_getting",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "AI's \"scaling laws\" may be hitting a technical wall, but it's not as important as many think, as I argued in a recent article. I offered a take on all the talk about whether AI's'scaling law' were hitting a real-life technical wall. "
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "For this Turing award winner, AI shows great promise and peril",
+            "author": "The Times",
+            "url": "https://article.wn.com/view/2025/01/10/For_this_Turing_award_winner_AI_shows_great_promise_and_peri",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Raj Reddy became the first Indian to win the Turing Award in 1994. He was recognized for his work in artificial intelligence. He believes AI will enhance the mental capabilities of the human race in the long-term.     . "
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "SEBI exploring use of AI for faster processing of IPOs and MFs applications",
+            "author": "Beijing News",
+            "url": "https://article.wn.com/view/2025/01/10/SEBI_exploring_use_of_AI_for_faster_processing_of_IPOs_and_M",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "SEBI is exploring the use of AI for faster approval of IPOS and Mutual Funds applications. A large number of AI-driven projects are already on the way within SEBI and one of the key uses of AI is to do faster processing of all applications."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "Elon Musk agrees that we've exhausted AI training data",
+            "author": "Yahoo Daily News",
+            "url": "https://article.wn.com/view/2025/01/10/Elon_Musk_agrees_that_weve_exhausted_AI_training_data",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Elon Musk agrees with other AI experts that there is little data left to train AI models on. \"We've now exhausted basically the cumulative sum of human data,\" Musk says.      Â   i.e. there is no more data left for AI models to be trained on."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "Eli Lilly to set up global capability centre in Hyderabad, hire over 1,000 people",
+            "author": "The Economic Times",
+            "url": "https://article.wn.com/view/2025/01/10/Eli_Lilly_to_set_up_global_capability_centre_in_Hyderabad_hi_5",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "The centre will focus on expanding Lilly's capabilities in automation, artificial intelligence, software product engineering and other areas of development. It will be based at Lilly's new headquarters in New York.    for the first few years, it will be focused on expanding the company's capabilities. "
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "How The New AI Paradigm Will Disrupt The Business Application Market",
+            "author": "Forbes",
+            "url": "https://article.wn.com/view/2025/01/10/How_The_New_AI_Paradigm_Will_Disrupt_The_Business_Applicatio",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "AI promises to change the world around us and we need to reflect on how this will affect the many aspects of our daily lives, as well as how it will affect people's daily lives in general. It's a good idea to think about how AI will affect your daily life."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "AI might be leaving scam emails in your inbox. Here's how to protect yourself from them",
+            "author": "Port Clinton News Herald",
+            "url": "https://article.wn.com/view/2025/01/10/AI_might_be_leaving_scam_emails_in_your_inbox_Heres_how_to_p_g",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Gen Beta and social media will be heavily impacted by AI throughout their lives. With artificial intelligence on the rise, it's been harder to tell if emails are from real humans or not, and it's hard to verify if they are from a robot or a human."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "Growing AI risks for Generation Beta",
+            "author": "The Philadelphia Inquirer",
+            "url": "https://article.wn.com/view/2025/01/10/Growing_AI_risks_for_Generation_Beta",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Imagine a world where a 7-year-old can use artificial intelligence (AI) to solve math problems. Kathmandu is a place where this is possible today.      Â   in the world of generative artificial intelligence. "
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "While AI Causes Climate Change, Nvidia Scientist Proposes AI-Powered Firefighting Robots",
+            "author": "Futurism",
+            "url": "https://article.wn.com/view/2025/01/10/While_AI_Causes_Climate_Change_Nvidia_Scientist_Proposes_AIP",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "A scientist from the world's biggest artificial intelligence chipmaker suggests that AI could help fight the wildfires in California. AI has already begun degrading the environment and is slated to do much more. X-formerly-Twitter posted a video with a video of a humanoid robot."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "Hightouch co-founder Tejas Manohar skipped college and found Silicon Valley success",
+            "author": "Business Journal",
+            "url": "https://article.wn.com/view/2025/01/10/Hightouch_cofounder_Tejas_Manohar_skipped_college_and_found_",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "AI has helped data startup Hightouch reach a $600 million valuation, according to TechCrunch.      .   for more information, visit TechCrunch's website here. for more details.  For confidential support call the Samaritans on 08457 909090 or visit their website."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "How AI Agents Are Transforming Business: Insights from Kishandth Sivapalasundaram",
+            "author": "India Today",
+            "url": "https://article.wn.com/view/2025/01/10/How_AI_Agents_Are_Transforming_Business_Insights_from_Kishan",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "How AI Agents are Transforming Business Insights from Kishandth Sivapalasundaram is published by Penguin Random House, a division of Penguin Books, Inc.  and is available in English and in Tamil.    in English."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "Kazakh President Tokayev meets with AI entrepreneur Kai-Fu Lee",
+            "author": "Xinhua",
+            "url": "https://article.wn.com/view/2025/01/10/Kazakh_President_Tokayev_meets_with_AI_entrepreneur_KaiFu_Le_3",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Kazakh President Kassym-Jomart Tokayev met with Kai-Fu Lee, chairman and EO of Sinovation Ventures. They discussed the integration of artificial intelligence into various sectors, including education, healthcare and AI.  . "
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "Mark Zuckerberg Allegedly Trained AI Models on Copyrighted Works",
+            "author": "NDTV",
+            "url": "https://article.wn.com/view/2025/01/10/Mark_Zuckerberg_Allegedly_Trained_AI_Models_on_Copyrighted_W",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Meta is facing a copyright lawsuit over allegedly using copyrighted works to train its artificial intelligence (AI) models. The lawsuit was filed by multiple complainants that also include several copyright owners.   .   in this case, the complainants claim that Meta infringed on their copyrights."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "As the American Economy Evolves, ‘AI' Evolves into ‘Marketing'",
+            "author": "Pagosa Daily Post",
+            "url": "https://article.wn.com/view/2025/01/10/as_the_american_economy_evolves_8216ai_8217_evolves_into_821",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "The 1969 moon landing was a product of artificial intelligence, according to Jehangir Amjad, a professor at Stanford University. The algorithms that were part of what put us on the moon are precursors to a lot of what we are seeing today as well."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "Industry Leaders from Coinbase, Google, and ai16z Unite to Launch Aiccelerate DAO for Crypto-AI Convergence",
+            "author": "Bit RSS",
+            "url": "https://article.wn.com/view/2025/01/10/Industry_Leaders_from_Coinbase_Google_and_ai16z_Unite_to_Lau",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "The mix of decentralised finance (DeFi) and artificial intelligence (AI) has given birth to AI-DeFi. It's a combination of DeFi and AI-deformitisation.   It's called DeFi-AI-formatted finance."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "UK Defence Committee urges MoD to embrace AI",
+            "author": "Computer Weekly",
+            "url": "https://article.wn.com/view/2025/01/10/UK_Defence_Committee_urges_MoD_to_embrace_AI",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "The UK Ministry of Defence should embrace artificial intelligence to maintain its military advantages, the Commons Defence Committee has said. Developing a thriving defence AI sector will require improvements in digital infrastructure, data management and the AI skills base, according to the committee. It urges the MoD to identify where gaps exist so that work can begin to address these issues."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "What Makes Lightchain AI a Formidable Contender Against Solana & DOGE? Lightchain AI, One of ...",
+            "author": "Brave New Coin",
+            "url": "https://article.wn.com/view/2025/01/10/What_Makes_Lightchain_AI_a_Formidable_Contender_Against_Sola",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Lightchain AI has raised over $9.4 million and LCAI tokens priced at $0.004875 during its presale. It is positioning itself as one of the most successful crypto projects of January. Solana and DOGE continue to dominate headlines."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "Court filing says Zuck knowingly okayed training Facebook's AI on pirated books",
+            "author": "AV Club",
+            "url": "https://article.wn.com/view/2025/01/10/Court_filing_says_Zuck_knowingly_okayed_training_Facebooks_A",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "AI is a computer program designed to chew up human creativity and spit out a facsimile of it. Some companies are trying to make money by licensing books or datasets to create their own AI programs, but it's a waste of time and resources.  "
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "‘Embracing AI': Mississippi governor mandates creating policies for using artificial intelligence",
+            "author": "system",
+            "url": "https://article.wn.com/view/2025/01/10/Embracing_AI_Mississippi_governor_mandates_creating_policies",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Mississippi Department of Internet Technology Services will evaluate how state agencies use or plan to use artificial intelligence. It will create policy recommendations for using AI in the public and private sectors under an executive order under an order signed by President Barack Obama.    "
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "Breaking the data bottleneck: Salesforce's ProVision speeds multimodal AI training with image scene graphs",
+            "author": "Venture Beat",
+            "url": "https://article.wn.com/view/2025/01/10/breaking_the_data_bottleneck_salesforce_8217s_provision_spee",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Salesforce is using structured representation of image semantics to power programs that synthesize instruction datasets for AI training. It is using this data to power its programs that generate instruction sets for AI.    for training the AI's instruction set for the machine learning. "
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "How AI uncovers new ways to tackle difficult diseases",
+            "author": "BBC News",
+            "url": "https://article.wn.com/view/2025/01/10/How_AI_uncovers_new_ways_to_tackle_difficult_diseases",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Pharmaceutical firms are turning to AI to find new molecules that might be able to tackle disease, as shown in the video below.      Â  .   -   for confidential support call the National Suicide Prevention Lifeline on 1-800-273-8255. "
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "AI and IP: 2024's legal cliffhangers and 2025's potential plot twists (Dentons US LLP)",
+            "author": "Public Technologies",
+            "url": "https://article.wn.com/view/2025/01/10/AI_and_IP_2024s_legal_cliffhangers_and_2025s_potential_plot_",
+            "url_media": "https://article.wn.com/view/2025/01/10/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "Generative AI models are improving at an unprecedented pace. However, in the UK, several AI models have already been developed that are indistinguishable from human-generated works.   in the future, AI models will be able to generate text, images, videos and other outputs that are becoming indistinguishable from humans' works."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "Wall Street Might Cut 2,00,000 Jobs As AI Replaces Roles",
+            "author": "NDTV",
+            "url": "https://article.wn.com/view/2025/01/10/Wall_Street_Might_Cut_200000_Jobs_As_AI_Replaces_Roles",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "As many as 200,000 jobs will be cut in the next 3 to 5 years as artificial intelligence encroaches on tasks currently carried out by human workers, according to Bloomberg report.   Â      - Bloomberg.  -  "
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "China Focus: AI-assisted police more effectively combat telecom, network fraud",
+            "author": "Xinhua",
+            "url": "https://article.wn.com/view/2025/01/10/China_Focus_AIassisted_police_more_effectively_combat_teleco",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial intelligence (AI) technologies have been introduced in various sectors in China. Since the 'AI police' were deployed, they have assisted in solving 609 cases of telecommunications and online fraud, recovering 32.47 million yuan in losses. In a telecom fraud case filed at a police station in Kunshan, an affluent person was the victim."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "The 14-year-old friends' AI tool that will detect rodents in your house… and other genius ideas at the BT Youn",
+            "author": "Irish Independent",
+            "url": "https://article.wn.com/view/2025/01/10/The_14yearold_friends_AI_tool_that_will_detect_rodents_in_yo",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "One school is putting a positive spin on artificial intelligence (AI) at the expense of traditional AI education.      Â   for the school's students and teachers, and for their students' parents, as well as the general public. "
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "Alif Semiconductor Pioneers Generative AI in Edge and Endpoint Devices with 2nd Generation Low-Power Ensemble MCUs",
+            "author": "Steel Technology",
+            "url": "https://article.wn.com/view/2025/01/10/Alif_Semiconductor_Pioneers_Generative_AI_in_Edge_and_Endpoi",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Alif Semiconductor has announced the second generation of its Ensemble family of AI microcontrollers. Alif is a leading global supplier of secure, connected, power efficient Artificial Intelligence and Machine Learning microcont controllers (MCUs) and fusion processors (Fusion processors)."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "Beware the hallucinating algorithm: Tampa Bay health care leaders share AI insights, concerns",
+            "author": "Business Journal",
+            "url": "https://article.wn.com/view/2025/01/10/Beware_the_hallucinating_algorithm_Tampa_Bay_health_care_lea",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "As health care systems consider artificial intelligence investments, making it work for caregivers, health systems and patients creates more questions than answers. It is not yet clear if it will work for all parties.   It is also unclear if it is beneficial for the health care system."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "5 Unexpected Things You Should Be Using ChatGPT For, According to AI Expert",
+            "author": "Newsweek",
+            "url": "https://article.wn.com/view/2025/01/10/5_Unexpected_Things_You_Should_Be_Using_ChatGPT_For_Accordin",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial intelligence expert Zaria Zinn shares five practical uses for ChatGPT with novices to help them integrate the technology into daily tasks. Zaria explains how to use the technology in everyday tasks.    i.e. how to integrate chatgpt into daily activities. "
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "AI transforms auroral research, helping predict geomagnetic storms",
+            "author": "NDTV",
+            "url": "https://article.wn.com/view/2025/01/10/AI_transforms_auroral_research_helping_predict_geomagnetic_s",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "A breakthrough in auroral research, powered by artificial intelligence, has allowed scientists to classify over 700 million auroral images. This effort, using NASA's THEMIS dataset, will significantly improve the understanding of the aurora.    i   in this article."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "Power Giant Strikes While the Iron is Hot",
+            "author": "Wall Street Journal",
+            "url": "https://article.wn.com/view/2025/01/10/Power_Giant_Strikes_While_the_Iron_is_Hot",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Constellation's deal for Calpine harnesses its AI and nuclear-powered shares for a canny deal. It's a win-win situation for both Constellation and Calpine's shareholders.      .   for Constellation. "
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "Menarini Group and Insilico Medicine Enter a Second Exclusive Global License Agreement for an AI Discovered Preclinical Asset Targeting High Unmet Needs in Oncology",
+            "author": "PR Newswire",
+            "url": "https://article.wn.com/view/2025/01/10/Menarini_Group_and_Insilico_Medicine_Enter_a_Second_Exclusiv",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "This is the second asset Menarini Group has inlicensed from Insilico Medicine. It is similar to the preclinical stage KAT6 inhibitor (MEN2312) licensed a year ago and advanced rapidly into the clinical phase. Under the agreement, the company will be granted global rights."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "WhatsApp really hopes you want to talk with AI bots",
+            "author": "The Verge",
+            "url": "https://article.wn.com/view/2025/01/10/WhatsApp_really_hopes_you_want_to_talk_with_AI_bots",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "WhatsApp is testing a new design that gives prominent space to a suite of AI chatbots. The design is currently only accessible through the app's Android beta and adds a dedicated tab for AIs on the homescreen. WABetaInfo spotted the change."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "How Nonprofits Are Scaling Impact With AI Agents",
+            "author": "Forbes",
+            "url": "https://article.wn.com/view/2025/01/10/How_Nonprofits_Are_Scaling_Impact_With_AI_Agents",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "AI agents offer a transformative opportunity to help nonprofits scale their impact and do more with less, according to the organization.      Â   i.e. help nonprofits to do more and do less with less using AI agents, the organization says. "
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "New AI platform identifies which patients are likely to benefit most from a clinical trial",
+            "author": "Science Daily",
+            "url": "https://article.wn.com/view/2025/01/10/New_AI_platform_identifies_which_patients_are_likely_to_bene",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "A new study demonstrates that a first-of-its-kind platform using artificial intelligence (AI) could help clinicians and patients assess. It is based on the principle of \"augmentation by means of AI\". It is a platform that uses AI to help assess people."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "CES - AI comes down from the cloud as chips get smarter",
+            "author": "RTE",
+            "url": "https://article.wn.com/view/2025/01/10/CES_AI_comes_down_from_the_cloud_as_chips_get_smarter",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial intelligence is moving from data centres to \"the edge\" as computer makers build the technology into laptops, robots, cars and more devices closer to home. The CES gadget extravaganza, which closes today, was rife with PCs and other devices touting AI chips."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "AI taking call centre agents' jobs, source says",
+            "author": "Jamaica Star",
+            "url": "https://article.wn.com/view/2025/01/10/AI_taking_call_centre_agents_jobs_source_says",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Jamaican call centre agents are being warned to brace themselves for a wave of job cuts as artificial intelligence (AI) becomes the preferred tool for handling customer service in the business process outsourcing (BPO) sector. One call centre has already begun replacing agents with an automated system."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "Future of Robotics to 2030 Market and Beyond - Exclusive Report by MarketsandMarkets™",
+            "author": "PR Newswire",
+            "url": "https://article.wn.com/view/2025/01/10/Future_of_Robotics_to_2030_Market_and_Beyond_Exclusive_Repor",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "The report \"Future of Robotics - Cobots, Humanoid & Soft Robots, Swarm Robotics, by Technology (Artificial Intelligence, Digital Twin, AR/VR, Cloud Computing), Industry (Automotive, Smart Cities, Space Exploration, Logistics, Agriculture) – Global Forecast to 2030\" was released by MarketsandMarkets."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "Viral ChatGPT-powered sentry gun gets shut down by OpenAI",
+            "author": "Ars Technica",
+            "url": "https://article.wn.com/view/2025/01/10/Viral_ChatGPTpowered_sentry_gun_gets_shut_down_by_OpenAI",
+            "url_media": "https://ecdn5.wn.com/o25/ph/img/62/3d/fb00a8fde4512842329485075f9d-grande.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "OpenAI has cut off API access to an engineer whose video of a motorized sentry gun controlled by ChatGPT-powered commands has set off a viral firestorm of concerns about AI-powered weapons. An engineer going by the handle sts_3d started posting videos of his motorized, auto-rotating swivel chair project back in 2010."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "Nevermined secures $4m to pioneer AI commerce infrastructure",
+            "author": "BTC Manager",
+            "url": "https://article.wn.com/view/2025/01/10/Nevermined_secures_4m_to_pioneer_AI_commerce_infrastructure",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Nevermined has raised $4M to develop autonomous AI agents. Nevermined's funding is a step toward the development of AI agents that could reshape commerce in the future. It's the first step toward that future.      "
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "This start-up has found a way to cut down on Wall Street's brutal, sometimes fatally ...",
+            "author": "New York Post",
+            "url": "https://article.wn.com/view/2025/01/10/this_startup_has_found_a_way_to_cut_down_on_wall_street_8217",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "New York-based AI startup Mosaic is trying to create a new kind of Wall Street. Mosaic has created software that does the grunt work of building financial models. The only way to reduce the actual work is through technology, according to Mosaic's founder."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "Grok AI Could Soon Get an 'Inappropriate and Offensive' Unhinged Mode",
+            "author": "NDTV",
+            "url": "https://article.wn.com/view/2025/01/10/Grok_AI_Could_Soon_Get_an_Inappropriate_and_Offensive_Unhing",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Elon Musk-owned xAI could soon add a new 'Unhinged' mode to its artificial intelligence (AI) chatbot Grok. The AI firm recently updated its frequently asked questions (FAQ) page and added mentions to it.   . "
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "IIT Mandi invites applications for its MBA in Data Science and Artificial Intelligence Program, check details",
+            "author": "Hindustan Times",
+            "url": "https://article.wn.com/view/2025/01/10/IIT_Mandi_invites_applications_for_its_MBA_in_Data_Science_a",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "The School of Management at the Indian Institute of Technology (IIT) Mandi is inviting applications for its flagship MBA in Data Science and Artificial Intelligence (DS&AI) program for the academic year 2025-27. The selection process includes a group discussion and/or personal interview."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "Why Warren Buffett fears AI – and where savvy investors could spot an opportunity",
+            "author": "The Motley Fool",
+            "url": "https://article.wn.com/view/2025/01/10/Why_Warren_Buffett_fears_AI_and_where_savvy_investors_could_",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Warren Buffett compared artificial intelligence (AI) to nuclear weapons. He fears the technology could have disastrous and irreversible effects. When the first nuclear weapon was tested in 1945, Buffett was 15 years old and had already evolved into a machine that could learn from new data."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "As the American Economy Evolves, ‘AI' Evolves into ‘Marketing'",
+            "author": "Post Contributor",
+            "url": "https://pagosadailypost.com/2025/01/10/as-economy-evolves-ai-evolves-into-marketing",
+            "url_media": "https://pagosadailypost.com/wp-content/uploads/2016/04/16LogoPDP_120-150x150.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "It's hard to define 'artificial intelligence' as the technology explodes in sophistication and public awareness. The market for AI-powered products is very saturated and some companies just use the technology in a very small part of their product. Theresa Fesinstine has observed a race in the corporate world to introduce AI technologies to stay competitive and relevant."
+        },
+        {
+            "published_date": "2025-01-10T00:00:00",
+            "title": "Rabbi's Corner: A Jewish Response to the Challenges of AI",
+            "author": "/ Rabbi Malcolm Cohen",
+            "url": "https://azjewishpost.com/2025/rabbis-corner-a-jewish-response-to-the-challenges-of-ai",
+            "url_media": "https://cdn-15011.jigsawanalyticsgroup.cloud/20250110143818/Rabbi-Cohen.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "According to Jewish tradition, as humans, we are uniquely placed to steward and nurture artificial intelligence technology. The existence of AI allows us to clarify what it means to be human. It's only humans who have the moral compass and ethical sensibility to grow this technology thoughtfully."
+        }
+    ]
+}
