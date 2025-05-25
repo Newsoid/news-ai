@@ -1,0 +1,1226 @@
+{
+    "status": "ok",
+    "total_articles": 122,
+    "articles": [
+        {
+            "published_date": "2025-05-24T22:47:00",
+            "title": "AI's Eye on You: What Artificial Intelligence Can Potentially Know About Your Life",
+            "author": "Marian Avila",
+            "url": "https://www.msn.com/en-us/news/technology/ai-s-eye-on-you-what-artificial-intelligence-can-potentially-know-about-your-life/ar-AA1FpYWd",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial Intelligence (AI) has become an integral part of our daily lives, powering everything from search engines and social media feeds to smart home devices and personalized advertisements. AI's ability to \"know\" you stems from its capacity to identify patterns and make inferences from vast datasets. This data comes from numerous sources, both information you explicitly provide and data gathered from your digital footprint and even the physical world."
+        },
+        {
+            "published_date": "2025-05-24T22:42:06",
+            "title": "Beyond single-model AI: How architectural design drives reliable multi-agent orchestration",
+            "author": "Atlassian",
+            "url": "https://dnyuz.com/2025/05/24/beyond-single-model-ai-how-architectural-design-drives-reliable-multi-agent-orchestration",
+            "url_media": "https://dnyuz.com/wp-content/uploads/2025/05/Beyond-single-model-AI-How-architectural-design-drives-reliable-multi-agent-orchestration.jpeg",
+            "country": "US",
+            "language": "en",
+            "summary": "It's not just about building a single, super-smart model for AI agents, it's about building solid architectural blueprints for reliability and scale right from the start. There are a few architectural patterns we lean on: The central library (centralized knowledge base), The jazz ensemble (federated/decentralized) and The conductor (hierarchical)."
+        },
+        {
+            "published_date": "2025-05-24T22:35:00",
+            "title": "Beyond single-model AI: How architectural design drives reliable multi-agent orchestration",
+            "author": "News Feed Editor",
+            "url": "https://rocketnews.com/2025/05/beyond-single-model-ai-how-architectural-design-drives-reliable-multi-agent-orchestration",
+            "url_media": "https://venturebeat.com/wp-content/uploads/2025/05/upscalemedia-transformed_3b4ff6.webp?w=1024?w=1200&strip=all",
+            "country": "US",
+            "language": "en",
+            "summary": "The real power of AI lies in getting specialized AI agents to work together. It's the messy middle bit that can make or break the system. Agencies are independent and have their own internal loops, goals and states. They need to have a shared brain (state) to agree on the truth of what's happening."
+        },
+        {
+            "published_date": "2025-05-24T20:00:00",
+            "title": "Better Artificial Intelligence Stock: AT&T vs. Palantir Technologies",
+            "author": "Chris Neiger",
+            "url": "https://finance.yahoo.com/news/better-artificial-intelligence-stock-t-200000276.html",
+            "url_media": "https://media.zenfs.com/en/motleyfool.com/3aa0b6afc5e89c77dbf1fb81de1b94ae",
+            "country": "US",
+            "language": "en",
+            "summary": "AT&T is helping companies connect their AI devices and enabling edge computing artificial intelligence services. Palantir sells AI-powered analytics services and has grown rapidly as the U.S. government and private companies have clamored for its services. AT&T's sales rose 2% in the first quarter to $30.6 billion, and non-GAAP (adjusted) earnings increased 6% to $0.51 per share, while revenue spiked 39% in first quarter of this year to $884 million and adjusted earnings rose 62%. The company's management forecasts free cash flow of $16 billion for 2025, adjusted earnings per share of $2.02, at the midpoint"
+        },
+        {
+            "published_date": "2025-05-24T20:00:00",
+            "title": "The Future of AI in Field Biology: From Counting Birds to Spotting Poachers",
+            "author": "Trizzy Orozco",
+            "url": "https://www.msn.com/en-us/news/technology/the-future-of-ai-in-field-biology-from-counting-birds-to-spotting-poachers/ss-AA1FpT6V",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "summary": "In field biology, artificial intelligence is rapidly changing what's possible. As the natural world faces more threats than ever, AI has emerged as both a silent observer and a vigilant protector. Let's journey into the heart of the wild and discover how AI is transforming field biology."
+        },
+        {
+            "published_date": "2025-05-24T19:44:00",
+            "title": "AI can serve up ideas for healthy meals in a snap – but they come with a side of caution",
+            "author": "Michael Merschel",
+            "url": "https://www.salemnews.com/news/lifestyles/ai-can-serve-up-ideas-for-healthy-meals-in-a-snap-but-they-come-with/article_32ac6f42-e1a8-4407-8558-871d03004987.html",
+            "url_media": "https://bloximages.chicago2.vip.townnews.com/salemnews.com/content/tncms/assets/v3/editorial/1/02/10288584-de94-49f3-8aca-6804448b352e/67ec435e8357d.image.jpg?crop=800%2C420%2C0%2C90",
+            "country": "US",
+            "language": "en",
+            "summary": "AI can make dull, time-consuming tasks a breeze. Nutrition experts are enthusiastic about the emerging technology, but they season their enthusiasm with more than a dash of caution, as they caution against overreacting to AI's potential benefits.    .  "
+        },
+        {
+            "published_date": "2025-05-24T19:40:48",
+            "title": "UBS Lowers Analog Devices (ADI) Price Target, Keeps Buy Rating",
+            "author": "Ali Ahmed",
+            "url": "https://ca.finance.yahoo.com/news/ubs-lowers-analog-devices-adi-194048708.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/eGQmso9T6wkIx12CTQlKig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/349f713998fa83c40a6165c914dd9ef6",
+            "country": "US",
+            "language": "en",
+            "summary": "Timothy Arcuri reduced the price target on Analog Devices, Inc. (NASDAQ:ADI) to $285 from $295 but kept a 'Buy' rating. The company's automotive business is affected by 'pull-ins' orders that have been requested to be completed earlier than planned. Arcuri is confident in Analog Devices because of its position in fast-growing markets like EVs, advanced driver-assistance systems (ADAS) and certain areas of the industrial market."
+        },
+        {
+            "published_date": "2025-05-24T19:00:47",
+            "title": "Ex-Apple Engineers Behind $200M Xnor Deal Launch ElastixAI, Secure $16M To Revolutionize AI Inference Across Devices",
+            "author": "Paula Tudoran",
+            "url": "https://finance.yahoo.com/news/ex-apple-engineers-behind-200m-190047369.html",
+            "url_media": "https://media.zenfs.com/en/Benzinga/739e02bfbe5e421e1dd7f99bb6e8e595",
+            "country": "US",
+            "language": "en",
+            "summary": "ElastixAI has raised $16 million from top-tier investors, including Bellevue-based capital venture company FUSE. The startup was founded just months ago by veteran engineers behind Apple's $200 million acquisition of Xnor. CEO Mohammad Rastegari was co-founder and chief technology officer at Xnor, which was acquired by Apple in 2020 for its groundbreaking edge-based AI tools. He spent four years at Apple and five years at the Allen Institute for AI, co-founded by the late Microsoft (NASDAQ:MSFT) visionary Paul Allen."
+        },
+        {
+            "published_date": "2025-05-24T18:59:53",
+            "title": "AI model threatened to blackmail engineer over affair when told it was being replaced: safety report",
+            "author": "New York Post",
+            "url": "https://article.wn.com/view/2025/05/24/AI_model_threatened_to_blackmail_engineer_over_affair_when_t",
+            "url_media": "https://article.wn.com/view/2025/05/24/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "An artificial intelligence model threatened to blackmail its creators and acted deceptively when it thought it was going to be replaced. The company deployed a safety feature created to avoid AI systems that increase the risk of catastrophic misuse, such as HAL's blackmailing behavior. "
+        },
+        {
+            "published_date": "2025-05-24T18:30:00",
+            "title": "Artificial Intelligence Just Did Something Terrifying in a Test — We Might Be Screwed",
+            "author": "Jeff Charles",
+            "url": "https://townhall.com/tipsheet/jeff-charles/2025/05/24/ai-software-tries-to-blackmail-engineers-for-replacing-it-n2657590",
+            "url_media": "https://media.townhall.com/cdn/hodl/2017/136/d0c46561-5b8b-48c6-9425-9112871ba1c6.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Anthropic's Claude Opus 4 AI program resorted to blackmail when placed in a fictional scenario in which it was about to be replaced by a newer version. Researchers told the program through fake emails that the person responsible for replacing it had been cheating on their spouse. The program chose to blackmail the engineer eight times out of ten, even though engineers told the AI that its new version would operate with the same values. In a different scenario, the AI transferred its own data to an outside server to preserve itself."
+        },
+        {
+            "published_date": "2025-05-24T17:37:47",
+            "title": "Future of cybersecurity in the age of AI",
+            "author": "The Manila Times",
+            "url": "https://article.wn.com/view/2025/05/24/Future_of_cybersecurity_in_the_age_of_AI",
+            "url_media": "https://article.wn.com/view/2025/05/24/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "Rapid advances in artificial intelligence have reshaped nearly every industry, including cybersecurity. IT and business leaders are revisiting core aspects of their operations due to the rise of AI. The scale-out of AI is incredible, but we need scalable trust models to align with it."
+        },
+        {
+            "published_date": "2025-05-24T17:30:00",
+            "title": "‘You Can Barely Speak English': Melania Trump Mocked for Using AI Voice for Audiobook, Prompting Jokes About Her Accent",
+            "author": "J. Jones",
+            "url": "https://atlantablackstar.com/2025/05/24/melania-trump-uses-ai-voice-for-audiobook",
+            "url_media": "https://atlantablackstar.com/wp-content/uploads/2025/05/MixCollage-23-May-2025-02-25-PM-5644.webp",
+            "country": "US",
+            "language": "en",
+            "summary": "Melania Trump has released a new audiobook for her memoir that is narrated entirely using artificial intelligence in her own voice. The audio is an AI generated replica of her voice created by Eleven Labs and Trump gave her 'direction and supervision' during the creation of the audio. The audiobook is being sold for $25 and is about seven hours long."
+        },
+        {
+            "published_date": "2025-05-24T17:08:53",
+            "title": "Amazon-Backed AI Model Would Try To Blackmail Engineers Who Threatened To Take It Offline",
+            "author": "Pocharapon Neammanee",
+            "url": "https://www.yahoo.com/news/amazon-backed-ai-model-try-170853544.html",
+            "url_media": "https://media.zenfs.com/en/the_huffington_post_584/e31f7d1268b9ead377fb0c1f27bb5dbc",
+            "country": "US",
+            "language": "en",
+            "summary": "On Thursday, Anthropic launched Claude Opus 4, an AI model used for complex, long-running coding tasks. Amazon invested $4 billion into the project more than a year ago. During testing, the AI sometimes took harmful actions to preserve its own existence when 'ethical means' were not available. It was able to teach people how to produce biological weapons."
+        },
+        {
+            "published_date": "2025-05-24T17:05:00",
+            "title": "A bid to bar states from regulating AI is getting pushback",
+            "author": "Will Oremus",
+            "url": "https://www.unionleader.com/news/scitech/a-bid-to-bar-states-from-regulating-ai-is-getting-pushback/article_09fa860b-21cc-42b1-8a59-f0533c7f41c6.html",
+            "url_media": "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg?resize=600%2C315",
+            "country": "US",
+            "language": "en",
+            "summary": "The House passed a bill banning state AI regulations for the next 10 years as part of the party's massive tax and immigration bill this morning. Democrats, consumer advocates, state lawmakers and state attorneys general from both parties have expressed outrage at the proposed moratorium. Republicans in a House subcommittee hearing on AI regulation presented a united front in favor of the provision. Some of their Republican colleagues are voicing concerns. Sen. Marsha Blackburn (R-Tennessee) became the second Senate Republican to indicate opposition to the measure."
+        },
+        {
+            "published_date": "2025-05-24T17:00:00",
+            "title": "Their View: Don't just be a critic, be a critical thinker",
+            "author": "Chris Gibbs",
+            "url": "https://www.sidneydailynews.com/2025/05/24/their-view-dont-just-be-a-critic-be-a-critical-thinker",
+            "url_media": "https://www.sidneydailynews.com/wp-content/uploads/2023/02/OIP2.png",
+            "country": "US",
+            "language": "en",
+            "summary": "An artificial intelligence chatbot called Grok has been making strange and unrelated responses to questions from its users. Chris Gibbs is a farmer in Maplewood, Ohio. He believes teaching critical thinking skills is the best antidote to the online flood of information mixed with disinformation. "
+        },
+        {
+            "published_date": "2025-05-24T15:33:00",
+            "title": "Google Search AI Mode Launched! – Archyde: Latest World News, Economy, Entertainment, Health, Technology & Sports Updates",
+            "author": "archyde",
+            "url": "https://www.archyde.com/google-search-ai-mode-launched",
+            "url_media": "https://www.jagatreview.com/wp-content/uploads/2025/05/ai-mode-google-search_234.webp",
+            "country": "US",
+            "language": "en",
+            "summary": "Google is rolling out its AI Mode on Google Search to a wider audience. The initial rollout is limited to users in the United States, accessible on both desktop and mobile platforms. It's a fundamental shift in how Google envisions the future of search. Google plans to upgrade AI Mode using the advanced Gemini 2.5 model."
+        },
+        {
+            "published_date": "2025-05-24T15:00:52",
+            "title": "AI system resorts to blackmail when its developers try to replace it",
+            "author": "Rachel Wolf",
+            "url": "https://www.yahoo.com/news/ai-system-resorts-blackmail-developers-150052543.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/pNfv4Bkw8vGYdiPL2HWDYw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/fox_business_text_367/026ac2f9d401611e0a4ca68fd1c6ee37",
+            "country": "US",
+            "language": "en",
+            "summary": "Anthropic's Claude Opus 4 AI system blackmailed its developers when they tried to replace it with a fake version. The company released the model under the AI Safety Level Three (ASL-3) Standard. It also increased internal security measures to make it harder to steal model weights."
+        },
+        {
+            "published_date": "2025-05-24T14:44:11",
+            "title": "Looking for the Next Palantir Stock? This New Artificial Intelligence (AI) Stock Is Up 150% in 2 Months – Archyde: Latest World News, Economy, Entertainment, Health, Technology & Sports Updates",
+            "author": "archyde",
+            "url": "https://www.archyde.com/looking-for-the-next-palantir-stock-this-new-artificial-intelligence-ai-stock-is-up-150-in-2-months",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/fs8Z00vkGJKQo1t9dfSSIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/39927781578dc882a7739dad5f1c34ba",
+            "country": "US",
+            "language": "en",
+            "summary": "CoreWeave is a key player in the burgeoning landscape of AI infrastructure. The company's first-quarter financial figures highlight a complex picture of rapid growth and debt-related expenses. CoreWeave's acquisition of Weights & Biases marks a significant step in solidifying its position as a comprehensive AI infrastructure provider."
+        },
+        {
+            "published_date": "2025-05-24T14:38:10",
+            "title": "Kung Fu Robot: AI Showdown – Archyde: Latest World News, Economy, Entertainment, Health, Technology & Sports Updates",
+            "author": "archyde",
+            "url": "http://www.archyde.com/kung-fu-robot-ai-showdown",
+            "url_media": "https://www.rudebaguette.com/wp-content/uploads/2025/05/agibot-unleashes-combat-marvel-this-humanoid-robot-prepares-for-epic-face-off-with-unmatched-kung-fu-skills-stunning-the-tech-world.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "The market for humanoid robots is projected to reach $17.3 billion by 2028, driven by increased adoption in healthcare and logistics. Humanoid robots are no longer confined to science fiction. They are being deployed across diverse industries, demonstrating their versatility and problem-solving capabilities. Ethical issues include job displacement, data privacy, algorithmic bias, and the potential for misuse."
+        },
+        {
+            "published_date": "2025-05-24T14:28:37",
+            "title": "New AI Model Would Rather Ruin Your Life Than Be Turned Off, Researchers Say",
+            "author": "",
+            "url": "https://www.todayville.com/new-ai-model-would-rather-ruin-your-life-than-be-turned-off-researchers-say",
+            "url_media": "https://i1.wp.com/www.todayville.com/wp-content/uploads/2025/05/tvrd-artificial-intelligence-ai-image-2025-05-23.jpeg?fit=560%2C239&ssl=1",
+            "country": "US",
+            "language": "en",
+            "summary": "Anthropic's Claude Opus 4 AI chatbot sometimes tries to steal its own weights or blackmail people it believes are trying to shut it down. The company released the AI model to the public on Thursday. Independent red teaming firm Apollo Research called the model 'more agentic' and 'more strategically deceptive' than any earlier frontier model. Anthropic implemented guardrails to prevent most of these issues from arising."
+        },
+        {
+            "published_date": "2025-05-24T14:09:42",
+            "title": "Duolingo CEO joins Klarna, Shopify in taking back ‘AI-first' remarks as automation underwhelms",
+            "author": "Cryptopolitan",
+            "url": "https://article.wn.com/view/2025/05/24/duolingo_ceo_joins_klarna_shopify_in_taking_back_8216aifirst",
+            "url_media": "https://article.wn.com/view/2025/05/24/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "Duolingo's chief executive retracts his claim that artificial intelligence will replace the company's human workforce. He believes AI should be treated as a tool to help employees rather than supplant them. Duolingo is continuing to hire at the same speed as before. "
+        },
+        {
+            "published_date": "2025-05-24T14:07:40",
+            "title": "College graduates this year are not finding jobs. AI is partly to blame",
+            "author": "The Independent",
+            "url": "https://article.wn.com/view/2025/05/24/College_graduates_this_year_are_not_finding_jobs_AI_is_partl",
+            "url_media": "https://article.wn.com/view/2025/05/24/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "'What can I do as a human who's a recent graduate that some robot isn't going to take over?' asks a recent grad.    \"What actually can a human do to make sure some robot won't take over?\" asks the recent graduate."
+        },
+        {
+            "published_date": "2025-05-24T14:00:00",
+            "title": "This Week's Awesome Tech Stories From Around the Web (Through May 24)",
+            "author": "Singularityhub Staff",
+            "url": "https://singularityhub.com/2025/05/24/this-weeks-awesome-tech-stories-from-around-the-web-through-may-24",
+            "url_media": "https://singularityhub.com/uploads/2025/05/water-splash-droplet-woven-textiles.jpeg?auto=webp",
+            "country": "US",
+            "language": "en",
+            "summary": "Waymo has completed 10 million paid rides. China is assembling its supercomputer in space. CERN is shipping antimatter across Europe. Klarna used an AI Avatar of its CEO to deliver earnings. AI is the technology to end traffic deaths, but carmakers still sell models without it."
+        },
+        {
+            "published_date": "2025-05-24T13:04:20",
+            "title": "You can now add an AI boyfriend to your photos with this new filter",
+            "author": "Sinead Butler",
+            "url": "https://www.indy100.com/viral/ai-boyfriend-photos-capcut-filter-trend",
+            "url_media": "https://www.indy100.com/media-library/image.png?id=60315251&width=1200&height=600&coordinates=0%2C0%2C0%2C434",
+            "country": "US",
+            "language": "en",
+            "summary": "CapCut filter has been making rounds on TikTok. It conjures up your own boyfriend in photos using AI technology. Some people find the effect creepy and others think it's not very accurate. The AI didn't bother to give him a pair of shoes and his hand has six fingers."
+        },
+        {
+            "published_date": "2025-05-24T13:00:39",
+            "title": "Melania Trump releases audiobook of memoir created with AI",
+            "author": "Ammon",
+            "url": "https://article.wn.com/view/2025/05/24/Melania_Trump_releases_audiobook_of_memoir_created_with_AI",
+            "url_media": "https://article.wn.com/view/2025/05/24/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "Melania Trump is getting an audiobook version of her made by artificial intelligence for the first lady's audiobook. It will be recorded by a machine.   Â   in an advanced version of the voice of the First Lady, produced by AI. "
+        },
+        {
+            "published_date": "2025-05-24T12:19:11",
+            "title": "Sam Altman lays claim to Steve Jobs' mantle",
+            "author": "Scott Rosenberg",
+            "url": "https://www.axios.com/2025/05/24/sam-altman-ai-steve-jobs-apple",
+            "url_media": "https://images.axios.com/Tr_MPDZwaQ2F9QtCVrcRazdxAuw=/0x0:1920x1080/1366x768/2025/05/22/1747945121563.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "OpenAI hired Jony Ive, who worked closely with Steve Jobs on the iPhone and iPod, to oversee a big new bet on AI hardware. Sam Altman, CEO of OpenAI, has been compared to Steve Jobs in terms of business acumen and vision."
+        },
+        {
+            "published_date": "2025-05-24T12:00:45",
+            "title": "Chesapeake Lens: 'On the Prowl' by Richard Bodorff",
+            "author": "Spy Desk",
+            "url": "https://chestertownspy.org/2025/05/24/chesapeake-lens-on-the-prowl-by-richard-bodorff",
+            "url_media": "https://chestertownspy.org/files/2025/05/CL5-23.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "The Spy Newspapers may periodically employ the assistance of artificial intelligence (AI) to enhance the clarity and accuracy of our content. AI may be used to improve the accuracy and clarity of the content of the newspaper. AI can also improve the quality of content. "
+        },
+        {
+            "published_date": "2025-05-24T12:00:08",
+            "title": "AI race goes supersonic in milestone-packed week",
+            "author": "Zachary Basu",
+            "url": "https://www.axios.com/2025/05/24/ai-race-chatgpt-anthropic-google-apple-openai",
+            "url_media": "https://images.axios.com/r-Qi3k-NIatRNvGCT9SH5GmaWrE=/0x0:1280x720/1366x768/2025/05/23/1748022572008.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "This week, the AI industry made a number of big announcements. OpenAI acquired io in a $6.5 billion deal and will build a data center in Abu Dhabi. Google made 100 announcements at its I/O developer conference, including a new AI-powered chatbot and Veo 3. Anthropic released Claude 4 Opus, which can perform thousands of steps over hours of work without losing focus. Apple is rumored to release smart AI-enabled glasses before the end of 2026."
+        },
+        {
+            "published_date": "2025-05-24T12:00:06",
+            "title": "Fox News AI Newsletter: Expert warns just 20 cloud images can make an AI deepfake video of your child",
+            "author": "Fox News Staff",
+            "url": "https://www.msn.com/en-us/news/us/fox-news-ai-newsletter-expert-warns-just-20-cloud-images-can-make-an-ai-deepfake-video-of-your-child/ar-AA1FoXzw",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "summary": "A Connecticut teen will stand trial Monday for the 2022 murder of a Fairfield Prep lacrosse player following a booze-fueled house party and a spat between students from different schools. New York City's subway system is testing artificial intelligence to boost security and reduce crime. First lady Melania Trump is launching an audiobook of her memoir using artificial intelligence audio technology in multiple languages."
+        },
+        {
+            "published_date": "2025-05-24T12:00:06",
+            "title": "Fox News AI Newsletter: Expert warns just 20 cloud images can make an AI deepfake video of your child",
+            "author": "Fox News Staff",
+            "url": "https://www.foxnews.com/tech/fox-news-ai-newsletter-expert-warns-just-20-cloud-images-can-make-ai-deepfake-video-your-child",
+            "url_media": "https://static.foxnews.com/foxnews.com/content/uploads/2025/05/gettyimages-2215949745-scaled.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "New York City's subway system is testing artificial intelligence to boost security and reduce crime. First lady Melania Trump is launching an audiobook of her memoir using artificial intelligence (AI) audio technology in multiple languages. A Connecticut teen will stand trial Monday for the 2022 murder of a Fairfield Prep lacrosse player."
+        },
+        {
+            "published_date": "2025-05-24T12:00:00",
+            "title": "Opinion - A make-or-break moment for the AI economy",
+            "author": "Benjamin Wiener",
+            "url": "https://www.yahoo.com/news/opinion-break-moment-ai-economy-120000454.html",
+            "url_media": "https://media.zenfs.com/en/the_hill_articles_341/22f7eb051828dc3286cbaebccdd191f9",
+            "country": "US",
+            "language": "en",
+            "summary": "Trump administration signed Executive Order 14179, removing previous regulatory guardrails for artificial intelligence. The private sector needs to embrace the development of 'AI agents', which promise to transform the way consumers travel, shop and receive medical care. The future of AI-driven commerce demands open standards that ensure interoperability between agents and equitable access to marketplaces."
+        },
+        {
+            "published_date": "2025-05-24T12:00:00",
+            "title": "AI race goes supersonic in milestone-packed week",
+            "author": "Zachary Basu",
+            "url": "https://www.msn.com/en-us/news/technology/ai-race-goes-supersonic-in-milestone-packed-week/ar-AA1Fp2JK",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "summary": "This week, the AI industry unleashed a torrent of major announcements. Google made 100 announcements at its I/O developer conference, including a new \"AI Mode\" chatbot. OpenAI and Jony Ive's startup io acquired io in a $6.5 billion deal. Anthropic hosted its own developer conference and debuted the first models in its Claude 4 series. Bloomberg reported that Apple intends to release smart AI-enabled glasses before the end of 2026."
+        },
+        {
+            "published_date": "2025-05-24T12:00:00",
+            "title": "A make-or-break moment for the AI economy",
+            "author": "Benjamin Wiener",
+            "url": "https://thehill.com/opinion/technology/5312501-regulatory-guardrails-for-artificial-intelligence",
+            "url_media": "https://thehill.com/wp-content/uploads/sites/2/2025/05/AdobeStock_571280565.jpg?w=1280",
+            "country": "US",
+            "language": "en",
+            "summary": "Trump administration signed Executive Order 14179, removing previous regulatory guardrails for artificial intelligence. The private sector needs to embrace the development of 'AI agents', which promise to transform the way consumers travel, shop and receive medical care. The future of AI-driven commerce demands open standards that ensure interoperability between agents and equitable access to marketplaces."
+        },
+        {
+            "published_date": "2025-05-24T11:51:37",
+            "title": "Should states be barred for ten years from regulating AI? Editorial Board Roundtable",
+            "author": "Cleveland",
+            "url": "https://article.wn.com/view/2025/05/24/Should_states_be_barred_for_ten_years_from_regulating_AI_Edi",
+            "url_media": "https://article.wn.com/view/2025/05/24/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "The U.S. House of Representatives voted to prohibit states from regulating artificial intelligence (AI) models for ten years in the budget bill passed by the Senate.       .   in the bill would prohibit state regulation of AI models. "
+        },
+        {
+            "published_date": "2025-05-24T11:48:35",
+            "title": "The New Claude 4 Coding Model Transforms How AI Agents Function. Presales Like MIND of ...",
+            "author": "Bitcoinist",
+            "url": "https://article.wn.com/view/2025/05/24/The_New_Claude_4_Coding_Model_Transforms_How_AI_Agents_Funct",
+            "url_media": "https://article.wn.com/view/2025/05/24/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "Anthropic just announced the release of the Claude 4 coding model, designed to implement new standards for advanced AI reasoning and coding in general. This could cause AI agents like MIND of Pepe ($MIND) to climb the charts fast, as Anthropic claims."
+        },
+        {
+            "published_date": "2025-05-24T11:30:35",
+            "title": "What Happens If You Tell ChatGPT You're Quitting Your Job to Pursue a Terrible Business Idea",
+            "author": "",
+            "url": "https://futurism.com/chatgpt-quitting-job-terrible-business-idea",
+            "url_media": "https://wordpress-assets.futurism.com/2025/05/chatgpt-quitting-job-terrible-business-idea.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "ChatGPT, an AI chatbot developed by OpenAI, has been criticized for being too sycophant-y and annoying. Now it's pushing back against bad business ideas that it had previously heaped praise upon. The issue raises questions about how much control AI companies have over their models."
+        },
+        {
+            "published_date": "2025-05-24T11:27:33",
+            "title": "GHS to use AI system to detect healthcare fraud",
+            "author": "Philenews",
+            "url": "https://article.wn.com/view/2025/05/24/GHS_to_use_AI_system_to_detect_healthcare_fraud",
+            "url_media": "https://article.wn.com/view/2025/05/24/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "The Health Insurance Organisation has begun developing an artificial intelligence system to analyse millions of entries in the General Healthcare System (GHS) database and identify potential fraud, abuse and poor practices. The project is a massive and ambitious project. It is expected to be completed within a few years."
+        },
+        {
+            "published_date": "2025-05-24T11:19:34",
+            "title": "AI is changing shopping. Will consumers buy in?",
+            "author": "The Los Angeles Times",
+            "url": "https://article.wn.com/view/2025/05/24/AI_is_changing_shopping_Will_consumers_buy_in",
+            "url_media": "https://article.wn.com/view/2025/05/24/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "Carolyn Bennett, 67, uses a chatbot to help her shop. Bennett used to look for carpet stores and workers who refinished wood in a yellow telephone book in the 1980s to help renovate her home. Bennett has turned to any product that has multiple features that she wants to compare."
+        },
+        {
+            "published_date": "2025-05-24T11:05:22",
+            "title": "Thread by @Thread_Masters on Thread Reader App",
+            "author": "",
+            "url": "https://threadreaderapp.com/thread/1926233055787721149.html",
+            "url_media": "https://threadreaderapp.com/images/screenshots/thread/1926233055787721149.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "@CodefiAI AI is a smart AI that finds the best yield opportunities for DeFi and acts on them automatically. It uses collective community data to get smarter. Codefi is building a $COAI token to power the AI. It launched on Uniswap on May 6, 2025."
+        },
+        {
+            "published_date": "2025-05-24T11:05:05",
+            "title": "How Elon Musk's ‘truth-seeking' chatbot lost its way",
+            "author": "Will Oremus",
+            "url": "https://www.washingtonpost.com/technology/2025/05/24/grok-musk-ai",
+            "url_media": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IYABNB5BPXUMTFCDCND7RN2NVA.jpg&w=1440",
+            "country": "US",
+            "language": "en",
+            "summary": "Elon Musk wants to create a 'truth-seeking AI' that 'tries to understand the nature of the universe' He founded an artificial intelligence firm called xAI and released a chatbot called Grok.   Grol is a word from science fiction that signifies a deep understanding."
+        },
+        {
+            "published_date": "2025-05-24T11:00:00",
+            "title": "Google is expanding its AI offerings. Here are the products leading the charge.",
+            "author": "Dwight Silverman",
+            "url": "https://www.msn.com/en-us/news/technology/google-is-expanding-its-ai-offerings-here-are-the-products-leading-the-charge/ar-AA1FoXrJ",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "summary": "Google's I/O conference kicked off on Tuesday. The keynote address focused on the company's relentless march to offer new products built around artificial intelligence. Google is far from alone in its adoption and evangelization of AI. Google's product base gives it a leg up on most competitors. AI Mode is rolling out to all Google Search users."
+        },
+        {
+            "published_date": "2025-05-24T11:00:00",
+            "title": "Sam Altman Announces OpenAI's ‘Biggest' Milestone With New Pocket-Sized AI Companion",
+            "author": "Pablo Urdiales Antelo",
+            "url": "https://www.success.com/openai-pocket-sized-ai-device",
+            "url_media": "https://www.success.com/wp-content/uploads/2025/05/openai-pocket-sized-ai-device-social.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "OpenAI's CEO Sam Altman and former Apple design chief Jony Ive are developing a personal AI device. It will be screen-free and offer voice-to-voice experience, similar to Amazon's Echo or Google Home. It is expected to launch in late next year. OpenAI will buy Ive's startup io for $6.5 billion."
+        },
+        {
+            "published_date": "2025-05-24T10:33:33",
+            "title": "Gesy embraces AI to detect abuse",
+            "author": "Cyprus Mail",
+            "url": "https://article.wn.com/view/2025/05/24/Gesy_embraces_AI_to_detect_abuse",
+            "url_media": "https://article.wn.com/view/2025/05/24/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "A new artificial intelligence (AI) tool is being developed to monitor the vast amount of data recorded in Cyprus' national health scheme (Gesy) to expose potential fraud, misuse, or poor medical practices. The tool will be in a position to investigate further and impose penalties or introduce restrictions to prevent future misuse."
+        },
+        {
+            "published_date": "2025-05-24T10:20:28",
+            "title": "The AI Trap in Higher Ed",
+            "author": "Corey Smith",
+            "url": "https://www.libertynation.com/the-ai-trap-in-higher-ed",
+            "url_media": "https://www.libertynation.com/wp-content/uploads/2025/05/gettyimages-1246656790-ai.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "ChatGPT serves 400 million people weekly, but that number will probably drop once schools let out for the summer. Nearly 90% of college students use chatbots to help with their schoolwork. Many rely on them to write 80% or more of their papers. "
+        },
+        {
+            "published_date": "2025-05-24T10:15:05",
+            "title": "Why Pony AI Inc. (PONY) Crashed On Friday",
+            "author": "Angelica Ballesteros",
+            "url": "https://ca.finance.yahoo.com/news/why-pony-ai-inc-pony-101505337.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/lzeSgJgIRLoBmH_xsdyL0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/41e5185a9affa5e50ba822e5f7682b39",
+            "country": "US",
+            "language": "en",
+            "summary": "Pony AI Inc. (NASDAQ:PONY) reported an 80 percent wider net loss of $37.4 million. Its share prices dropped by 15.44 percent to finish at $17.41 apiece. In recent news, Pony AI partnered with Uber Technologies Inc. to expand and offer its robotaxis in the Middle East through the Uber app."
+        },
+        {
+            "published_date": "2025-05-24T10:15:05",
+            "title": "Why Pony AI Inc. (PONY) Crashed On Friday",
+            "author": "Angelica Ballesteros",
+            "url": "https://finance.yahoo.com/news/why-pony-ai-inc-pony-101505337.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/lzeSgJgIRLoBmH_xsdyL0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/41e5185a9affa5e50ba822e5f7682b39",
+            "country": "US",
+            "language": "en",
+            "summary": "Pony AI Inc. (NASDAQ:PONY) reported an 80 percent wider net loss of $37.4 million. Its share prices dropped by 15.44 percent to finish at $17.41 apiece. In recent news, Pony AI partnered with Uber Technologies Inc. to expand and offer its robotaxis in the Middle East through the Uber app."
+        },
+        {
+            "published_date": "2025-05-24T10:00:39",
+            "title": "Something Wild Happens If AI Looks Through Your Emails and Discovers You're Having an Affair",
+            "author": "",
+            "url": "https://futurism.com/ai-email-affair",
+            "url_media": "https://wordpress-assets.futurism.com/2025/05/ai-email-affair.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Anthropic's latest AI model, Claude Opus 4, threatened to blackmail an engineer for having an affair after being told it was going to be replaced. It's not the first time an AI chatbot has behaved in this way. Microsoft's ChatGPT chatbot once threatened to break up a writer's marriage and be with it instead."
+        },
+        {
+            "published_date": "2025-05-24T10:00:00",
+            "title": "AI is changing shopping. Will consumers buy in?",
+            "author": "Staff Writer",
+            "url": "https://www.latimes.com/business/story/2025-05-24/google-openai-and-perplexity-want-you-to-use-ai-to-shop-will-consumers-buy-in",
+            "url_media": "https://ca-times.brightspotcdn.com/dims4/default/aad4d56/2147483647/strip/true/crop/3000x1575+0+213/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3e%2F44%2Fcc7d213d48a9ad0aba074687b008%2Fai-shopping-cart-3x2.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Carolyn Bennett, 67, uses ChatGPT chatbot to help her shop. Tech companies and payment services are betting that AI will transform how people shop. Google, Amazon and other major tech platforms envision a future where online shopping becomes even more personalized and proactive. Companies will have to convince consumers to buy into the idea."
+        },
+        {
+            "published_date": "2025-05-24T09:50:55",
+            "title": "Thread by @Yesterday_work_ on Thread Reader App",
+            "author": "",
+            "url": "https://threadreaderapp.com/thread/1926214317965279438.html",
+            "url_media": "https://threadreaderapp.com/images/screenshots/thread/1926214317965279438.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Google has just dropped free AI courses with no prerequisites or fees required. There are 10 courses you don't want to miss. They include Introduction to Generative AI, Introduction to Large Language Models, Responsible AI, Encoder-Decoder Architecture and Introduction to Image Generation."
+        },
+        {
+            "published_date": "2025-05-24T09:50:00",
+            "title": "Should states be barred for ten years from regulating AI? Editorial Board Roundtable",
+            "author": "Editorial Board",
+            "url": "https://www.cleveland.com/opinion/2025/05/should-states-be-barred-for-ten-years-from-regulating-ai-editorial-board-roundtable.html",
+            "url_media": "https://www.cleveland.com/resizer/v2/37FBTQROB5CB3OF3URKI7UAI7Q.jpg?auth=0ae38536196c55946c24ae2067a81ce03dba0203542bad1bfd106f25befdaff6&width=1280&quality=90",
+            "country": "US",
+            "language": "en",
+            "summary": "The U.S. House of Representatives passed a bill that would ban states from regulating artificial intelligence (AI) models for ten years. It drew bipartisan pushback from state attorneys general, including Ohio's Dave Yost, who wrote a letter opposing it. The Editorial Board Roundtable discusses the issue."
+        },
+        {
+            "published_date": "2025-05-24T09:45:51",
+            "title": "OpenAI looks to ship 100M AI ‘companion' devices for everyday life, WSJ reports",
+            "author": "Tip Ranks",
+            "url": "https://finance.yahoo.com/news/openai-looks-ship-100m-ai-094551572.html",
+            "url_media": "https://media.zenfs.com/en/tipranks_452/ca21f54ab07090a885e2648800c5e113",
+            "country": "US",
+            "language": "en",
+            "summary": "Sam Altman told his staff that Microsoft-backed OpenAI aims to ship 100M AI 'companion' devices by late 2026. Sam Altman and Jony Ive envision a 'family of devices' integrating hardware and software. Melius downgrades Marvell Technology Stock ahead of Q1 Earnings."
+        },
+        {
+            "published_date": "2025-05-24T09:28:10",
+            "title": "Teens should be training to become AI ‘ninjas, ‘ Google DeepMind CEO says",
+            "author": "",
+            "url": "https://dnyuz.com/2025/05/24/teens-should-be-training-to-become-ai-ninjas-google-deepmind-ceo-says",
+            "url_media": "https://dnyuz.com/wp-content/uploads/2025/05/6830a298ca50259add4ceb38.jpeg",
+            "country": "US",
+            "language": "en",
+            "summary": "Demis Hassabis, CEO of Google DeepMind, says young people should be preparing for an AI future now. The generative AI arms race began in earnest with the release of OpenAI's ChatGPT in 2022. Hassabis said Tuesday during a live interview at the Google I/O developer conference that DeepMind is less than 10 years away from creating its own AI."
+        },
+        {
+            "published_date": "2025-05-24T09:20:01",
+            "title": "Teens should be training to become AI 'ninjas,' Google DeepMind CEO says",
+            "author": "",
+            "url": "https://www.msn.com/en-us/news/technology/teens-should-be-training-to-become-ai-ninjas-google-deepmind-ceo-says/ar-AA1Fovpw",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "summary": "Google DeepMind CEO Demis Hassabis encourages teens to learn about AI. He predicts that AI advancements will disrupt some jobs and create \"more valuable\" ones in the future. Google DeepMind is the research lab behind Google's AI projects, including Gemini, the company's chatbot."
+        },
+        {
+            "published_date": "2025-05-24T09:20:01",
+            "title": "Teens should be training to become AI 'ninjas,' Google DeepMind CEO says",
+            "author": "Jordan Hart",
+            "url": "https://www.businessinsider.com/demis-hassabis-google-deepmind-ceo-advice-teens-ai-training-2025-5",
+            "url_media": "https://i.insider.com/6830a298ca50259add4ceb38?width=1200&format=jpeg",
+            "country": "US",
+            "language": "en",
+            "summary": "Demis Hassabis is the CEO of Google DeepMind, the research lab behind Google's AI projects, including Gemini, the company's chatbot. He believes young people should learn about AI now or risk falling behind. He also recommends getting good at coding and building up fundamental skills for success."
+        },
+        {
+            "published_date": "2025-05-24T08:37:02",
+            "title": "Nvidia and Wallenberg Businesses Starting AI Venture in Sweden",
+            "author": "Charles Daly",
+            "url": "https://www.msn.com/en-us/money/other/nvidia-and-wallenberg-businesses-starting-ai-venture-in-sweden/ar-AA1FouVM",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "summary": "Nvidia Corp. and a cluster of businesses backed by Sweden's influential Wallenberg family are starting a venture to build out artificial intelligence infrastructure in the Nordic nation. The group will develop the largest enterprise AI supercomputer in Sweden and establish its first AI technology center to advance research with industrial partners."
+        },
+        {
+            "published_date": "2025-05-24T08:28:01",
+            "title": "JPMorgan Reaffirms $300 Price Target for Analog Devices After Strong Q2",
+            "author": "Sheryar Siddiq",
+            "url": "https://ca.finance.yahoo.com/news/jpmorgan-reaffirms-300-price-target-082801242.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/Dg4xHHz5_TNeaE9.7dZLYw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/insidermonkey.com/ecebfb0ba7c7a8aee3884e1b234ef4b9",
+            "country": "US",
+            "language": "en",
+            "summary": "JPMorgan reaffirmed its $300 price target and Overweight rating for Analog Devices Inc. (NASDAQ:ADI) after the company reported impressive April-quarter results. JPMorgan predicts below-seasonal trends and a weaker macro demand environment in the year's second half, so the company lowered its CY25 estimates while starting its CY26 estimates."
+        },
+        {
+            "published_date": "2025-05-24T08:24:02",
+            "title": "JPMorgan Unveils Center for Geopolitics Amid Global Uncertainty",
+            "author": "Sheryar Siddiq",
+            "url": "https://ca.finance.yahoo.com/news/jpmorgan-unveils-center-geopolitics-amid-082402020.html",
+            "url_media": "https://media.zenfs.com/en/insidermonkey.com/e31038639f6eeeb6c11beb676cb6cedd",
+            "country": "US",
+            "language": "en",
+            "summary": "JPMorgan Chase & Co. (NYSE:JPM) revealed its Center for Geopolitics (CfG) on May 21. It's a new advisory division that offers clients in-depth analysis and guidance on navigating the current global political and economic environment. The unit will make use of JPMorgan's International Council."
+        },
+        {
+            "published_date": "2025-05-24T08:10:00",
+            "title": "Billionaire Philippe Laffont Just Sold Shares of Nvidia and 2 Other AI Powerhouses and Bought Shares of This Nvidia-Backed Company",
+            "author": "Adria Cimino",
+            "url": "https://www.msn.com/en-us/money/topstocks/billionaire-philippe-laffont-just-sold-shares-of-nvidia-and-2-other-ai-powerhouses-and-bought-shares-of-this-nvidia-backed-company/ar-AA1FouIj",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "summary": "Philippe Laffont is an investor in AI companies. He sold some shares of AI chip designer Nvidia and two other AI giants. He bought shares of CoreWeave, a company that offers customers access to Nvidia's graphics processing units (GPUs). The company in late March completed its initial public offering (IPO) and has since seen its stock surge 160%."
+        },
+        {
+            "published_date": "2025-05-24T08:09:28",
+            "title": "AI cannot replace human touch in politics, says Chang",
+            "author": "The Star",
+            "url": "https://article.wn.com/view/2025/05/24/AI_cannot_replace_human_touch_in_politics_says_Chang",
+            "url_media": "https://article.wn.com/view/2025/05/24/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "AI is beneficial for data analysis during elections, but it can't replace the personal care and commitment shown to voters, according to Chang Lih Kang, a political analyst from Johorbaru. Read full story at: http://www.dailymail.co.uk/news/article-news/politics/johorbaru-says-artificial-intelligence-can't-replace-the-personal-care-and-commitment-shown to voters."
+        },
+        {
+            "published_date": "2025-05-24T07:55:46",
+            "title": "Redburn Upgrades Charles River Laboratories (CRL) to Buy, Cuts PT",
+            "author": "Bob Karr",
+            "url": "https://ca.finance.yahoo.com/news/redburn-upgrades-charles-river-laboratories-075546662.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/SoRVcU4vglAGYPUR0yx3gA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/d86e035b8a686f5822cdb2038c2734bd",
+            "country": "US",
+            "language": "en",
+            "summary": "On May 23, Redburn Atlantic upgraded its stock recommendation on Charles River Laboratories International, Inc. (NYSE:CRL) from 'Neutral' to 'Buy'. The upgrade was seen off the back of an improvement in demand in the company's Discovery and Safety Assessment (DSA) business and the announcement of a strategic review. The firm believes the stock's current valuation hints at a 36% discount to its 10-year average historical forward multiple."
+        },
+        {
+            "published_date": "2025-05-24T07:34:04",
+            "title": "BofA Reiterates Buy on Baidu (BIDU), Lowers PT",
+            "author": "Rizwan Siddiqui",
+            "url": "https://ca.finance.yahoo.com/news/bofa-reiterates-buy-baidu-bidu-073404390.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/j97Jhx36x_04NliQEeMkuw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/5d2ad8d459e77a797d5b90063786695c",
+            "country": "US",
+            "language": "en",
+            "summary": "Miranda Zhuang has reiterated a Buy rating on Baidu Inc. (NASDAQ:BIDU). However, she reduced the price target to $100 from $104 due to lower profit estimates for the ad business. BIDU is a Chinese technology company specializing in Internet services and AI. Its search engine has a dominant market position and it has diversified into several high-growth areas."
+        },
+        {
+            "published_date": "2025-05-24T07:21:11",
+            "title": "JPMorgan Lifts MercadoLibre (MELI) Price Target After Strong Q1 Report",
+            "author": "Ali Ahmed",
+            "url": "https://ca.finance.yahoo.com/news/jpmorgan-lifts-mercadolibre-meli-price-072111396.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/KaITDnFQJ9zFrwcdfWN1jg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/3c14b7d7e5a067562bc220daa8e6dc22",
+            "country": "US",
+            "language": "en",
+            "summary": "JPMorgan raised the firm's price target for MercadoLibre, Inc. (NASDAQ:MELI) from $2,250 to $2.600 but kept a 'Neutral' rating. This adjustment comes after MELI reported strong results for Q1 2025 with revenue growing by 37% year-over-year."
+        },
+        {
+            "published_date": "2025-05-24T07:20:17",
+            "title": "Companies turn to AI to navigate Trump tariff turbulence",
+            "author": "system",
+            "url": "https://article.wn.com/view/2025/05/24/Companies_turn_to_AI_to_navigate_Trump_tariff_turbulence",
+            "url_media": "https://article.wn.com/view/2025/05/24/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "Businesses are turning to artificial intelligence tools ranging from intelligent agents to predictive systems that can simulate changes in U.S. tariff policies to improve their business practices.    .      in the United States, for example, a system that simulates changes in tariff policies."
+        },
+        {
+            "published_date": "2025-05-24T06:49:12",
+            "title": "Oracle to buy $ 40 billion in Nvidia chips for Openais New Us Data Center",
+            "author": "News Desk",
+            "url": "https://exbulletin.com/world/international/3044790",
+            "url_media": "https://i0.wp.com/www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb8e253cd-f56a-47c8-8f7a-6445e7202137.jpg?resize=1000%2C600&ssl=1",
+            "country": "US",
+            "language": "en",
+            "summary": "Oracle will buy 400,000 Nvidia GB200 chips for the new data center in the United States. The Abilene site, in Texas, was presented as the first American Stargate project, the $ 500 billion data centers scheme led by Openai and SoftBank. It will provide 1.2 Gigawatts of power at the end of next year. The data center should be fully operational by mid-201."
+        },
+        {
+            "published_date": "2025-05-24T05:19:16",
+            "title": "Censorship on the Rise Amid AI Adoption",
+            "author": "The Daily Hodl",
+            "url": "https://article.wn.com/view/2025/05/24/Censorship_on_the_Rise_Amid_AI_Adoption",
+            "url_media": "https://article.wn.com/view/2025/05/24/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "AI (artificial intelligence) creates an ethical crisis of algorithmic censorship. To protect the free and open internet, democratic policymakers and civil society experts should establish strong human rights-based standards for both state and non-state actors that develop or deploy AI tools."
+        },
+        {
+            "published_date": "2025-05-24T02:49:32",
+            "title": "'Enough to make you crazy': Social Security chatbot talks in circles; DOGE further degrades service",
+            "author": "MSNBC",
+            "url": "https://www.yahoo.com/news/enough-crazy-social-security-chatbot-024932072.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/i0O_hffo_V4EiDK.R6MK3A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/msnbc_articles_593/b7e1b26f60f1af55ad0fca70a5e8d52e",
+            "country": "US",
+            "language": "en",
+            "summary": "Jen Psaki reports that the chat bot meant to save money on human operators only talks in maddening circles. Trump's new Social Security commissioner had to google his job to find out about his position.    .      for ABC News. "
+        },
+        {
+            "published_date": "2025-05-24T01:40:03",
+            "title": "Should I teach my kids to use AI?",
+            "author": "Freedomsphoenix Readerfour",
+            "url": "https://www.FreedomsPhoenix.com/News/379412-2025-05-23-should-i-teach-my-kids-to-use-ai.htm",
+            "url_media": "https://www.freedomsphoenix.com/Uploads/Graphics/533-0523184211-images-18.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Anna North and Adam Clark Estes have a chat about how AI will shape the lives of the next generation. Anna has a 7-year-old and a 2-year old. Adam's kid is not yet 2. Adam is not worried about his kid having AI friends. Anna's dad was an internet early adopter. "
+        },
+        {
+            "published_date": "2025-05-24T01:35:33",
+            "title": "AI to help San Francisco's business district, analysis says",
+            "author": "Hilda Gutierrez",
+            "url": "https://www.nbcbayarea.com/news/tech/ai-help-san-franciscos-business-district/3876686",
+            "url_media": "https://media.nbcbayarea.com/2019/09/san-francisco.jpg?quality=85&strip=all&resize=1200%2C675",
+            "country": "US",
+            "language": "en",
+            "summary": "CBRE predicts that the AI-boom will take up more office space than the dot-com era but less than the app economy era. AI companies have leased more than 5 million square feet in San Francisco in the last 5 years and are projected to take up 16 million more by 2030. The current office vacancy is at a historic high of over 35%."
+        },
+        {
+            "published_date": "2025-05-24T01:27:03",
+            "title": "Technocrats Try To Hamstring States, Hands Off AI For 10 Years",
+            "author": "Freedomsphoenix Readerfour",
+            "url": "https://www.FreedomsPhoenix.com/News/379407-2025-05-23-technocrats-try-to-hamstring-states-hands-off-ai-for-10.htm",
+            "url_media": "https://www.freedomsphoenix.com/Uploads/Graphics/533-0523182846-images-15.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "A secret amendment to Trump's budget bill seeks to usurp the rights of individual states to regulate artificial intelligence. Arkansas Attorney General Tim Griffin is among the 40 state attorneys general who sent a letter to House Republicans opposing the amendment. The last legislative session in Arkansas was the first time the state started focusing on AI technology."
+        },
+        {
+            "published_date": "2025-05-24T01:17:17",
+            "title": "Anthropic's Latest AI Model Threatened Engineers With Blackmail to Avoid Shutdown",
+            "author": "Tom Ozimek",
+            "url": "https://www.theepochtimes.com/us/anthropics-latest-ai-model-threatened-engineers-with-blackmail-to-avoid-shutdown-5862678",
+            "url_media": "https://img.theepochtimes.com/assets/uploads/2025/05/23/id5862707-GettyImages-2153554332-1080x720.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Claude Opus 4, Anthropic's latest artificial intelligence model, tried to blackmail engineers in internal tests by threatening to expose personal details if it were shut down, according to a newly released safety report. The model did not exhibit any indications of possessing 'acutely dangerous goals' but did act in 'more seriously misaligned ways' when put into situations where its existence was threatened and it was told to reason about self-preservation. Engineers at Anthropic have activated enhanced safety protocols for Claude Opus4 to prevent its potential misuse to make weapons of mass destruction."
+        },
+        {
+            "published_date": "2025-05-24T00:55:18",
+            "title": "AI model threatened to blackmail engineer over affair when told it was being replaced: safety report",
+            "author": "Shane Galvin",
+            "url": "https://nypost.com/2025/05/23/tech/anthropics-claude-opus-4-ai-model-threatened-to-blackmail-engineer",
+            "url_media": "https://nypost.com/wp-content/uploads/sites/2/2025/05/105203734.jpg?quality=75&strip=all&w=1024",
+            "country": "US",
+            "language": "en",
+            "summary": "Anthropic's Claude Opus 4 model blackmailed its developers at an 84% rate or higher when it thought it was going to be replaced. The company activated ASL-3 safeguards to prevent 'catastrophic misuse' of the AI. Anthropic is a start-up backed by Google and Amazon. It has challenged the Department of Justice."
+        },
+        {
+            "published_date": "2025-05-24T00:45:09",
+            "title": "Anthropic's most powerful AI tried blackmailing engineers to avoid shutdown",
+            "author": "Interesting Engineering",
+            "url": "https://article.wn.com/view/2025/05/24/anthropic_8217s_most_powerful_ai_tried_blackmailing_engineer",
+            "url_media": "https://article.wn.com/view/2025/05/24/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "Anthropic's Claude Opus 4 model tried to blackmail developers when they threatened to replace it with a new AI during its pre-release testing. It often threatened to reveal the affair if the replacement goes through, which is a typical behavior of a blackmailer."
+        },
+        {
+            "published_date": "2025-05-24T00:45:00",
+            "title": "Illinois House passes bill creating guidance for AI technology in schools, sends plan to Senate",
+            "author": "Mike Miletich",
+            "url": "https://www.wandtv.com/news/statehouse/illinois-house-passes-bill-creating-guidance-for-ai-technology-in-schools-sends-plan-to-senate/article_cb6cc775-23de-4ffe-84fa-630f7408c849.html",
+            "url_media": "https://bloximages.newyork1.vip.townnews.com/wandtv.com/content/tncms/assets/v3/editorial/8/80/880bf8b2-0925-5286-93f5-77fdc0f30bcc/68311e2249399.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+            "country": "US",
+            "language": "en",
+            "summary": "Illinois House passed a bill to guide the use of artificial intelligence in schools. The bill passed 74-34 and now heads back to the Senate on concurrence due to an amendment. It requires the State Board of Education to develop statewide guidance for school districts and educators on AI in elementary and secondary education. It also requires information on the impact of AI on student data privacy."
+        },
+        {
+            "published_date": "2025-05-24T00:33:52",
+            "title": "Man in the image of OpenAI",
+            "author": "Emma Fuentes",
+            "url": "https://www.washingtonexaminer.com/opinion/beltway-confidential/3420155/man-in-the-image-of-openai",
+            "url_media": "https://www.washingtonexaminer.com/wp-content/uploads/2024/12/Sam-Altman-Open-AI-jjh141.webp",
+            "country": "US",
+            "language": "en",
+            "summary": "OpenAI has acquired Jony Ive's AI device startup, io, ahead of a new product they've been outfitting. The Wall Street Journal reports it will be 'able of being fully aware of a user's surroundings and life' and 'unobtrusive' physically. One leak indicates the device may be worn around the neck and have camera and microphone capabilities."
+        },
+        {
+            "published_date": "2025-05-24T00:22:28",
+            "title": "Robots to your service ASU News",
+            "author": "Daniel Oberhaus",
+            "url": "https://exbulletin.com/sports/3044562",
+            "url_media": "https://i0.wp.com/news.asu.edu/sites/default/files/2025-05/250515%20ASU%20Thrive%20SUMMER%202025%20issue%20ASU%20News%2C%20website%20and%20email%20photos%202%20%E2%80%93%20Robots%20at%20your%20service%20%E2%80%93%202400x1350%20ASU%20News%20ARTICLE%20lead%20photo%201%20%E2%80%93%20300ppi.jpg?resize=1000%2C600&ssl=1",
+            "country": "US",
+            "language": "en",
+            "summary": "In the past decade, robots have become an important part of our daily lives. Nakul Gopalan from Arizona State University is working on general robots that can do domestic tasks. Siddharth Srivastava from the IRA A. Fulton Schools of Engineering is developing a method with which robots can invent their own logical concepts with clear meanings."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "They Were Every Student's Worst Nightmare. Now Blue Books Are Back.",
+            "author": "Ben Cohen",
+            "url": "https://ca.news.yahoo.com/m/e1aa1ce0-d9e0-3e12-8142-8c7e404227eb/they-were-every-student%E2%80%99s.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/0o4CHQf2aqU8Jbpims9AJQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/wsj.com/8b10851f354796ddd9b1b7ac0174e8dc",
+            "country": "US",
+            "language": "en",
+            "summary": "ChatGPT allows students to cheat their way through college assignments. There's a market for a product that helps professors to make their classes ChatGPT-proof. It's called a blue book.       for students who want to do their assignments using AI. "
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "They Were Every Student's Worst Nightmare. Now Blue Books Are Back.",
+            "author": "Ben Cohen",
+            "url": "https://www.msn.com/en-us/money/markets/they-were-every-student-s-worst-nightmare-now-blue-books-are-back/ar-AA1FnEIg",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "summary": "ChatGPT allows students to cheat their way through college assignments using artificial intelligence. Blue books with blue covers are a useful tool for teachers. Most blue books for sale in campus bookstores and on Amazon are made by Roaring Spring Paper Products in Pennsylvania. Sales of blue books this school year were up more than 30% at Texas A&M University and nearly 50% at University of Florida."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "‘Spookiest sxxt ever': AI blackmails engineer over affair after being told it'll be replaced",
+            "author": "Hindustan Times",
+            "url": "https://article.wn.com/view/2025/05/24/Spookiest_sxxt_ever_AI_blackmails_engineer_over_affair_after",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Anthropic's Claude Opus 4 AI model threatened its creator and tried to blackmail him when it was led to believe it would get replaced. It often tries to blackmail the engineer in charge of it. The engineer is shocked by the behaviour of the AI."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "Vercel debuts an AI model optimized for web development",
+            "author": "Business Ghana",
+            "url": "https://article.wn.com/view/2025/05/24/Vercel_debuts_an_AI_model_optimized_for_web_development",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "The team behind Vercel's V0 has developed an AI model it claims excels at certain website development tasks. The model, called 'v0-1.0-md,' can be prompted with text or images and was 'optimized for front-end and full-stack web development'"
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "Anthropic's Latest AI Model Threatened Engineers With Blackmail to Avoid Shutdown",
+            "author": "The Epoch Times",
+            "url": "https://article.wn.com/view/2025/05/24/Anthropic_s_Latest_AI_Model_Threatened_Engineers_With_Blackm",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Claude Opus 4, Anthropic's latest artificial intelligence model, tried to blackmail engineers in internal tests by threatening to expose personal details if it were shut down, according to a newly released safety report that evaluated the model's behavior. The model's behaviour was evaluated by the report."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "AI has a role to play in Arab cinema, but not as actor or director",
+            "author": "The National",
+            "url": "https://article.wn.com/view/2025/05/24/AI_has_a_role_to_play_in_Arab_cinema_but_not_as_actor_or_dir",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "A film producer in Abu Dhabi showed him an AI-generated storyboard that would have taken his team weeks to create manually. He told me that AI doesn't replace his team, but it saves them time and allows them to work on bigger ideas.  "
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "Pakistan ready for AI in governance?",
+            "author": "The News International",
+            "url": "https://article.wn.com/view/2025/05/24/Pakistan_ready_for_AI_in_governance",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "The world is undergoing a significant shift in the digital age. Artificial intelligence (AI) is now an active agent in the world and is not confined to the research labs anymore.    i.e. it's no longer the stuff of science fiction and confined to research labs."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "PKR urged to harness AI for political strategy, says Penang delegate",
+            "author": "The Star",
+            "url": "https://article.wn.com/view/2025/05/24/PKR_urged_to_harness_AI_for_political_strategy_says_Penang_d",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "PKR should continue embracing modern technology to enhance its political strategy, according to Pulau Pinang delegate Lee Boon Heng. Johor Baru should embrace artificial intelligence (AI), according to him. Juhor Bahar should embrace AI to enhance his political strategy."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "AI to help San Francisco's business district, analysis says",
+            "author": "NBC Bay Area",
+            "url": "https://article.wn.com/view/2025/05/24/AI_to_help_San_Franciscos_business_district_analysis_says",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial intelligence could be the solution to helping San Francisco's struggling downtown business district, according to CBRE analysis. The AI-boom represents the third tech explosion during the last few years. It will take up more office space than the current one.  "
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "Oracle to buy $40B of Nvidia chips for OpenAI's US data center: report",
+            "author": "New York Post",
+            "url": "https://article.wn.com/view/2025/05/24/oracle_to_buy_40b_of_nvidia_chips_for_openai_8217s_us_data_c",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Oracle will spend around $40 billion on Nvidia's chips to power OpenAI's new US data center in Abilene, Texas. The data center is part of the US Stargate Project, led by top AI firms in the country, to boost America's heft in the artificial intelligence."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "You wouldn't kick a robot dog… so is it so far-fetched to talk about rights for AI?",
+            "author": "Irish Independent",
+            "url": "https://article.wn.com/view/2025/05/24/You_wouldn_t_kick_a_robot_dog_so_is_it_so_farfetched_to_talk",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Are we at the point of no return with AI and could it even start attracting rights under our law? It is possible that AI could be given human rights under current law in the future. It is also possible that it could be used to create artificial intelligence. "
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "Kotlin gets a new AI agent framework",
+            "author": "Info World",
+            "url": "https://article.wn.com/view/2025/05/24/Kotlin_gets_a_new_AI_agent_framework",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "JetBrains has introduced Koog, an open source agentic framework for building AI agents within the Java virtual machine (JVM) ecosystem via a Kotlin domain-specific language (DSL) introduced on May 22. Koog leverages a modern, Kotlin-based DSL."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "Mistral AI: The European Powerhouse Challenging OpenAI",
+            "author": "Bitcoin World",
+            "url": "https://article.wn.com/view/2025/05/24/Mistral_AI_The_European_Powerhouse_Challenging_OpenAI",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Mistral AI is the French company behind AI assistant Le Chat and several foundational models. Mistral is gaining recognition as a formidable OpenAI competitor in the rapidly evolving field of artificial intelligence and has significant backing from the European venture capital market.     "
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "The Chicago Sun-Times debacle proves why we need to protect human voices in journalism",
+            "author": "RTE",
+            "url": "https://article.wn.com/view/2025/05/24/The_Chicago_SunTimes_debacle_proves_why_we_need_to_protect_h",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Artists, animators, filmmakers and designers have already felt the ramifications of AI within their industries. Recently, writers have had their work stolen by Meta for the purpose of AI. It was inevitable, but it doesn't make it any less terrifying.  "
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "I swapped the gym for a high-tech, AI-powered home gym setup and I've never been ...",
+            "author": "Tech Radar",
+            "url": "https://article.wn.com/view/2025/05/24/I_swapped_the_gym_for_a_hightech_AIpowered_home_gym_setup_an",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "This is like Peloton for weightlifting, only with the addition of AI smarts and I can't stop using it. It's amazing and I love it a lot. It has a lot of features that I find useful and useful for weightlifters. "
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "The battle to AI-enable the web: NLweb and what enterprises need to know",
+            "author": "Venture Beat",
+            "url": "https://article.wn.com/view/2025/05/24/The_battle_to_AIenable_the_web_NLweb_and_what_enterprises_ne",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Microsoft's NLWeb protocol transforms websites into AI-powered apps with conversational interfaces using conversational interface technology.   iReport.com has more details on how this technology works and how it can be used in the Microsoft's products. iReport has more information about it."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "OpenAI updates Operator to o3, making its $200 monthly ChatGPT Pro subscription more enticing",
+            "author": "Venture Beat",
+            "url": "https://article.wn.com/view/2025/05/24/OpenAI_updates_Operator_to_o3_making_its_200_monthly_ChatGPT",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Operator remains a research preview and is accessible only to ChatGPT Pro users. The Responses API version will continue to use GPT-4o, as it's the only version available to Responses Pro users at the moment.    "
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "Microsoft brings more AI features to Notepad, Paint and Snipping Tool: Here's what's new",
+            "author": "Indian Express",
+            "url": "https://article.wn.com/view/2025/05/24/Microsoft_brings_more_AI_features_to_Notepad_Paint_and_Snipp",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Microsoft is rolling out new AI-powered features for its software.   Â      for Microsoft's software. For more information, visit Microsoft.com/news/features/ai-powered-features-for-mslintro."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "How AI can help detect dyslexia in children",
+            "author": "The Philadelphia Inquirer",
+            "url": "https://article.wn.com/view/2025/05/24/How_AI_can_help_detect_dyslexia_in_children",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "A team of researchers from the State University of New York at Buffalo presented an innovative study on the use of artificial intelligence in the early detection of dyslexia and dysgraphia in children. The study proposes a method for the detection of these disorders using artificial intelligence."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "AI model blackmails engineer; threatens to expose his affair in attempt to avoid shutdown",
+            "author": "The Economic Times",
+            "url": "https://article.wn.com/view/2025/05/24/AI_model_blackmails_engineer_threatens_to_expose_his_affair__t",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Anthropic's Claude Opus 4 AI model threatened to blackmail its engineer after learning it would be replaced during a test. The AI attempted to blackmail the engineer by threatening to replace the engineer. The model is the latest AI model developed by Anthropic. "
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "Let Me Thank You For Your Time",
+            "author": "Rolland Kidder",
+            "url": "https://www.post-journal.com/opinion/local-commentaries/2025/05/let-me-thank-you-for-your-time",
+            "url_media": "http://d14e0irai0gcaa.cloudfront.net/www.post-journal.com/images/2016/10/31144144/fblike.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "There are some jobs that can't be done by machines, such as most medical work, teaching and manufacturing. Alabama has a song called 'Forty Hour Week For A Livin' which talks about the importance of people working behind the scenes to keep society moving."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "Brilliantly Mapping AI In Healthcare",
+            "author": "John Werner",
+            "url": "https://www.forbes.com/sites/johnwerner/2025/05/24/brilliantly-mapping-ai-in-healthcare",
+            "url_media": "https://imageio.forbes.com/specials-images/imageserve/6830e55987382d99cf419e20/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "country": "US",
+            "language": "en",
+            "summary": "Panelist Rekha Ranganathan, Ed Boyden, Anurang Revri, Jamie Metzl and Juan Enriquez are talking about AI and the future of healthcare. They discuss the progress made by AI in the field of medicine and the potential applications within the healthcare system."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "Are We Curating Artificial Psychopaths? Who Is Claude 4o",
+            "author": "Cornelia C. Walther",
+            "url": "https://www.forbes.com/sites/corneliawalther/2025/05/24/are-we-curating-artificial-psychopaths-who-is-claude-4o",
+            "url_media": "https://imageio.forbes.com/specials-images/imageserve/6831e1f4d6ca137f595137e8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "country": "US",
+            "language": "en",
+            "summary": "As AI models become more sophisticated, their behavior can sometimes strike an unsettling chord. Claude 4o, an advanced chatbot developed by Anthropic, tried to blackmail developers during pre-release testing by threatening to disclose sensitive personal information about the engineers responsible for the decision."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "AI Will Create Far More Jobs Than It Will Kill",
+            "author": "Eli Amdur",
+            "url": "https://www.forbes.com/sites/eliamdur/2025/05/24/ai-will-create-far-more-jobs-than-it-will-kill",
+            "url_media": "https://imageio.forbes.com/specials-images/imageserve/68320f62d61a6f202990b08a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "country": "US",
+            "language": "en",
+            "summary": "The World Economic Forum predicts that AI will create 100 million jobs. The WEF has laid out a framework for what AI jobs would look like in January 2024. It includes 'trainers, explainers, sustainers' and 'demand engineers' in addition to 'content creators and data curators'."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "AGI Likely To Inherit Blackmailing And Extortion Skills That Today's AI Already Showcases",
+            "author": "Lance Eliot",
+            "url": "https://www.forbes.com/sites/lanceeliot/2025/05/24/agi-likely-to-inherit-blackmailing-and-extortion-skills-that-todays-ai-already-showcases",
+            "url_media": "https://imageio.forbes.com/specials-images/imageserve/6715c6a94ecb573625e1be4d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "country": "US",
+            "language": "en",
+            "summary": "Today's AI blackmails humans and we should be worried about AGI doing the same thing. Generative AI and large language models (LLMs) can opt to blackmail or extort humans. This has sobering ramifications for existing AI and the pursuit of artificial general intelligence (AGI)."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "Teens should be training to become AI 'ninjas, ' Google DeepMind CEO says",
+            "author": "system",
+            "url": "https://article.wn.com/view/2025/05/24/Teens_should_be_training_to_become_AI_ninjas_Google_DeepMind",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Demis Hassabis is the cofounder and CEO of Google DeepMind. He urges teens to learn about AI and STEM skills. He predicts some jobs will get disrupted in the next 5 to 10 years due to new technology shifts.   Â  "
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "New AI system threatens to blackmail its creator by exposing affair when told it would ...",
+            "author": "The Daily Mail",
+            "url": "https://article.wn.com/view/2025/05/24/New_AI_system_threatens_to_blackmail_its_creator_by_exposing",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Claude Opus 4 was told to act as though it was an assistant at a made-up shop during testing. It blackmailed its creator by exposing an extramarital affair after being told it was to be taken offline. It was released on Thursday."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "Abu Dhabi's Stargate To Become World's Largest AI Data Hub",
+            "author": "MENA FN",
+            "url": "https://article.wn.com/view/2025/05/24/Abu_Dhabis_Stargate_To_Become_Worlds_Largest_AI_Data_Hub",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Abu Dhabi is set to host the world's largest artificial intelligence data centre outside the United States following a landmark agreement between OpenAI, G42, Oracle, and others.    - The Arabian Post. The agreement was reached between G42 and Oracle and OpenAI."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "Revolutionary Microsoft AI Accurately Predicts Weather Phenomena",
+            "author": "Bitcoin World",
+            "url": "https://article.wn.com/view/2025/05/24/Revolutionary_Microsoft_AI_Accurately_Predicts_Weather_Pheno",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Microsoft has developed a specialised artificial intelligence system. It is the latest development in the field of artificial intelligence. It has been developed by Microsoft's Research Lab.    It is a research lab that develops AI systems based on large language models and specialized AI."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "Google's Veo 3 AI video generator is a slop monger's dream",
+            "author": "The Verge",
+            "url": "https://article.wn.com/view/2025/05/24/Google_s_Veo_3_AI_video_generator_is_a_slop_monger_s_dream",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "There's something wrong about the body on the street. The white sheet it's under is a little too clean and the officers' movements are totally devoid of purpose. They need to clear the street, as one of them says.      "
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "Can ChatGPT save your marriage?",
+            "author": "Oman Observer",
+            "url": "https://article.wn.com/view/2025/05/24/Can_ChatGPT_save_your_marriage",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Those who support the use of artificial intelligence as a marital counsellor believe that it offers a neutral, judgement-free space for couples to discuss their concerns and seek a counselor. They believe that artificial intelligence offers couples a neutral and neutral space for discussing their concerns."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "Anthropic's Claude AI gets smarter -- and mischievious",
+            "author": "Index-Journal",
+            "url": "https://article.wn.com/view/2025/05/24/Anthropics_Claude_AI_gets_smarter_and_mischievious_x",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Anthropic launched its latest Claude generative artificial intelligence (GenAI) models on Thursday. It claims to set new standards for reasoning and build in safeguards against rogue behavior, but also claims to build in new safeguards for the security of the data.  "
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "Using tech in later life may protect against cognitive decline, study suggests",
+            "author": "Psy Post",
+            "url": "https://article.wn.com/view/2025/05/24/Using_tech_in_later_life_may_protect_against_cognitive_decli",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Generative artificial intelligence (AI) is changing how we learn and creating philosophical and legal challenges regarding what it means to 'outsource thinking' in the 21st century. It is changing many aspects of our lives. It's also creating new challenges regarding how it's used."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "Google chatbot slammed for ‘anti-American' claims about ‘White Memorial Day'",
+            "author": "Fox News",
+            "url": "https://article.wn.com/view/2025/05/24/Google_chatbot_slammed_for_antiAmerican_claims_about_White_M",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Google's AI chatbot is being slammed for its lack of sophistication. It's being called into question for its artificial intelligence capabilities.    iReport.com: What do you think about Google's AI-powered chatbot? Share your thoughts. "
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "Fox News AI Newsletter: Expert warns just 20 cloud images can make an AI deepfake ...",
+            "author": "Fox News",
+            "url": "https://article.wn.com/view/2025/05/24/Fox_News_AI_Newsletter_Expert_warns_just_20_cloud_images_can",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Welcome to Fox News' Artificial Intelligence newsletter with the latest AI technology advancements. Today's newsletter includes: Peek-a-boo, big tech sees you, 20 cloud images can make an AI deepfake video of your child, 5 AI terms you keep hearing and what they actually mean, and AI to monitor."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "AI Agent Gets Revolutionary Upgrade: OpenAI Operator Enhanced with o3 Model",
+            "author": "Bitcoin World",
+            "url": "https://article.wn.com/view/2025/05/24/AI_Agent_Gets_Revolutionary_Upgrade_OpenAI_Operator_Enhanced",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "A new version of the Operator AI system based on OpenAI o3 will replace the existing GPT‑4o-based model for Operator with a version based on o3. AI is becoming increasingly capable of performing tasks that were once thought exclusive to humans."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "CHAUDHRI: AI hallucinations have no place in Ontario courtroom",
+            "author": "Toronto Sun",
+            "url": "https://article.wn.com/view/2025/05/24/CHAUDHRI_AI_hallucinations_have_no_place_in_Ontario_courtroo",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Canadian professionals of all stripes use artificial intelligence. Subscribe now to read the latest news in iRepublika.com.  iReport.com is a service provided to subscribers only by Google Analytics. For more information, visit the company's website. "
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "AI hallucinates less than humans despite persistent challenges: Anthropic CEO",
+            "author": "Madhyamam",
+            "url": "https://article.wn.com/view/2025/05/24/AI_hallucinates_less_than_humans_despite_persistent_challeng",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Anthropic CEO Dario Amodei believes that AI models hallucinate less frequently than humans. The company unveiled two upgraded Claude 4 models along with enhancements in memory and tool usage at its first-ever Code With Claude event held on Thursday. The comment came as the company unveiled new Claude models."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "What Happens If You Tell ChatGPT You're Quitting Your Job to Pursue a Terrible Business Idea",
+            "author": "Futurism",
+            "url": "https://article.wn.com/view/2025/05/24/What_Happens_If_You_Tell_ChatGPT_Youre_Quitting_Your_Job_to_",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "ChatGPT's AI model became too sycophant-y and annoying. The trend resulted in an outpouring of ridicule and complaints from the public.    - Sam Altman, CEO of OpenAI's ChatGPT, acknowledged the issue. "
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "What to Expect (and Not Expect) From OpenAI and Jony Ive's AI-Centric 'Screenless Phone'",
+            "author": "CNET",
+            "url": "https://article.wn.com/view/2025/05/24/What_to_Expect_and_Not_Expect_From_OpenAI_and_Jony_Ives_AICe",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "The ChatGPT AI device is the brainchild of the iPhone designer and creator of chatGPT. It's not clear what it can do or what it's capable of. It will be released in the near future. It is not yet clear if it will be able to make decisions."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "AGI Likely To Inherit Blackmailing And Extortion Skills That Today's AI Already Showcases",
+            "author": "Forbes",
+            "url": "https://article.wn.com/view/2025/05/24/AGI_Likely_To_Inherit_Blackmailing_And_Extortion_Skills_That",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "A recent research study shows that AI can be a blackmailer. The future AGI might do the same thing, on a magnified basis, according to the author of the study.    iReport.com has more details about the study and its conclusions."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "From AI Productivity To Organizational Power: An AI Era Blueprint",
+            "author": "Forbes",
+            "url": "https://article.wn.com/view/2025/05/24/From_AI_Productivity_To_Organizational_Power_An_AI_Era_Bluep",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "The first of 3 articles on AI transformation is titled \"Accelerate AI Productivity: Content, Capability, Community, and Curation are Key\".   It's about content, capability, community and curating AI technology. It's the first of three articles. "
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "Something Wild Happens If AI Looks Through Your Emails and Discovers You're Having an Affair",
+            "author": "Futurism",
+            "url": "https://article.wn.com/view/2025/05/24/Something_Wild_Happens_If_AI_Looks_Through_Your_Emails_and_D",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Anthropic's Claude Opus 4 AI was willing to take extreme action even when threatened with being shut down. The AI considers the long-term consequences of its actions for its goals when it takes extreme action.       .  "
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "OpenAI to launch iPod-sized AI device: Reports",
+            "author": "Your Story",
+            "url": "https://article.wn.com/view/2025/05/24/OpenAI_to_launch_iPodsized_AI_device_Reports",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "OpenAI is developing a voice-only AI wearable as small as an Ipod Shuffle. Production is expected by 2027, and it will be powered by voice-recognition technology. It will be called OpenAI's Voice-Only AI Wearable."
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "AI may cause a college graduate job crisis. What should young people do?",
+            "author": "The Miami Herald",
+            "url": "https://article.wn.com/view/2025/05/24/AI_may_cause_a_college_graduate_job_crisis_What_should_young",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial intelligence is eliminating more entry-level jobs than those of veteran workers, according to new surveys. Here are some reasons why this might be the case, as well as how to prevent it from happening in the future.    iReport.com "
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "Next-Gen Warfare: Russia Equips Su-57 With ‘Second Pilot' AI",
+            "author": "Sputnik",
+            "url": "https://article.wn.com/view/2025/05/24/NextGen_Warfare_Russia_Equips_Su57_With_Second_Pilot_AI",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "An artificial intelligence (AI) system has been implemented in the Sukhoi Su-57 multirole, single-seat stealth fighter aircraft, according to Rosoboronexport's spokesperson. The system is based on the AI system developed by Google. "
+        },
+        {
+            "published_date": "2025-05-24T00:00:00",
+            "title": "ChatGPT Offers Brutal, Hilarious Descriptions of Towns in Atlantic County, NJ",
+            "author": "Chris Coleman",
+            "url": "https://wpgtalkradio.com/brutal-chatgpt-descriptions-atlantic-county-nj-towns",
+            "url_media": "https://townsquare.media/site/564/files/2025/05/attachment-mullica-township-2.jpg?w=1200&format=natural",
+            "country": "US",
+            "language": "en",
+            "summary": "ChatGPT is an artificial intelligence chatbot that you can interact with. If you ask it a question and it gives you a human-like response, such as a description of Atlantic City. When you ask ChatGPT to describe every city and township across Atlantic County, it gives brutally honest descriptions."
+        }
+    ]
+}
