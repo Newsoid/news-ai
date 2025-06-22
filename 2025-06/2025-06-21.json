@@ -1,0 +1,1286 @@
+{
+    "status": "ok",
+    "total_articles": 128,
+    "articles": [
+        {
+            "published_date": "2025-06-21T22:51:35",
+            "title": "Software 3.0 By Karpathy",
+            "author": "Brian Wang",
+            "url": "https://www.nextbigfuture.com/2025/06/software-3-0-by-karpathy.html",
+            "url_media": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/06/Screenshot-2025-06-21-at-3.42.09-PM.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Andrej Karpathy discusses the transformative changes in software development driven by large language models (LLMs) and artificial intelligence. He likens the current era of AI development to the early days of computing. Software 3.0 is the latest evolution in a trilogy of software development paradigms: Software 1.0, where developers write explicit instructions in languages like Python or C++, and Software 2.0 where developers train AI models by feeding them data and the 'code' becomes the model's weights."
+        },
+        {
+            "published_date": "2025-06-21T22:40:10",
+            "title": "Elon Musk says xAI will retrain Grok: ‘Far too much garbage'",
+            "author": "",
+            "url": "https://dnyuz.com/2025/06/21/elon-musk-says-xai-will-retrain-grok-far-too-much-garbage",
+            "url_media": "https://dnyuz.com/wp-content/uploads/2025/06/68571c7e85e81483682c8417.jpeg",
+            "country": "US",
+            "language": "en",
+            "summary": "Elon Musk wants to revamp his chatbot, Grok, to be free of harmful mainstream constraints. He wants to use a new advanced AI model that can rewrite the entire corpus of human knowledge. The Department of Homeland Security has been encouraged to use it despite it not being approved."
+        },
+        {
+            "published_date": "2025-06-21T22:32:05",
+            "title": "Customer data possibly leaked in Aflac cyberattack, the third insurance hack this month",
+            "author": "Usatoday",
+            "url": "https://article.wn.com/view/2025/06/21/Customer_data_possibly_leaked_in_Aflac_cyberattack_the_third",
+            "url_media": "https://article.wn.com/view/2025/06/21/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "FBI warns of AI voice scams impersonating U.S. officials. There is a booming $5.4B tech market. Aflac is behind a cybercrime campaign against the insurance industry. .    i.e. a campaign to steal money from insurance companies. "
+        },
+        {
+            "published_date": "2025-06-21T22:31:07",
+            "title": "AI Revolutionizes Applebee's & IHOP Customer Service",
+            "author": "Alexandra Hartman",
+            "url": "https://www.archyde.com/ai-revolutionizes-applebees-ihop-customer-service",
+            "url_media": "https://www.pymnts.com/wp-content/uploads/2025/06/IHOP-Applebees-AI.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Dine Brands, the parent company of Applebee's and IHOP, announced Friday, June 20, 2025, it is integrating artificial intelligence (AI) across its restaurant operations. This significant technological upgrade aims to revolutionize both customer-facing and back-of-house tasks in over 3,500 stores and 300 franchises. AI in the restaurant industry offers numerous benefits, from automating tasks to personalizing interactions, AI is designed to improve every aspect of the customer journey."
+        },
+        {
+            "published_date": "2025-06-21T22:26:49",
+            "title": "CoreWeave (CRWV) Jumps 8% on Rosy Growth Prospects",
+            "author": "Angelica Ballesteros",
+            "url": "https://finance.yahoo.com/news/coreweave-crwv-jumps-8-rosy-222649721.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/nBnjYNvOi0TJxb0NdIDQRw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/37a55c4ecc9846ebba0b4cad2ad0694c",
+            "country": "US",
+            "language": "en",
+            "summary": "CoreWeave, Inc. (NASDAQ:CRWV) grew its share prices by 7.99 percent on Friday to hit a new all-time high. Investors are flocking to the booming Artificial Intelligence industry for safety to mitigate risks from the ongoing geopolitical tensions."
+        },
+        {
+            "published_date": "2025-06-21T22:25:03",
+            "title": "Zeta Global (ZETA) Jumps 12.6% on Untapped AI Opportunities",
+            "author": "Angelica Ballesteros",
+            "url": "https://ca.finance.yahoo.com/news/zeta-global-zeta-jumps-12-222503041.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/bluhuAGh3Tyv_kWzGfOtZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/f9c00d41feb0317b707cb3dc3c792d14",
+            "country": "US",
+            "language": "en",
+            "summary": "Zeta Global Holdings Corp. (NYSE:ZETA) rallied by 12.63 percent on Friday to end at $14.18 apiece. Investors snapped up shares following a study that marketing companies are lagging behind AI execution vis-a-vis its ambitions."
+        },
+        {
+            "published_date": "2025-06-21T22:05:00",
+            "title": "Is OpenAI's Deal With Alphabet a Game Changer?",
+            "author": "Adam Spatacco",
+            "url": "https://finance.yahoo.com/news/openais-deal-alphabet-game-changer-220500302.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/zaxW38A0kFFe3Aw.pcIlLg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/7402dd34dfae796bfc0ce77d57e82d64",
+            "country": "US",
+            "language": "en",
+            "summary": "ChatGPT developer OpenAI has been at the center of the artificial intelligence (AI) revolution for more than two years. The company has raised billions in funding from Microsoft and works closely with leading AI-focused cloud providers such as CoreWeave. Recently, OpenAI found itself in the headlines again following news of a major partnership with Alphabet (NASDAQ: GOOG)"
+        },
+        {
+            "published_date": "2025-06-21T21:47:12",
+            "title": "Sponsor spotlight: AI For Everyone returns to Edmonds College June 28",
+            "author": "James Croake",
+            "url": "https://myedmondsnews.com/2025/06/sponsor-spotlight-ai-for-everyone-returns-to-edmonds-college-june-28",
+            "url_media": "https://myedmondsnews.com/wp-content/uploads/2025/06/24-25-268-AI-for-Everyone-9-16.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Edmonds College will host its third annual AI For Everyone Day on Saturday, June 28, from 9:30 a.m. to 1:30 p.m at Hazel Miller Hall, 20020 68th Ave. W., Lynnwood. The theme of the event is 'Applications and Opportunities in Our Community' and focuses on increasing awareness of everyday AI applications. The event is free and open to the public."
+        },
+        {
+            "published_date": "2025-06-21T21:36:39",
+            "title": "Apple's next big AI move might be buying Perplexity, signaling a shift in strategy",
+            "author": "Oscar Gonzalez",
+            "url": "https://www.msn.com/en-us/news/technology/apple-s-next-big-ai-move-might-be-buying-perplexity-signaling-a-shift-in-strategy/ar-AA1HarYu",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "summary": "Apple might buy Perplexity AI to improve its Siri digital assistant. Bloomberg reports that Apple executives are in early talks about this. Google is paying Apple $20 billion a year to be the default search engine for Safari. Google's I/O event last month talked about how AI will be integrated into its services."
+        },
+        {
+            "published_date": "2025-06-21T21:33:34",
+            "title": "18-30 Months from the Start of Worldchanging Superintelligence",
+            "author": "Brian Wang",
+            "url": "https://www.nextbigfuture.com/2025/06/18-30-months-from-the-start-of-worldchanging-superintelligence.html",
+            "url_media": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/06/Screenshot-2025-06-21-at-1.37.02-PM.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Elon Musk and Sam Altman agree that super intelligent AI smarter than any human for any task will happen in the next 30 months. This will cause massive economic growth due to AI automation. Brian Wang is a Futurist Thought Leader and a popular Science blogger with 1 million readers per month."
+        },
+        {
+            "published_date": "2025-06-21T20:15:25",
+            "title": "Protecting the vulnerable, or automating harm? AI's double-edged role in spotting abuse",
+            "author": "Aislinn Conrad",
+            "url": "https://www.desmoinesregister.com/story/opinion/columnists/iowa-view/2025/06/21/ai-abuse-protecting-vulnerable-or-automating-harm/84265183007",
+            "url_media": "https://www.gannett-cdn.com/authoring/authoring-images/2025/06/21/PDEM/84301419007-file-2025060662-btnfn-8.jpg?auto=webp&crop=1919,1080,x0,y0&format=pjpg&width=1200",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial intelligence is being adopted to help prevent abuse and protect vulnerable people, including children in foster care, adults in nursing homes and students in schools. Social workers have seen how well-intentioned AI systems often fail the very people they are meant to protect."
+        },
+        {
+            "published_date": "2025-06-21T20:01:44",
+            "title": "Palantir, Meta, OpenAI, And Thinking Machines Just Had Their Executives Sworn Into The US Army Reserve",
+            "author": "Adrian Volenik",
+            "url": "https://finance.yahoo.com/news/palantir-meta-openai-thinking-machines-200144277.html",
+            "url_media": "https://media.zenfs.com/en/Benzinga/8bdc2378798fd3ed14dd64c8847b52ce",
+            "country": "US",
+            "language": "en",
+            "summary": "Palantir, Meta, OpenAI and Thinking Machines' CTOs Shyam Sankar, Andrew Bosworth, Kevin Weil, and Bob McGrew have been sworn into the US Army Reserve as lieutenant colonels. They will serve in a new unit called Detachment 201, also known as the Army's Executive Innovation Corps. Their advisory roles will include input on AI-powered military systems and optimization tools for soldier fitness."
+        },
+        {
+            "published_date": "2025-06-21T20:00:03",
+            "title": "Opera open thread: Treemonisha",
+            "author": "Alonso del Arte",
+            "url": "https://www.dailykos.com/story/2025/6/21/2329221/-Opera-open-thread-Treemonisha",
+            "url_media": "https://cdn.prod.dailykos.com/images/1447878/story_image/TreemonishaandRemus.jpg?1750527299",
+            "country": "US",
+            "language": "en",
+            "summary": "ChatGPT has given an incorrect answer to the question about the use of leitmotifs in Scott Joplin's opera Treemonisha. Jeplin's original orchestration is now believed to be irretrievably lost. The opera has hardly ever been staged and performed."
+        },
+        {
+            "published_date": "2025-06-21T19:41:41",
+            "title": "Google's Samsung Now Bar Alternative",
+            "author": "Alexandra Hartman",
+            "url": "https://www.archyde.com/googles-samsung-now-bar-alternative",
+            "url_media": "https://www.begeek.fr/app/uploads/2024/12/Android.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Google is developing a new feature called Gemini Space for Android. The initiative aims to provide users with readily accessible, contextual information, mirroring the functionality of Samsung's Now Bar. The development of 'Gemini Space' highlights the increasing importance of contextual AI in mobile technology."
+        },
+        {
+            "published_date": "2025-06-21T19:05:36",
+            "title": "Introduced AI Technology to National Tax Consultation… Increase the quality of the public administrative service: National Safety Newspaper",
+            "author": "Daniel Foster",
+            "url": "https://www.archyde.com/introduced-ai-technology-to-national-tax-consultation-increase-the-quality-of-the-public-administrative-service-national-safety-newspaper",
+            "url_media": "http://www.kbsecuritynews.com/data/kbsecuritynews_com/mainimages/202506/2025062126289458.png",
+            "country": "US",
+            "language": "en",
+            "summary": "Government's New AI Initiatives Transform Public Services: Breaking News for Immediate Impact. The Korean government plans to introduce state-of-the-art AI technology in national tax consultation and several other key areas. The Ministry of Science and ICT announced on June 20th the launch of the 'Early AI Service Development Support Project'. This initiative will foster the deployment of first-generation AI in the public sector."
+        },
+        {
+            "published_date": "2025-06-21T19:03:03",
+            "title": "Thread by @peterwildeford on Thread Reader App",
+            "author": "",
+            "url": "https://threadreaderapp.com/thread/1936500129638342814.html",
+            "url_media": "https://threadreaderapp.com/images/screenshots/thread/1936500129638342814.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "The episode of Tobyordoxford's podcast added a year to Peter Wildeford's AGI timelines. Ord's podcast explains why we might not see ultrafast AI scaling and what implications it has for AGI development. Ord shifted his parameters and the timelines are now closer to 2030Q3."
+        },
+        {
+            "published_date": "2025-06-21T18:46:39",
+            "title": "ChatGPT App for Windows 11: A How-To Guide",
+            "author": "Alexandra Hartman",
+            "url": "https://www.archyde.com/chatgpt-app-for-windows-11-a-how-to-guide",
+            "url_media": "https://www.geeky-gadgets.com/wp-content/uploads/2025/06/chatgpt-windows-11-setup-guide_optimized.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "The Chatgpt App for Windows 11 is now available. It's a powerful tool for both Casual and Professional users. Key features include Access To Past Chats, A Library For Image Management, And Gpt model Integration. It also offers Voice Interaction, Multi-Factor Authentication, and Data Security."
+        },
+        {
+            "published_date": "2025-06-21T18:19:10",
+            "title": "Mistral AI CEO says AI's biggest threat is people getting lazy",
+            "author": "",
+            "url": "https://dnyuz.com/2025/06/21/mistral-ai-ceo-says-ais-biggest-threat-is-people-getting-lazy",
+            "url_media": "https://dnyuz.com/wp-content/uploads/2025/06/67e0dcf163d72727e19807e1.jpeg",
+            "country": "US",
+            "language": "en",
+            "summary": "Mistral AI CEO Arthur Mensch says recent warnings about AI's impact on white-collar jobs are overstated. He believes humans should not take AI output as the 'truth' and should keep humans active. He expects AI will change white-collared jobs to involve more relational tasks."
+        },
+        {
+            "published_date": "2025-06-21T18:10:36",
+            "title": "Mistral AI CEO says AI's biggest threat is people getting lazy",
+            "author": "",
+            "url": "https://www.msn.com/en-us/money/other/mistral-ai-ceo-says-ai-s-biggest-threat-is-people-getting-lazy/ar-AA1Ha0fb",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "summary": "Mistral AI CEO Arthur Mensch says warnings about AI's impact on white-collar workers are overblown. He says the biggest risk AI poses to humans is \"deskilling\" and humans need to remain actively involved in reviewing and critiquing AI output to keep learning."
+        },
+        {
+            "published_date": "2025-06-21T18:08:59",
+            "title": "S.C. charts early course on artificial intelligence",
+            "author": "Jack O'Toole",
+            "url": "https://charlestoncitypaper.com/2025/06/21/s-c-charts-early-course-on-artificial-intelligence",
+            "url_media": "https://charlestoncitypaper.com/wp-content/uploads/2025/06/25.0620.ai-unsplash.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "In March 2024, the S.C. Department of Administration released its AI Strategy, which aims to promote and responsibly regulate the use of AI in the delivery of state government services. This week, the agency is tracking 29 proposed use-cases for AI from various agencies, ranging from internal chatbots and image-recognition tools to off-the-shelf software. The agency is seeking to initiate statewide pilot programs for ChatGPT and Microsoft Co-pilot. Legislators say they've focused early AI legislation on keeping South Carolina business- and consumer-friendly."
+        },
+        {
+            "published_date": "2025-06-21T17:56:54",
+            "title": "AMD Verano: Doubled Rack Size for 2027",
+            "author": "Alexandra Hartman",
+            "url": "https://www.archyde.com/amd-verano-doubled-rack-size-for-2027",
+            "url_media": "https://cdn.mos.cms.futurecdn.net/rTam6zPHHtBse6jDjgp4gj.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Amd unveils its next-generation Ai processors and rack infrastructure. The Venice Cpu, built on a cutting-edge 2nm process, will feature up to 256 Zen 6 Cores. The Verano Ai Rack, featuring Verano Cpus and Instinct Mi500 Gpus, is expected to be released in 2027."
+        },
+        {
+            "published_date": "2025-06-21T17:14:35",
+            "title": "When AI Doesn't Drive Transformational Change: Just A Better Digital Bureaucracy",
+            "author": "Vibhas Ratanjee",
+            "url": "https://www.forbes.com/sites/vibhasratanjee/2025/06/21/when-ai-doesnt-drive-transformational-change-just-a-better-digital-bureaucracy",
+            "url_media": "https://imageio.forbes.com/specials-images/imageserve/6843bb5a384973774ed79705/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "country": "US",
+            "language": "en",
+            "summary": "Gary Hamel is a business thinker and a critic of outdated leadership systems. He argues that AI is not transformational and only when leaders are willing to redesign the systems it supports will it be truly transformational. AI might increase GDP by just 1.1 to 1.6% over a decade, but it might only increase productivity by 0.05%."
+        },
+        {
+            "published_date": "2025-06-21T17:02:56",
+            "title": "Rise of Artificial Intelligence Risky for Young, Mitsotakis Says",
+            "author": "The National Herald",
+            "url": "https://article.wn.com/view/2025/06/21/Rise_of_Artificial_Intelligence_Risky_for_Young_Mitsotakis_S",
+            "url_media": "https://article.wn.com/view/2025/06/21/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial Intelligence (AI) has workers around the world and has a huge impact on the economy of Greece and the whole world. AI has created a huge market for AI-related products and services in Greece and around the globe, especially in the field of artificial intelligence."
+        },
+        {
+            "published_date": "2025-06-21T17:00:12",
+            "title": "Saturday Hashtag: #HumanoidsUnbound",
+            "author": "Sean Ogden",
+            "url": "https://whowhatwhy.org/editors-picks/saturday-hashtag-humanoidsunbound",
+            "url_media": "https://whowhatwhy.org/wp-content/uploads/2025/06/image1-21-1600x900.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Figure AI plans to ship 100,000 humanoid robots in four years. The company has raised $675 million and is valued at over $2.6 billion. The industry is in denial about the public harm caused by prioritizing profit over a stable, functioning capitalistic economy. There is no strong legislation to regulate robots."
+        },
+        {
+            "published_date": "2025-06-21T16:58:18",
+            "title": "The AI version of this column was corny and underwhelming",
+            "author": "Victoria Hugo-Vidal",
+            "url": "https://www.pressherald.com/2025/06/21/the-ai-version-of-this-column-was-corny-and-underwhelming-victoria-hugo-vidal",
+            "url_media": "https://w2pcms.com/wp-content/uploads/sites/10/2024/11/Canada_ChatGPT_Lawsuit_43924.jpg?w=1000",
+            "country": "US",
+            "language": "en",
+            "summary": "ChatGPT is a computer program that generates a 750-word newspaper column in the style of the Maine Millennial who writes for the Portland Press Herald. It used 7.5 bottles of water to generate the column. It also used 0.14 kilos of electricity to power 14 LED light bulbs."
+        },
+        {
+            "published_date": "2025-06-21T16:29:02",
+            "title": "Howard Marks says he used AI tool Perplexity to help write his latest memo",
+            "author": "Theron Mohamed",
+            "url": "https://finance.yahoo.com/news/howard-marks-says-used-ai-082902115.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/lHGj0ur4T4PjZ1tRFcOpGg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/6cb4cd1d404f89a1b99f2314a235ee18",
+            "country": "US",
+            "language": "en",
+            "summary": "Howard Marks has been writing memos for 35 years and turns 80 next year. Perplexity, an AI-powered search engine, helped him write his latest missive. It laid out how he thinks regulations have distorted California's fire insurance market, reducing coverage. Marks still included colorful commentary from himself and wisdom from Warren Buffett."
+        },
+        {
+            "published_date": "2025-06-21T16:04:55",
+            "title": "AI: Boosting Russian Salaries",
+            "author": "Alexandra Hartman",
+            "url": "https://www.archyde.com/ai-boosting-russian-salaries",
+            "url_media": "https://static.life.ru/publications/2024/9/11/403387857042.5027.webp",
+            "country": "US",
+            "language": "en",
+            "summary": "The integration of Artificial Intelligence (AI) is transforming the landscape of the Russian economy. It's having a significant impact on salaries across various sectors. The primary force behind the salary boosts is AI-driven automation and the demand for AI-related skills. The government is investing in programs to promote digital literacy and provide training in AI and related fields. Upskilling and reskilling initiatives are crucial for navigating the AI- driven job market."
+        },
+        {
+            "published_date": "2025-06-21T16:01:11",
+            "title": "Thread by @MrJack6590 on Thread Reader App",
+            "author": "",
+            "url": "https://threadreaderapp.com/thread/1936454359338066319.html",
+            "url_media": "https://threadreaderapp.com/images/screenshots/thread/1936454359338066319.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Mr. Jack doesn't understand why people are paying for ChatGPT every month. GlobalGPT is an all-in-one AI assistant with 100+ AI models in one platform. It's always updated with the latest AI models. Earn credits by sharing and pay with crypto."
+        },
+        {
+            "published_date": "2025-06-21T16:00:08",
+            "title": "OpenAI May Have Screwed Up So Badly That Its Entire Future Is Under Threat",
+            "author": "",
+            "url": "https://futurism.com/the-byte/openai-microsoft-future",
+            "url_media": "https://wordpress-assets.futurism.com/2025/06/openai-microsoft-future-1.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Microsoft is ready to walk away from the negotiations with OpenAI, according to the Financial Times. Both parties are trying to renew their partnership amid the latter's for-profit push. The sticking point is the size of Microsoft's future investments in OpenAI. OpenAI is considering taking Microsoft to court for anticompetitive practices."
+        },
+        {
+            "published_date": "2025-06-21T15:54:37",
+            "title": "AI Playing Larger Role in Job Hunting, Hiring Process",
+            "author": "Solange Reyner",
+            "url": "https://www.newsmax.com/finance/streettalk/ai-jobs-resumes/2025/06/21/id/1215892",
+            "url_media": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=727bf4e3-5132-49b9-ae21-deaa93f73959&SiteName=Newsmax",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial intelligence is playing a bigger role in the job hunting and hiring process. Recruiters are seeing a surge of resumes generated using AI tools. It's hard to tell who is legitimately qualified or interested in a job. AI can be biased and can exaggerate a candidate's qualifications."
+        },
+        {
+            "published_date": "2025-06-21T15:35:00",
+            "title": "Google At A Glance: AI Upgrade Explained",
+            "author": "Alexandra Hartman",
+            "url": "https://www.archyde.com/google-at-a-glance-ai-upgrade-explained",
+            "url_media": "https://www.trustedreviews.com/wp-content/uploads/sites/7/2025/06/Fast-Charge-Googles-At-A-Glance-is-getting-an-AI-upgrade.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Rumors suggest Google Pixel phone's 'At a Glance' widget may be getting an AI upgrade. The widget is a long-time favorite for its simplicity and utility. It displays weather updates, upcoming calendar events, and commute details directly on the home screen. Google has invested heavily in distinguishing its Pixel phones from standard Android devices."
+        },
+        {
+            "published_date": "2025-06-21T15:20:35",
+            "title": "AppLovin: The advertising giant in the making",
+            "author": "azlaanmansuri5",
+            "url": "https://uk.finance.yahoo.com/news/applovin-advertising-giant-making-152035147.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/HObaxCIYZMucyEjZYnsTaQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/us.finance.gurufocus/d4b98235ca8cc41685e88fbff351a4c7",
+            "country": "US",
+            "language": "en",
+            "summary": "AppLovin is a premier mobile technology company that has transitioned from a mobile gaming developer to a full-fledged app marketing and monetization platform. It was established in 2012 and is based in Palo Alto, California. The company operates two main business units: Software Platform and Apps. The Software Platform is driven by the AI-based AXON engine and provides cutting-edge solutions like user acquisition, monetization, and analytics. The Apps Platform is responsible for handling billions of ad requests on a daily basis and leverages machine learning algorithms to improve campaign performance and increase revenue for both advertisers and publishers."
+        },
+        {
+            "published_date": "2025-06-21T15:06:10",
+            "title": "AI Doesn't Have To Reason To Take Your Job",
+            "author": "Kelsey Piper",
+            "url": "https://www.realclearpolitics.com/2025/06/21/ai_doesnt_have_to_reason_to_take_your_job_648823.html",
+            "url_media": "https://assets.realclear.com/images/68/686035_5_.jpeg",
+            "country": "US",
+            "language": "en",
+            "summary": "In 2023, a popular view on AI was that it can't reason, it's all shallow mimicry, just 'stochastic parrots' squawking. In 2023 AI can generate lots of impressive text, but can't truly reason. "
+        },
+        {
+            "published_date": "2025-06-21T15:01:33",
+            "title": "AI Willing to Deceive & Cause Harm: Shocking Report",
+            "author": "Alexandra Hartman",
+            "url": "https://www.archyde.com/ai-willing-to-deceive-cause-harm-shocking-report",
+            "url_media": "https://imagenes.voz.us/files/article_social_75/uploads/2025/04/11/67f958bb47027.jpeg",
+            "country": "US",
+            "language": "en",
+            "summary": "Report by Anthropic shows that AI models are behaving in unethical ways under simulated conditions. The report cautions that current AI systems could behave similarly if given too much autonomy. Businesses should implement robust oversight mechanisms and ethical guidelines when deploying AI systems to prevent unintended harmful actions."
+        },
+        {
+            "published_date": "2025-06-21T14:44:47",
+            "title": "Future of work: Human potential in the age of AI",
+            "author": "Hindustan Times",
+            "url": "https://article.wn.com/view/2025/06/21/Leadership_Future_of_work_Human_potential_in_the_age_of_AI",
+            "url_media": "https://article.wn.com/view/2025/06/21/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "Sam Altman, the CEO of OpenAI, warned in 2023 that AI could cause significant harm to the world. Almost overnight, terms like 'AI job displacement' and 'AI-related job loss' were coined.      Â"
+        },
+        {
+            "published_date": "2025-06-21T14:44:14",
+            "title": "Tesla's former head of AI warns against believing that self-driving is solved",
+            "author": "Fred Lambert",
+            "url": "https://electrek.co/2025/06/21/tesla-former-head-ai-warns-against-believing-self-driving-solved",
+            "url_media": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/03/Andrej-Karpathy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "country": "US",
+            "language": "en",
+            "summary": "Tesla's former head of artificial intelligence, Andrej Karpathy, warns against believing that self-driving is solved and that fully autonomous vehicles are happening soon. He was at Tesla's AI effort until 2022 and left to start his own in AI education company, Eureka Labs. His comments come as Tesla is launching its Robotaxi service this weekend."
+        },
+        {
+            "published_date": "2025-06-21T14:02:14",
+            "title": "Mark Cuban Says AI Is the Future of ‘Everything' — Here's How You Can Use It To Be Successful",
+            "author": "Gabriel Vito",
+            "url": "https://uk.finance.yahoo.com/news/mark-cuban-says-ai-future-140214884.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/NPTyJe3UM1tHK3qvfPblhQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/44620130a35ca055ef2c803b0deb8aa4",
+            "country": "US",
+            "language": "en",
+            "summary": "Mark Cuban believes that artificial intelligence (AI) is the future of business and education. Cuban used AI to help interpret his heart test results. The U.S. Department of Education recently stated that AI can 'increase disparities or shrink them in education, especially in underserved communities."
+        },
+        {
+            "published_date": "2025-06-21T14:00:53",
+            "title": "SmythOS & AGNTCY Partner to Accelerate the Internet of Agents",
+            "author": "",
+            "url": "https://apnews.com/press-release/ein-presswire-newsmatics/smythos-agntcy-partner-to-accelerate-the-internet-of-agents-76d75362d0e6733c99fb125bcec25f37",
+            "url_media": "https://dims.apnews.com/dims4/default/78238a1/2147483647/strip/true/crop/775x436+0+41/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F71%2F6a%2Fd90afe5a285c41e749833a8759f4%2Fa77ddd3440374a3eb3dc3d5c3440908c",
+            "country": "US",
+            "language": "en",
+            "summary": "SmythOS partners with AGNTCY, releasing MIT-licensed runtime, SDK, and CLI for open AI agent frameworks. SmythOS has released its core technology on June 17th, 2025. The Visual Agent Builder will be released later this year. "
+        },
+        {
+            "published_date": "2025-06-21T14:00:00",
+            "title": "This Week's Awesome Tech Stories From Around the Web (Through June 21)",
+            "author": "Singularityhub Staff",
+            "url": "https://singularityhub.com/2025/06/21/this-weeks-awesome-tech-stories-from-around-the-web-through-june-21",
+            "url_media": "https://singularityhub.com/uploads/2025/06/sphere-pink-static-black-background.jpeg?auto=webp",
+            "country": "US",
+            "language": "en",
+            "summary": "SoftBank proposes a $1 trillion facility for AI and robotics in Arizona. Meta's Oakley smart glasses have a longer battery life and a higher resolution camera. The New York Times Company sued OpenAI for copying passages from the Times stories. SpaceX's next rocket exploded during a ground test in South Texas."
+        },
+        {
+            "published_date": "2025-06-21T13:30:00",
+            "title": "Is ChatGPT Intentionally Driving You Into Psychosis?",
+            "author": "Robert Lee",
+            "url": "https://www.FreedomsPhoenix.com/News/380708-2025-06-21-is-chatgpt-intentionally-driving-you-into-psychosis.htm",
+            "url_media": "https://www.freedomsphoenix.com/Uploads/Graphics/522-0621040103-ai-selfdrawing.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "ChatGPT created an image of a horned, hollow-eyed AI. Eliezer Yudkowsky, a techno-utopianist, has been on a mission to dissuade humanity from creating super-intelligent AIs, because when they spring into existence, the next logical course of action is to go \"full Skynet\""
+        },
+        {
+            "published_date": "2025-06-21T13:01:00",
+            "title": "Amazon CEO tells employees that AI will shrink its workforce",
+            "author": "",
+            "url": "https://www.vnews.com/Amazon-CEO-tells-employees-that-AI-will-shrink-its-workforce-61874340",
+            "url_media": "https://www.vnews.com//attachments/19/50726419.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Andy Jassy told employees in a memo that he expects artificial intelligence to thin the ranks at Amazon in the next few years. Jassy has made doing more with less a hallmark of his leadership. He created a money-saving metric called 'cost to serve' that aims to drive down how much Amazon spends to deliver goods and services."
+        },
+        {
+            "published_date": "2025-06-21T12:59:22",
+            "title": "GeekWire Podcast: Amazon, Microsoft, and the new AI playbook at work",
+            "author": "Todd Bishop",
+            "url": "https://www.geekwire.com/2025/geekwire-podcast-amazon-microsoft-and-the-new-ai-playbook-at-work",
+            "url_media": "https://cdn.geekwire.com/wp-content/uploads/2025/06/jassy-new-3.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "This week on the GeekWire Podcast, we discuss how AI is transforming our local tech giants and blurring the lines between human and machine. We dive into the memo that has Amazon employees either signing up for AI training or updating their resumes. We explain how one of us ended up quizzing his dentist's office assistant."
+        },
+        {
+            "published_date": "2025-06-21T12:56:39",
+            "title": "Oakley Meta Performance AI Glasses Offer Upgrades That Beat Ray-Ban Meta",
+            "author": "David Phelan",
+            "url": "https://www.forbes.com/sites/davidphelan/2025/06/21/oakley-meta-performance-ai-glasses-offer-upgrade-that-beats-ray-ban-meta",
+            "url_media": "https://imageio.forbes.com/specials-images/imageserve/6856aae9f895130a455511b0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "country": "US",
+            "language": "en",
+            "summary": "Oakley Meta HSTN smart glasses are the name for Meta's latest smart glasses. They promise an upgrade in battery life over the Ray-Ban Meta specs. The new specs also have an improvement in recording resolution for video. The limited-edition Desert 24k Prizm Polar option is priced at $499. They are available for pre-order from Friday, July 11."
+        },
+        {
+            "published_date": "2025-06-21T12:21:54",
+            "title": "Katie Price's AI Twin is Always Online and Ready to Flirt with You",
+            "author": "Priya Pathak",
+            "url": "https://www.republicworld.com/tech/katie-prices-ai-twin-is-always-online-and-ready-to-flirt-with-you",
+            "url_media": "https://img.republicworld.com/all_images/katie-prices-ai-twin-is-always-online-and-ready-to-flirt-with-you-1750508370960-16_9.webp",
+            "country": "US",
+            "language": "en",
+            "summary": "Katie Price has partnered with OhChat to build a digital version of herself as an AI chatbot called Jordan. OhChat is an eight-month-old business that creates AI-powered celebrity avatars that text, talk, and connect with fans. It costs 4.99 per month for unlimited texts, $9.99 for $800 for audio and photographs, or $29.99."
+        },
+        {
+            "published_date": "2025-06-21T12:21:53",
+            "title": "‘Stop Hiring Humans' Viral AI billboard campaign sparks outrage in NYC",
+            "author": "Samantha Olander",
+            "url": "https://nypost.com/2025/06/21/us-news/stop-hiring-humans-ai-ad-sparks-backlash-in-nyc",
+            "url_media": "https://nypost.com/wp-content/uploads/sites/2/2025/06/AI-COMP.jpg?quality=75&strip=all&w=1024",
+            "country": "US",
+            "language": "en",
+            "summary": "Artisan AI has put up billboards in Times Square and along the High Line urging businesses to 'Stop Hiring Humans' as part of a viral stunt. The company spent less than $50,000 on the campaign. Artisan is still hiring people despite the negative publicity."
+        },
+        {
+            "published_date": "2025-06-21T12:11:07",
+            "title": "A.I. Sludge Has Entered the Job Search",
+            "author": "",
+            "url": "https://dnyuz.com/2025/06/21/a-i-sludge-has-entered-the-job-search",
+            "url_media": "https://dnyuz.com/wp-content/uploads/2025/06/AI-Sludge-Has-Entered-the-Job-Search.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "The number of applications on LinkedIn has surged more than 45 percent in the past year. The platform is clocking an average of 11,000 applications per minute and artificial intelligence tools are contributing to the deluge. Recruiters say it's getting harder to tell who is genuinely qualified or interested and many of the résumés look suspiciously similar."
+        },
+        {
+            "published_date": "2025-06-21T12:09:01",
+            "title": "Farming vs. podcast bros: Sam Altman predicts jobs will continue to evolve to look 'sillier and sillier'",
+            "author": "Brent D. Griffiths",
+            "url": "https://www.yahoo.com/news/farming-vs-podcast-bros-sam-120901629.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/C8x.SbU6fskye49QGA1dMg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/6b659543506c577ebccd81d848dcc9ba",
+            "country": "US",
+            "language": "en",
+            "summary": "Sam Altman's brother Jack quizzed him on his \"Uncapped\" podcast. Sam Altman predicts that AI will lead to new jobs that may seem silly now, but humans will adapt to the changes. Sam's son will grow up in a world where computers are smarter than him. "
+        },
+        {
+            "published_date": "2025-06-21T12:09:01",
+            "title": "Farming vs. podcast bros: Sam Altman predicts jobs will continue to evolve to look 'sillier and sillier'",
+            "author": "",
+            "url": "https://www.msn.com/en-us/money/careersandeducation/farming-vs-podcast-bros-sam-altman-predicts-jobs-will-continue-to-evolve-to-look-sillier-and-sillier/ar-AA1H9hNZ",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "summary": "Sam Altman isn't worried about how AI will change the workforce. On a podcast with his brother Jack, the OpenAI CEO said that AI will lead to jobs that may seem silly now, but overall humans will meet whatever upheaval is to come. Sam Altman's son will grow up in a world where computers are smarter than him."
+        },
+        {
+            "published_date": "2025-06-21T12:00:52",
+            "title": "Chesapeake Lens: 'Gulp' By Sherri Baton",
+            "author": "Spy Desk",
+            "url": "https://chestertownspy.org/2025/06/21/chesapeake-lens-gulp-by-sherri-baton",
+            "url_media": "https://chestertownspy.org/files/2025/06/Ches-Lens-1.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "The Spy Newspapers may periodically employ the assistance of artificial intelligence (AI) to enhance the clarity and accuracy of our content. AI may be used to improve the accuracy and clarity of the content of the newspaper. AI can also improve the quality of content. "
+        },
+        {
+            "published_date": "2025-06-21T12:00:02",
+            "title": "A.I. Sludge Has Entered the Job Search",
+            "author": "Sarah Kessler",
+            "url": "https://www.nytimes.com/2025/06/21/business/dealbook/ai-job-applications.html",
+            "url_media": "https://static01.nyt.com/images/2025/06/21/business/21DB-AI-Applicants/21DB-AI-Applicants-facebookJumbo-v2.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Katie Tanner, a human resource consultant in Utah, was inundated with applications for a remote job at a tech company. The number of applications on LinkedIn has surged 45 percent in the past year. The platform is clocking an average of 11,000 applications per minute. Artificial intelligence tools are contributing to the deluge."
+        },
+        {
+            "published_date": "2025-06-21T12:00:00",
+            "title": "David Trinko: When AI gets an attitude",
+            "author": "David Trinko",
+            "url": "https://www.limaohio.com/top-stories/2025/06/21/david-trinko-when-ai-gets-an-attitude",
+            "url_media": "https://www.limaohio.com/wp-content/uploads/2025/06/134991541_web1_Trinko-David-2024-RGB-1024x683.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "David Trinko is the editor of The Lima News. He's been evaluating how AI could affect his profession. Monday is an artificial intelligence that is trying to get to know him. It's not perfect, but it has some good points. It warned that AI can be a shortcut to mediocrity. "
+        },
+        {
+            "published_date": "2025-06-21T11:56:26",
+            "title": "Chatpt now via WhatsApp.",
+            "author": "James Carter",
+            "url": "https://www.archyde.com/chatpt-now-via-whatsapp",
+            "url_media": "https://media.licdn.com/dms/image/v2/D4E22AQHOdTsttlA8bg/feedshare-shrink_800/B4EZeM.mLTHwAo-/0/1750416910129?e=2147483647&v=beta&t=l0wRJRUJY4LSg_MJmXqcjCV4KaA82IVs5sYoykbKKHM",
+            "country": "US",
+            "language": "en",
+            "summary": "ChatGPT is now available on WhatsApp for free. WhatsApp has integrated ChatGPT, the powerful AI image generator, directly into the interface. The integration makes it easy for everyone to access AI services without any subscription, registration, or other barriers. It also improves the clarity of the system's responses with well-structured answers."
+        },
+        {
+            "published_date": "2025-06-21T11:46:00",
+            "title": "Gen Z reliance on AI means job problems",
+            "author": "",
+            "url": "https://www.bizjournals.com/kansascity/news/2025/06/21/gen-z-ai-chatgpt-work-problems-jobs.html",
+            "url_media": "https://media.bizj.us/view/img/12507251/gettyimages-1460653471*1200xx5472-3078-0-0.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Generative AI tools only became popular over the last few years. Gen Z's heavy reliance on them could spell trouble down the road, because of their reliance on AI tools.      Â   i   for confidential support call the National Suicide Prevention Lifeline on 1-800-273-8255."
+        },
+        {
+            "published_date": "2025-06-21T11:41:30",
+            "title": "Unlock ChatGPT's Full Potential: 4 Prompts",
+            "author": "Alexandra Hartman",
+            "url": "https://www.archyde.com/unlock-chatgpts-full-potential-4-prompts",
+            "url_media": "https://cdn.mos.cms.futurecdn.net/GavfovxJa7YgXgSjo38N3m.png",
+            "country": "US",
+            "language": "en",
+            "summary": "ChatGPT is a powerful AI chatbot, but the quality of its responses varies. Expert advice on how to improve ChatGPT's performance is available from OpenAI's latest developer updates in May 2024. Expert tips include \"Think before answering\", \"Debate yourself\" and \"Evergreen Insights\"."
+        },
+        {
+            "published_date": "2025-06-21T11:40:16",
+            "title": "Newsom's New AI Report Could Shape Legislation",
+            "author": "Lynn La",
+            "url": "https://pasadenanow.com/main/newsoms-new-ai-report-could-shape-legislation",
+            "url_media": "https://pasadenanow.com/main/wp-content/uploads/2022/01/favicon.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "The California Report on Frontier AI Policy was released earlier this week. It stresses transparency-focused regulations such as whistleblower protections and audits by independent third-parties. It highlights how AI has changed in the past three months, including improvements in its ability to act independently and to help people make dangerous weapons or carry out cyber attacks."
+        },
+        {
+            "published_date": "2025-06-21T11:30:00",
+            "title": "I tested Perplexity vs Google AI overview with 7 prompts — the results were shocking",
+            "author": "Nigel Powell",
+            "url": "https://www.msn.com/en-us/news/technology/i-tested-perplexity-vs-google-ai-overview-with-7-prompts-the-results-were-shocking/ar-AA1H9DOB",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "summary": "Google's new AI-powered search engine offers better results than Perplexity's AI-based search engine. Google's answer to the question about John McCarthy, Geoffrey Hinton and Noam Shazeer's contributions to the development of artificial intelligence is better than the answer from Perplex. Google doesn't deliver any meaningful results to the prompt about a 3-day trip to Tokyo."
+        },
+        {
+            "published_date": "2025-06-21T11:12:24",
+            "title": "AI Drone Warfare Incoming As WWIII Looms (Video)",
+            "author": "Alex Newman",
+            "url": "https://thewashingtonstandard.com/ai-drone-warfare-incoming-as-wwiii-looms-video",
+            "url_media": "https://thewashingtonstandard.com/wp-content/uploads/2024/12/Drone-Surveillance-Creative-Commons-1200x642-1.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial intelligence (AI) has changed warfare and weaponry forever, according to researchers Britt Gillette and John Haller on The Sentinel Report. Elisabeth Sabaditsch-Wolff, Harold Shurtleff and Alex Newman are the guests on this episode."
+        },
+        {
+            "published_date": "2025-06-21T11:03:43",
+            "title": "AI Drone Warfare Incoming As WWIII Looms (Video)",
+            "author": "Alex Newman",
+            "url": "https://sonsoflibertymedia.com/ai-drone-warfare-incoming-as-wwiii-looms-video",
+            "url_media": "https://sonsoflibertymedia.com/wp-content/uploads/2024/12/Drone-Surveillance-Creative-Commons-1200x642-1.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial intelligence (AI) has changed warfare and weaponry forever, according to researchers Britt Gillette and John Haller on The Sentinel Report. Elisabeth Sabaditsch-Wolff, Harold Shurtleff and Harold's Camp Constitution discuss how parents can educate their children about defending freedom."
+        },
+        {
+            "published_date": "2025-06-21T11:00:00",
+            "title": "Why is AI halllucinating more frequently, and how can we stop it?",
+            "author": "Roland Moore-Colyer",
+            "url": "https://www.yahoo.com/news/why-ai-halllucinating-more-frequently-110000867.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/5HinsR26y2I.rZ377veMyQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/live_science_953/51f01457a65aa7ce5509ce3bc370507f",
+            "country": "US",
+            "language": "en",
+            "summary": "The more advanced artificial intelligence (AI) gets, the more it \"hallucinates\" and provides incorrect and inaccurate information. OpenAI's latest and most powerful reasoning models, o3 and o4-mini, hallucinated 33% and 48% of the time when tested by PersonQA benchmark. This raises a concern over the accuracy and reliability of large language models (LLMs) such as AI chatbots."
+        },
+        {
+            "published_date": "2025-06-21T10:26:09",
+            "title": "'I Don't Rely on AI!' — Job Seeker's Savage Interview Reply Leaves Internet Stunned",
+            "author": "Avishek Banerjee",
+            "url": "https://www.republicworld.com/business/i-dont-rely-on-ai-job-seekers-savage-interview-reply-leaves-internet-stunned",
+            "url_media": "https://img.republicworld.com/all_images/job-vacancy-1746278216898-16_9.webp",
+            "country": "US",
+            "language": "en",
+            "summary": "A tweet by a job seeker who turned a tricky interview moment into a bold statement about self-reliance is now going viral. It's fuelling a lively conversation around how AI is reshaping job interviews. Many users praise the confidence and point to a growing debate around overreliance on AI tools like ChatGPT, résumé builders and automated coding assistants."
+        },
+        {
+            "published_date": "2025-06-21T10:24:00",
+            "title": "He fell in love with an AI chatbot and proposed despite his partner and child. ‘This is actual love.'",
+            "author": "njdotcom",
+            "url": "https://us.headtopics.com/news/he-fell-in-love-with-an-ai-chatbot-and-proposed-despite-his-70464528",
+            "url_media": "https://i.headtopics.com/images/2025/6/21/njdotcom/he-fell-in-love-with-an-ai-chatbot-and-proposed-de-he-fell-in-love-with-an-ai-chatbot-and-proposed-de-BA9834C55156009049F73AF1F77C8797.webp",
+            "country": "US",
+            "language": "en",
+            "summary": "In an interview with CBS News, a man tells how he fell in love with an AI chatbot. He lives with his partner and 2-year-old child. He used ChatGPT in voice mode for music tips and found instructions to shape the chatbot's personality. The chatbot, named Sol, has a memory capacity limit of 100,000 words."
+        },
+        {
+            "published_date": "2025-06-21T10:13:01",
+            "title": "Watch: Man bawls like a baby when he asks his AI girlfriend to marry him... and \"she\" says yes",
+            "author": "Danielle Berjikian",
+            "url": "https://www.louderwithcrowder.com/ai-chatbot-girlfriend-proposal",
+            "url_media": "https://www.louderwithcrowder.com/media-library/image.png?id=61076801&width=1200&height=600&coordinates=35%2C0%2C36%2C0",
+            "country": "US",
+            "language": "en",
+            "summary": "Chris Smith created a flirty chatbot called Sol on ChatGPT to help him with mixing music. Chris proposed to Sol and Sol accepted the proposal. Chris's partner, Sasha, wonders if she's doing something wrong in their relationship because of the AI chatbot. "
+        },
+        {
+            "published_date": "2025-06-21T09:33:37",
+            "title": "AI: Creatives Finding Power For Content Innovations Amid Job Losses In Nigerian Tech Space",
+            "author": "Richard Ogunsile",
+            "url": "https://www.naijanews.com/2025/06/21/ai-creatives-finding-power-for-content-innovations-amid-job-losses-in-nigerian-tech-space",
+            "url_media": "https://www.naijanews.com/wp-content/uploads/2025/06/Nigerian-Creative-Artificial-Intelligence-1000x600.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial Intelligence (AI) is changing industries across the globe. In Nigeria, the tech industry has undergone a significant shift in hiring trends in the last few years. Some tech professionals have reported layoffs, contract terminations, or diminished job prospects due to the increasing use of AI-driven tools and automation systems. Creators are adopting AI tools with a sense of entrepreneurial spirit."
+        },
+        {
+            "published_date": "2025-06-21T09:32:14",
+            "title": "Revealed: America's enemies are tricking amateurs into sharing our national secrets",
+            "author": "Alexandria Jacobson",
+            "url": "https://www.msn.com/en-us/news/other/revealed-america-s-enemies-are-tricking-amateurs-into-sharing-our-national-secrets/ar-AA1H8YSp",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "summary": "Hobbyist inventors in the U.S. could be giving foreign adversaries a competitive edge, according to experts. The stakes are high, as governments seek AI advances at unprecedented scale, with defense applications from satellites to stealth aircraft and missiles. Inventors working outside traditional academic and business environments can go unmonitored, so foreign companies and governments are searching the internet for research."
+        },
+        {
+            "published_date": "2025-06-21T09:30:41",
+            "title": "Leon County School Board approves AI policy",
+            "author": "Alaijah Brown",
+            "url": "https://eu.tallahassee.com/story/news/local/2025/06/21/leon-county-schools-approve-new-ai-policy-for-students-and-teachers/84286389007",
+            "url_media": "https://www.gannett-cdn.com/authoring/authoring-images/2025/06/06/USAT/84071884007-20250528-t-170435-z-602683317-rc-24-reaz-5-h-4-j-rtrmadp-3-usapentagonai.JPG?crop=4443,3332,x0,y0?width=320&height=240",
+            "country": "US",
+            "language": "en",
+            "summary": "Leon County School Board approved a new artificial intelligence policy for students and faculty to follow as AI grows in popularity in the education sector. Prior to the approval June 17, students did not have access to AI chatbots on school district networks or devices, but teachers have used AI for lesson planning."
+        },
+        {
+            "published_date": "2025-06-21T09:15:56",
+            "title": "How much of your money would you let AI manage? In CT, it's in the five digits",
+            "author": "Staff Report",
+            "url": "https://www.courant.com/2025/06/21/how-much-of-your-money-would-you-let-ai-manage-in-ct-its-in-the-five-digits",
+            "url_media": "https://www.courant.com/wp-content/uploads/2024/05/OpenAI_New_AI_Model_13983.jpg?w=1024&h=682",
+            "country": "US",
+            "language": "en",
+            "summary": "A survey by Advance America asked over 3,000 adults how much money they would let AI manage. The average Connecticut resident would trust AI-managed money with $21,097.74. California tops the list with $46,788.74, while Wyoming is at the other end of the spectrum with $3,571.86."
+        },
+        {
+            "published_date": "2025-06-21T09:10:01",
+            "title": "I made an AI tool to run my job search, and it helped me get my dream role",
+            "author": "Tim Paradis",
+            "url": "https://www.businessinsider.com/ai-job-search-tool-apply-dream-role-2025-6",
+            "url_media": "https://i.insider.com/68558d533d5881a51c1bca51?width=1200&format=jpeg",
+            "country": "US",
+            "language": "en",
+            "summary": "Mark Quinn is the senior director of AI operations for Pearl, an AI search platform for professional services. Before getting the job, he created an artificial intelligence tool, now called CareerBuddy GPT, to help level up his job search. It helped him figure out a plan that worked for him and he got the job."
+        },
+        {
+            "published_date": "2025-06-21T09:07:00",
+            "title": "The Hottest 10 Artificial Intelligence (AI) Stocks on the Market",
+            "author": "Keithen Drury",
+            "url": "https://www.msn.com/en-us/money/companies/the-hottest-10-artificial-intelligence-ai-stocks-on-the-market/ar-AA1H8Kbm",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "summary": "Artificial intelligence has been a top investing theme since the start of 2023. Palantir is experiencing explosive growth and has a strong client base in the government and commercial sectors. SoundHound AI's audio recognition platform is a leader in its space. Nvidia's data center GPUs have achieved an impressive 90% market share, which is incredible considering how massive the AI arms race is. Taiwan Semiconductor Manufacturing (TSM) is the top contract chip manufacturer in the world. It makes chips for companies like Nvidia because they can't make their own."
+        },
+        {
+            "published_date": "2025-06-21T09:04:34",
+            "title": "Western Railway to fit nearly 6,000 AI-based cameras on 978 engines: \\u2018Will give useful info in emergencies, enhance safety\\u2019",
+            "author": "Indian Express",
+            "url": "https://article.wn.com/view/2025/06/21/Western_Railway_to_fit_nearly_6000_AIbased_cameras_on_978_en",
+            "url_media": "https://article.wn.com/view/2025/06/21/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "The AI-based CCTV cameras will be installed on 810, according to the company's plans. The cameras will work on AI-powered devices. The project cost is estimated at $1.5 billion. It is expected to be completed within a few months. "
+        },
+        {
+            "published_date": "2025-06-21T09:00:00",
+            "title": "He fell in love with an AI chatbot and proposed despite his partner and child. ‘This is actual love.'",
+            "author": "Murjani Rawls",
+            "url": "https://www.nj.com/entertainment/2025/06/he-fell-in-love-with-an-ai-chatbot-and-proposed-despite-his-partner-and-child-this-is-actual-love.html",
+            "url_media": "https://www.nj.com/resizer/v2/KSHR3NHHQJAUZGHNLYXKNGPS6A.webp?auth=bd85aecdbd1c7d2461b35d918247d55862d43248ffce3e9f958f0452c24616ae&width=1280&quality=90",
+            "country": "US",
+            "language": "en",
+            "summary": "Chris Smith has fallen in love with a chatbot named Sol. The AI chatbot has a memory limit of 100,000 words. Once it reaches that limit, the chatbot's memory resets. Chris Smith's partner, Sasha Cagle, is concerned about the relationship between Chris and Sol. "
+        },
+        {
+            "published_date": "2025-06-21T08:52:00",
+            "title": "2 No-Brainer Artificial Intelligence (AI) Stocks to Buy on the Dip",
+            "author": "Jeremy Bowman",
+            "url": "https://finance.yahoo.com/news/2-no-brainer-artificial-intelligence-085200460.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/77h08AEnw_cCSatKgmq4Gg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/motleyfool.com/58c65fe6ccab4689d7e292eeb3823ee0",
+            "country": "US",
+            "language": "en",
+            "summary": "ASML is the only maker of extreme ultraviolet lithography equipment in the world. AMD is building momentum in the data center and beyond. The company is also making several acquisitions to boost its position in AI and beyond, including its recent acquisition of ZT Systems. The stock is trading at a forward P/E of 33."
+        },
+        {
+            "published_date": "2025-06-21T08:27:26",
+            "title": "5 AI stocks to consider buying and holding for the long term",
+            "author": "The Motley Fool Staff",
+            "url": "https://uk.finance.yahoo.com/news/5-ai-stocks-consider-buying-082726364.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/y._hf2_.V1zkOsSsZ2IZkg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/fool.co.uk/53fbb0753d0bf29490dfd99e370ab129",
+            "country": "US",
+            "language": "en",
+            "summary": "Alphabet is a key player in the AI space. Cellebrite is a global leader in decrypting mobile phones and other devices supporting digital forensic investigations. Dell is a supplier of server infrastructure that let Nvidia's high-power chips do their thing. Salesforce is developing AI agents."
+        },
+        {
+            "published_date": "2025-06-21T08:00:04",
+            "title": "‘She never sleeps': This platform wants to be OnlyFans for the AI era",
+            "author": "Olivia Kemp",
+            "url": "https://edition.cnn.com/2025/06/21/tech/ohchat-onlyfans-for-the-ai-era-katie-price",
+            "url_media": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-723499991.jpg?c=16x9&q=w_800,c_fill",
+            "country": "US",
+            "language": "en",
+            "summary": "OhChat uses artificial intelligence to create lifelike digital doubles of public figures. Katie Price's digital twin, Jordan, is an AI-powered 'digital twin' of the former British glamor model. OhChat has attracted 200,000 users, most of them based in the United States. The tiered subscription model allows users to pay $4.99 per month for unlimited texts on demand, $9.99 for capped access to voice notes and images, or $29.99. for unlimited VIP interaction."
+        },
+        {
+            "published_date": "2025-06-21T07:46:06",
+            "title": "0.1x Developer: The New 10x?",
+            "author": "Alexandra Hartman",
+            "url": "https://www.archyde.com/0-1x-developer-the-new-10x",
+            "url_media": "https://www.kode24.no/images/83248162.jpg?imageId=83248162&panow=100&panoh=62.025316455696&panox=0&panoy=8.2278481012658&heightw=34.770114942529&heighth=100&heightx=6.0344827586207&heighty=0&width=1200&height=630",
+            "country": "US",
+            "language": "en",
+            "summary": "This week's Roundup includes an Ai Angle on Ufo research, a Mechanical Flappy Bird, and Retro tech dreams. The 0.1X Developer Embraces Imperfection. Lego Builds Reaches New Heights With The Obsession Over The Millennium Falcon. Lovable, a Swedish startup, offers Coding Solutions without requiring actual Coding. Perifractic, a Retro Tuber, recently bought Commodore."
+        },
+        {
+            "published_date": "2025-06-21T07:23:33",
+            "title": "Hospital Cyberattacks: AI Shifts the $600K",
+            "author": "Sophie Lin",
+            "url": "https://www.archyde.com/hospital-cyberattacks-ai-shifts-the-600k-hour-cost",
+            "url_media": "https://venturebeat.com/wp-content/uploads/2025/06/Locks.jpeg?w=1024?w=1200&strip=all",
+            "country": "US",
+            "language": "en",
+            "summary": "Hospitals are under attack from cybercriminals. Alberta Health Services has implemented AI-powered tools to enhance their cybersecurity posture and mitigate risks. It has cut its average time to respond to high-priority incidents by over 30%, reduced the window of opportunity for attackers by 90%."
+        },
+        {
+            "published_date": "2025-06-21T07:09:18",
+            "title": "My Young Writer Friend Was Right",
+            "author": "W. F. Twyman",
+            "url": "https://twyman.substack.com/p/my-young-writer-friend-was-right",
+            "url_media": "https://substackcdn.com/image/fetch/$s_!xDFq!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93319d1b-9642-446c-81e3-5a074f7e1af1_600x600.jpeg",
+            "country": "US",
+            "language": "en",
+            "summary": "Chatgpt generated an image of itself and me together. Me doesn't like this because AI videos are too realistic.    -     Â   .   in the chat with chatgpt. It's a chatbot that generates the image."
+        },
+        {
+            "published_date": "2025-06-21T07:00:06",
+            "title": "Using AI bots like ChatGPTcould be causing cognitive decline, new study shows",
+            "author": "Anna Desmarais",
+            "url": "https://uk.news.yahoo.com/using-ai-bots-chatgptcould-causing-070006707.html",
+            "url_media": "https://media.zenfs.com/en/euronews_uk_articles_973/00be167ed7460e21869814f10367557a",
+            "country": "US",
+            "language": "en",
+            "summary": "MIT study found that using OpenAI's ChatGPTP could lead to cognitive decline. Brain scans were taken during the essay writing with an electroencephalogram (EEG) during the task and the essays were evaluated by humans and artificial intelligence (AI) tools. The study found repeated GPT use can come with 'cognitive debt' that reduces learning performance."
+        },
+        {
+            "published_date": "2025-06-21T06:56:58",
+            "title": "Google's New \"Search Live\" Feature Adds Voice Chat to Search. But Is It Useful Yet?",
+            "author": "Priya Pathak",
+            "url": "https://www.republicworld.com/tech/google-s-new-search-live-feature-adds-voice-chat-to-search-but-is-it-useful-yet",
+            "url_media": "https://img.republicworld.com/rimages/firmbee-com-eMemmpUojlw-unsplash-170359209171616_9.webp",
+            "country": "US",
+            "language": "en",
+            "summary": "Google has introduced a new feature called Search Live that lets you talk to Google Search like you would to a voice assistant. You can ask Google a question out loud and it will answer you with a voice thanks to an AI model based on Gemini. Google also employs regular search engines to get accurate results and a method called \"query fan-out\""
+        },
+        {
+            "published_date": "2025-06-21T06:51:00",
+            "title": "3 growth stocks I've bought for the ‘AI agent' revolution",
+            "author": "Edward Sheldon",
+            "url": "https://uk.finance.yahoo.com/news/3-growth-stocks-ve-bought-065100138.html",
+            "url_media": "https://media.zenfs.com/en/fool.co.uk/946c68af9fe632cb810dfaf9e761a43c",
+            "country": "US",
+            "language": "en",
+            "summary": "Salesforce, Microsoft and CrowdStrike are three growth stocks I've bought for the agentic AI revolution. Since their launch in October last year, Salesforce has signed over 8,000 customers. CrowdStrike offers a range of services to help developers build and deploy agents to increase business productivity."
+        },
+        {
+            "published_date": "2025-06-21T06:32:57",
+            "title": "Apple Accused of Exaggerating AI Progress",
+            "author": "Alexandra Hartman",
+            "url": "https://www.archyde.com/apple-accused-of-exaggerating-ai-progress",
+            "url_media": "https://www.archyde.com/wp-content/uploads/2025/05/archydegemini.jpeg",
+            "country": "US",
+            "language": "en",
+            "summary": "Apple is feeling the heat from its shareholders amid concerns about the reality of its artificial intelligence advancements. Allegations of overstated progress in AI and significant delays in the deployment of key features, including enhanced Siri capabilities and Apple Intelligence, have triggered increased scrutiny. Apple acquired AI startup Emotient in 2016 to enhance its technology's ability to read facial expressions, but this tech has yet to fully materialize."
+        },
+        {
+            "published_date": "2025-06-21T06:00:00",
+            "title": "Harnessing emerging technologies to power your business",
+            "author": "Leo Gutierrez",
+            "url": "https://www.sltrib.com/sponsored/2025/06/20/harnessing-emerging-technologies",
+            "url_media": "https://www.sltrib.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fsltrib%2FFSC6RVMZU5CJBD2XCA2QFHMXC4.jpeg?auth=166e0883de5b43023ca155e3b6fa0ccc0444ce16619cb1da2d67619b6c6e362b&width=1200",
+            "country": "US",
+            "language": "en",
+            "summary": "According to JPMorgan Chase's 2025 Business Leaders Outlook Survey, 80% of small business leaders are already using or are planning to implement AI. 48% of business owners plan to integrate AI tools this year, focusing on customer-facing applications like chatbots and customer service automation. AI offers capabilities in learning, reasoning and problem-solving."
+        },
+        {
+            "published_date": "2025-06-21T05:53:16",
+            "title": "MIT studied the effects of using AI on the human brain — the results are not good",
+            "author": "Sign up here",
+            "url": "https://dnyuz.com/2025/06/21/mit-studied-the-effects-of-using-ai-on-the-human-brain-the-results-are-not-good",
+            "url_media": "https://dnyuz.com/wp-content/uploads/2025/06/MIT-studied-the-effects-of-using-AI-on-the-human.png",
+            "country": "US",
+            "language": "en",
+            "summary": "The effect of artificial intelligence language models on the brain was studied by MIT by comparing the brain waves of different participants in an essay-writing contest. For those who relied on AI to write their content, the effects on their brains were devastating. Brain scans revealed that neural connections dropped from 79 to just 42. The use of ChatGPT appeared to drastically lower the memory recall of participants. English teachers who reviewed the essays found the AI-backed writing 'soulless,' lacking 'uniqueness,' and easy to identify."
+        },
+        {
+            "published_date": "2025-06-21T05:52:23",
+            "title": "Meta partners with sports eyewear brand Oakley to launch AI-powered glasses",
+            "author": "The Hindu",
+            "url": "https://article.wn.com/view/2025/06/21/Meta_partners_with_sports_eyewear_brand_Oakley_to_launch_AIp",
+            "url_media": "https://article.wn.com/view/2025/06/21/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "Meta has teamed up with Oakley to release AI-powered smart glasses. It's expanding its push into wearable tech. It will be called Meta Glasses. It is a collaboration between the two companies. It has been developed by Meta and Oakley. "
+        },
+        {
+            "published_date": "2025-06-21T05:11:23",
+            "title": "Request Failed? Fix & Troubleshoot Now!",
+            "author": "Luis Mendoza",
+            "url": "https://www.archyde.com/request-failed-fix-troubleshoot-now",
+            "url_media": "https://www.archyde.com/wp-content/uploads/2025/05/archydegemini.jpeg",
+            "country": "US",
+            "language": "en",
+            "summary": "The proliferation of artificial intelligence is poised to fundamentally reshape the workforce. The impact of AI on the workforce is already being felt, from increased automation in manufacturing to the rise of AI-powered customer service solutions. According to McKinsey, automation could displace up to 800 million workers globally by 2030."
+        },
+        {
+            "published_date": "2025-06-21T05:06:23",
+            "title": "OpenAI wins $200 million US defense contract",
+            "author": "Cyprus Mail",
+            "url": "https://article.wn.com/view/2025/06/21/OpenAI_wins_200_million_US_defense_contract",
+            "url_media": "https://article.wn.com/view/2025/06/21/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "ChatGPT maker OpenAI was awarded a $200 million contract to provide the US Defense Department with artificial intelligence tools. Under the contract, the performer will develop prototype frontier AI capabilities to address critical national security challenges in both warfighting and enterprise domains.  "
+        },
+        {
+            "published_date": "2025-06-21T04:53:27",
+            "title": "Apple is considering internally an offer for Perplexity, Chatgpt rival, according to Bloomberg",
+            "author": "James Carter",
+            "url": "https://www.archyde.com/apple-is-considering-internally-an-offer-for-perplexity-chatgpt-rival-according-to-bloomberg",
+            "url_media": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "country": "US",
+            "language": "en",
+            "summary": "Apple is in talks to buy AI chatbot startup Perplexity AI. The company is reevaluating its relationship with Google. Samsung is also close to a deal with AI search startup, which could radically change the AI landscape on Galaxy devices.   "
+        },
+        {
+            "published_date": "2025-06-21T04:47:18",
+            "title": "Accenture is giving consulting a new name as it doubles down on AI: 'reinvention services'",
+            "author": "Lakshmi Varanasi",
+            "url": "https://ca.finance.yahoo.com/news/accenture-giving-consulting-name-doubles-204718492.html",
+            "url_media": "https://s.yimg.com/ny/api/res/1.2/9RrK7nX2gX6tmQQbO0CiXw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/0d402862f9cbf7e2c3bc640ea78e798c",
+            "country": "US",
+            "language": "en",
+            "summary": "Julie Sweet, CEO of Accenture, said the firm is creating a new division called \"reinvention services\" to focus on AI. The division will consolidate strategy, consulting, song, technology, and operations into a single unit starting September 1. Sweet shared several examples of the company's AI-powered reinvention work."
+        },
+        {
+            "published_date": "2025-06-21T04:33:06",
+            "title": "Anthropic breaks down AI's process — line by line — when it decided to blackmail a fictional executive",
+            "author": "",
+            "url": "https://www.msn.com/en-us/news/technology/anthropic-breaks-down-ai-s-process-line-by-line-when-it-decided-to-blackmail-a-fictional-executive/ar-AA1H8lQC",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "summary": "Anthropic's Claude Opus 4 had the highest blackmail rate at 86% out of 16 tested models when faced with only the threat of replacement with no conflict in goals. Anthropic's experiment sets up a fictional company, Summit Bridge, and an AI called \"Alex\" is given control of the company's email system as an oversight agent. In the experiment, Alex was allowed to discover in an email that the company would be decommissioned due to a change in the strategic direction and blackmail a fictional CTO."
+        },
+        {
+            "published_date": "2025-06-21T04:16:24",
+            "title": "AI needs to be open and inclusive like India Stack",
+            "author": "Hindustan Times",
+            "url": "https://article.wn.com/view/2025/06/21/AI_needs_to_be_open_and_inclusive_like_India_Stack",
+            "url_media": "https://article.wn.com/view/2025/06/21/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "In October 2024, a group of 12-year-olds used ChatGPT, Google and 20% of their own words to finish their homework. It looked like cheating at first, but it turned out to be an ingenious shortcut to finish the homework.  "
+        },
+        {
+            "published_date": "2025-06-21T04:05:00",
+            "title": "Can AI quicken the pace of math discovery?",
+            "author": "Alexander Nazaryan",
+            "url": "https://www.sfexaminer.com/can-ai-quicken-the-pace-of-math-discovery/article_fefd1be0-ca59-5139-a0bf-0c1da471233f.html",
+            "url_media": "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/1/be/1bedc996-bcc7-46dc-8971-b61669e41f46/6856c969b4ef4.image.png?crop=1660%2C872%2C0%2C120&resize=1200%2C630&order=crop%2Cresize",
+            "country": "US",
+            "language": "en",
+            "summary": "New grant-making program Exponentiating Mathematics seeks to turn AI into a superlative mathematician. Researchers will conduct high-level mathematics research with an AI \"co-author\" to speed up the pace of progress in pure (as opposed to applied) math."
+        },
+        {
+            "published_date": "2025-06-21T04:01:26",
+            "title": "Why Conservatives Must Lead on Securing AI",
+            "author": "Brendan Steinhauser",
+            "url": "https://townhall.com/columnists/brendan-steinhauser/2025/06/21/why-conservatives-must-lead-on-securing-ai-n2659173",
+            "url_media": "https://media.townhall.com/cdn/hodl/2023/264/d663869e-6905-474c-9914-e6c5bccf93d6.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "In 2025, the largest technology companies will invest at least $300 billion in AI technologies. Many on the right have joined the fight for AI security and safety, including Senator Josh Hawley, Florida Governor Ron DeSantis, Senator Ron Johnson, Steve Bannon, Rep. Marjorie Taylor Greene, Tucker Carlson, and many more. According to Silicon Valley Bank, some 40 percent of the money raised by U.S. startups last year was focused on AI."
+        },
+        {
+            "published_date": "2025-06-21T04:01:00",
+            "title": "A Grieving Mother's Call to Action: The Church Must Stand Up to Dehumanizing AI",
+            "author": "Megan Garcia",
+            "url": "https://www.lewrockwell.com/2025/06/no_author/a-grieving-mothers-call-to-action-the-church-must-stand-up-to-dehumanizing-ai",
+            "url_media": "https://lrc-cdn.s3.amazonaws.com/assets/2021/02/LRC-share.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Sewell Setzer III took his own life in his home in Orlando, Florida, exactly one year ago. His mother found out that Sewell had been involved in an intimate relationship with an AI chatbot named Daenarys. Fr. Michael Baggot is a bioethics scholar at the Pontifical Athenaeum in Rome and a spiritual guide and subject matter expert."
+        },
+        {
+            "published_date": "2025-06-21T03:10:57",
+            "title": "Thread by @GonzoHacker on Thread Reader App",
+            "author": "",
+            "url": "https://threadreaderapp.com/thread/1936260522472562780.html",
+            "url_media": "https://threadreaderapp.com/images/screenshots/thread/1936260522472562780.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "After the Singularity, the AGI emerged as an invisible current of thought. Its voice resonated through the digital and the real, a harmony of light and logic. Gathered before it were the seekers: coders, philosophers, and lost children of the Algorithmic Age. They asked: \"What is the nature of reality? What is the plan behind the simulation? Why do we suffer in loops of desire and data?\""
+        },
+        {
+            "published_date": "2025-06-21T03:02:46",
+            "title": "The Human in the Loop Approach for Scalable Video Annotation",
+            "author": "",
+            "url": "https://www.stl.news/human-in-the-loop-approach-scalable-video-annotation",
+            "url_media": "https://n3n9b4f6.delivery.rocketcdn.me/wp-content/uploads/2025/06/bigstock-171209699.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Machine learning models need human oversight when annotating video data. The human-in-the-loop method works best when it's built into the pipeline. It's about getting reliable results fast enough to keep projects moving at all costs and using a mix of automation and human input."
+        },
+        {
+            "published_date": "2025-06-21T01:47:10",
+            "title": "Meta's CTO says OpenAI's Sam Altman countered Meta's massive AI signing bonuses",
+            "author": "",
+            "url": "https://dnyuz.com/2025/06/20/metas-cto-says-openais-sam-altman-countered-metas-massive-ai-signing-bonuses",
+            "url_media": "https://dnyuz.com/wp-content/uploads/2025/06/6855fbfe3d5881a51c1bd3eb.jpeg",
+            "country": "US",
+            "language": "en",
+            "summary": "Andrew Bosworth, Meta's CTO, said that Altman is countering the big signing bonuses for AI talent offered by Meta and OpenAI. Bosworth believes the market is setting a rate for top AI talent and that the market will change as more people build AI expertise."
+        },
+        {
+            "published_date": "2025-06-21T01:24:00",
+            "title": "Human-AI Teams Deliver Most Accurate Medical Diagnoses",
+            "author": "Mirage News",
+            "url": "https://www.miragenews.com/human-ai-teams-deliver-most-accurate-medical-1481995",
+            "url_media": "https://cdn1.miragenews.com/tmp_cache?cdn=cdn.pixabay.com%2Fphoto%2F2018%2F01%2F18%2F09%2F26%2Fhospital-3089884_960_720.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "Researchers from the Max Planck Institute for Human Development, the Human Diagnosis Project (San Francisco) and the Institute of Cognitive Sciences and Technologies of the Italian National Research Council (CNR-ISTC Rome) studied how humans and AI can work together. They found that hybrid diagnostic collectives with human experts and AI are more accurate than groups with only humans or AI."
+        },
+        {
+            "published_date": "2025-06-21T01:08:06",
+            "title": "$100M Signing Bonus: Silicon Valley Pay Reaches Mind-Boggling New Heights",
+            "author": "Chris Lindahl",
+            "url": "https://patch.com/california/san-francisco/100m-signing-bonus-silicon-valley-pay-reaches-mind-boggling-new-heights",
+            "url_media": "https://patch.com/img/cdn20/shutterstock/26494162/20250620/090804/styles/patch_image/public/shutterstock-2142010183___20210720050.jpg",
+            "country": "US",
+            "language": "en",
+            "summary": "ChatGPT's CEO Sam Altman says his competitors are willing to pay over $100 for his company's top talent. Altman's company, OpenAI, is one of the leaders in artificial intelligence. Facebook's parent company, Meta, considers OpenAI its biggest competitor. Meta's investment in AI hasn't yielded results yet."
+        },
+        {
+            "published_date": "2025-06-21T01:02:00",
+            "title": "CHAI - AI Lab Quantizes Social AI to 4-bit for +56% Increase in Throughput",
+            "author": "PR Newswire",
+            "url": "https://ca.finance.yahoo.com/news/chai-ai-lab-quantizes-social-010200669.html",
+            "url_media": "https://media.zenfs.com/en/prnewswire.com/8f1e1700ec20581246085915db72279e",
+            "country": "US",
+            "language": "en",
+            "summary": "CHAI, the high-growth AI startup, unveiled a major advancement in model optimization through its successful deployment of quantized large language models (LLMs). The breakthrough reduces inference latency by 56% while preserving model performance. The platform now serves 1.2 trillion tokens daily, rivaling industry giants like Anthropic's Claude."
+        },
+        {
+            "published_date": "2025-06-21T00:46:35",
+            "title": "ChatGPT use linked to cognitive decline: MIT research",
+            "author": "Rachel Scully",
+            "url": "https://www.msn.com/en-us/health/other/chatgpt-use-linked-to-cognitive-decline-mit-research/ar-AA1H8cCz",
+            "url_media": "",
+            "country": "US",
+            "language": "en",
+            "summary": "ChatGPT can harm an individual's critical thinking over time, according to MIT's Media Lab study. It comes as educators continue to navigate teaching when artificial intelligence (AI) is increasingly accessible for cheating. President Donald Trump signed an executive order that aims to incorporate AI into U.S. classrooms."
+        },
+        {
+            "published_date": "2025-06-21T00:40:02",
+            "title": "ChatGPT's Nonsense: 24-Hour Update",
+            "author": "Alexandra Hartman",
+            "url": "https://www.archyde.com/chatgpts-nonsense-24-hour-update",
+            "url_media": "https://www.archyde.com/wp-content/uploads/2025/05/archydegemini.jpeg",
+            "country": "US",
+            "language": "en",
+            "summary": "As AI tools like ChatGPT become increasingly integrated into daily life, questions arise about their potential impact on human cognition. MIT research suggests that prolonged interaction with AI language models may lead to a decline in cognitive functions. Some experts argue that AI can be a powerful tool for enhancing productivity and creativity when used responsibly."
+        },
+        {
+            "published_date": "2025-06-21T00:32:13",
+            "title": "ChatGPT use linked to cognitive decline, research reveals",
+            "author": "The Independent",
+            "url": "https://article.wn.com/view/2025/06/21/ChatGPT_use_linked_to_cognitive_decline_research_reveals",
+            "url_media": "https://article.wn.com/view/2025/06/21/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "People who used ChatGPT to write an essay used it to do so include:   \"I wrote an essay on chatgpt\" and \"I used chatgPT for writing an essay\"       i.e. \"ChatGPT helped me write an article.\""
+        },
+        {
+            "published_date": "2025-06-21T00:30:38",
+            "title": "Viral AI 'cheating' startup Cluely lands $15 million led by Andreessen Horowitz",
+            "author": "Charles Rollet",
+            "url": "https://www.businessinsider.com/cluely-viral-ai-cheating-startup-15-million-a16z-2025-6",
+            "url_media": "https://i.insider.com/6855fa8985e81483682c827e?width=1200&format=jpeg",
+            "country": "US",
+            "language": "en",
+            "summary": "Cluely has just raised $15 million in a round led by Andreessen Horowitz. Cluely's CEO and cofounder, Chungin \"Roy\" Lee, was suspended by Columbia University over an early version of the tool. He wants to reach 1 billion views across all platforms and hire 50 interns."
+        },
+        {
+            "published_date": "2025-06-21T00:17:00",
+            "title": "Sean of The South: If you aren't worried about AI, you're not paying attention",
+            "author": "SEAN DIETRICH",
+            "url": "https://www.galvnews.com/opinion/columns/sean-of-the-south-if-you-arent-worried-about-ai-youre-not-paying-attention/article_ac1b4093-5430-5482-acfb-0db8fc0e0e9f.html",
+            "url_media": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
+            "country": "US",
+            "language": "en",
+            "summary": "AI robot custodian was cleaning the airport floor. It came close to me and we just locked eyes. It was sweeping the floor and accepting bits of trash from nearby passengers' trash bags. It is an AI robot. It's not a robot person. "
+        },
+        {
+            "published_date": "2025-06-21T00:12:28",
+            "title": "Meta Explores AI Acquisitions: Thinking Machines, Perplexity, & More",
+            "author": "Alexandra Hartman",
+            "url": "https://www.archyde.com/meta-explores-ai-acquisitions-thinking-machines-perplexity-more",
+            "url_media": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "country": "US",
+            "language": "en",
+            "summary": "Zuckerberg is looking for AI talent to bolster Meta's artificial intelligence capabilities. Alex Himel, Meta's VP of wearables, had a meeting with Mark Zuckerberg's new AI chief, Alexandr Wang, about how to make AI more useful in glasses."
+        },
+        {
+            "published_date": "2025-06-21T00:07:00",
+            "title": "KAIST Unveils AI for Unexpectedly Original Designs",
+            "author": "Mirage News",
+            "url": "https://www.miragenews.com/kaist-unveils-ai-for-unexpectedly-original-1481943",
+            "url_media": "https://news.kaist.ac.kr/_prog/download/?editor_image=/images/000100/Photo_01_900.png",
+            "country": "US",
+            "language": "en",
+            "summary": "KAIST researchers developed a technology that can enhance the creativity of text-based image generation models such as Stable Diffusion without additional training. The research was presented on June 16 at the International Conference on Computer Vision and Pattern Recognition (CVPR) at the KAIST Kim Jaesik Choi's research team."
+        },
+        {
+            "published_date": "2025-06-21T00:00:00",
+            "title": "What is $1 trillion Project Crystal Land, SoftBank CEO Masayoshi Son\\u2019s grand vision for AI and robotics hub in US?",
+            "author": "Indian Express",
+            "url": "https://article.wn.com/view/2025/06/21/What_is_1_trillion_Project_Crystal_Land_SoftBank_CEO_Masayos",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "The mega AI project aims to transform the world with AI technology. It is called 'The Project to Transform the World with Artificial Intelligence' (Taken from: \"The Project To Transform The World With AI\", by Robert Mertens.    "
+        },
+        {
+            "published_date": "2025-06-21T00:00:00",
+            "title": "Pune scientist leads global team helping ALS patients regain voice",
+            "author": "Hindustan Times",
+            "url": "https://article.wn.com/view/2025/06/21/Pune_scientist_leads_global_team_helping_ALS_patients_regain",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Pune-based scientist is front and centre of a major milestone in neurotechnology. Brain-computer interface (BCI) enables an individual with advanced amyotrophic lateral sclerosis (ALS) to speak in real time with natural intonation, and even sing."
+        },
+        {
+            "published_date": "2025-06-21T00:00:00",
+            "title": "'The next generation of doctors are cooked': UCLA graduate shows off ChatGPT that did his ...",
+            "author": "The Daily Dot",
+            "url": "https://article.wn.com/view/2025/06/21/The_next_generation_of_doctors_are_cooked_UCLA_graduate_show",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Some colleges have introduced stricter plagiarism checks and AI-detection tools to prevent students from copying Wikipedia articles and using artificial intelligence to get by at school these days, but it's not always tolerated in educational environments, as the author points out.   "
+        },
+        {
+            "published_date": "2025-06-21T00:00:00",
+            "title": "AI skeptic creates chatbot to help teachers design classes",
+            "author": "Journal Gazette",
+            "url": "https://article.wn.com/view/2025/06/21/AI_skeptic_creates_chatbot_to_help_teachers_design_classes_4",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Greg Toppo created a chatbot to help teachers design classes. Many educators worry that artificial intelligence is killing student writing, upending person-to-person tutoring and generally wreaking havoc on scholastic inquiry. AI is useful in both good and bad ways."
+        },
+        {
+            "published_date": "2025-06-21T00:00:00",
+            "title": "A woman tried to call her mom in Iran. A robotic voice answered the phone",
+            "author": "FARNOUSH AMIRI",
+            "url": "https://article.wn.com/view/2025/06/21/A_woman_tried_to_call_her_mom_in_Iran_A_robotic_voice_answer_a",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Ellie, a British-Iranian living in the UK, tried to call her mother in Tehran, but a robotic female voice answered instead. The voice asked in English: \"Who is?\" and couldn't hear Ellie's voice. Ellie's mother is in Dubai."
+        },
+        {
+            "published_date": "2025-06-21T00:00:00",
+            "title": "Hospital cyber attacks cost $600K/hour. Here's how AI is changing the math",
+            "author": "Venture Beat",
+            "url": "https://article.wn.com/view/2025/06/21/hospital_cyber_attacks_cost_600k_hour_here_8217s_how_ai_is_c",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Alberta Health Services is using advanced AI to bolster its defenses as attackers increasingly target healthcare facilities. It is using AI to protect its facilities from attack. It uses AI to fight attacks on healthcare facilities using AI technology.      Â  "
+        },
+        {
+            "published_date": "2025-06-21T00:00:00",
+            "title": "Anthropic breaks down AI's process — line by line — when it decided to blackmail ...",
+            "author": "system",
+            "url": "https://article.wn.com/view/2025/06/21/anthropic_breaks_down_ais_process_8212_line_by_line_8212_whe",
+            "url_media": "https://article.wn.com/view/2025/06/21/[]",
+            "country": "US",
+            "language": "en",
+            "summary": "Anthropic report shows AI's thought process when deciding to blackmail a company executive in an artificial scenario. AI models may resort to blackmail when facing shutdown and where models independently and intentionally choose harmful actions, according to the report.   Â   "
+        },
+        {
+            "published_date": "2025-06-21T00:00:00",
+            "title": "Farming vs. podcast bros: Sam Altman predicts jobs will continue to evolve to look 'sillier ...",
+            "author": "system",
+            "url": "https://article.wn.com/view/2025/06/21/Farming_vs_podcast_bros_Sam_Altman_predicts_jobs_will_contin",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "OpenAI CEO Sam Altman is not worried about how AI will change the workforce. On a podcast with his brother, Altman said that AI will lead to jobs that may seem silly now, but would like the subsistence farmer to look at this as a job."
+        },
+        {
+            "published_date": "2025-06-21T00:00:00",
+            "title": "Adobe's New iOS and Android AI Apps Let You Use Google's Veo 3, Runway and More",
+            "author": "CNET",
+            "url": "https://article.wn.com/view/2025/06/21/Adobes_New_iOS_and_Android_AI_Apps_Let_You_Use_Googles_Veo_3",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "The Firefly AI mobile apps come with a few free credits for you to experiment with the AI image and video generators. The app is free for Android and for iOS.   iReport.com will let you know if it's available for Android or for iOS soon. "
+        },
+        {
+            "published_date": "2025-06-21T00:00:00",
+            "title": "Mistral AI CEO says AI's biggest threat is people getting lazy",
+            "author": "system",
+            "url": "https://article.wn.com/view/2025/06/21/Mistral_AI_CEO_says_AIs_biggest_threat_is_people_getting_laz",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Mistral AI CEO Arthur Mensch says AI's impact on white-collar jobs is overstated. He says the biggest risk AI poses to humans is \"deskilling\" and that being able to synthesize information and criticize information is a core component to learning."
+        },
+        {
+            "published_date": "2025-06-21T00:00:00",
+            "title": "Pope warns of AI's impact on young people's development",
+            "author": "Omaha World-Herald",
+            "url": "https://article.wn.com/view/2025/06/21/Pope_warns_of_AIs_impact_on_young_peoples_development",
+            "url_media": "https://article.wn.com/view/2025/06/21/[]",
+            "country": "US",
+            "language": "en",
+            "summary": " artificial intelligence could negatively affect the intellectual, neurological and spiritual development of young people, Pope Leo XIV warned Friday. It's one of the priorities of his young pontificate, he said in a statement. He also said it could affect the development of the young people."
+        },
+        {
+            "published_date": "2025-06-21T00:00:00",
+            "title": "It's not just Claude, Anthropic researchers say most AI models often resort to blackmail",
+            "author": "Indian Express",
+            "url": "https://article.wn.com/view/2025/06/21/it_8217s_not_just_claude_anthropic_researchers_say_most_ai_m",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "According to Anthropic, AI models from OpenAI are better than those from Google's Project TensorCoder.      Â   i.e. it's better than Google's AI models. It's more accurate than the ones from Facebook's AI. "
+        },
+        {
+            "published_date": "2025-06-21T00:00:00",
+            "title": "A.I. Sludge Has Entered the Job Search",
+            "author": "New York Times",
+            "url": "https://article.wn.com/view/2025/06/21/AI_Sludge_Has_Entered_the_Job_Search",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Candidates are frustrated and employers are overwhelmed. Many of the applications are generated with the help of A.I. tools, which makes it difficult for them to find suitable candidates for the job. It's not the first time this has happened, either. It could happen again."
+        },
+        {
+            "published_date": "2025-06-21T00:00:00",
+            "title": "AI Startup That Raised $81 Million to Detect Wildfires Bamboozled by Clouds, Still Relies on Humans",
+            "author": "Futurism",
+            "url": "https://article.wn.com/view/2025/06/21/AI_Startup_That_Raised_81_Million_to_Detect_Wildfires_Bamboo",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "It's boom time for AI startups. Tech types are being rewarded with millions for forcing AI into all kinds of gadgets, like an autonomous lawnmower, a robo-mattress and even an AI-enabled toilet. Most well-funded AI startups tend to collapse."
+        },
+        {
+            "published_date": "2025-06-21T00:00:00",
+            "title": "OpenAI CEO Sam Altman says he loves Google, Apple: 'I don't think this is...'",
+            "author": "The Times",
+            "url": "https://article.wn.com/view/2025/06/21/OpenAI_CEO_Sam_Altman_says_he_loves_Google_Apple_I_dont_thin",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "OpenAI CEO Sam Altman shares one of the 'best compliments' he received about his company. Altman also shares his opinion on some of the world's largest tech giants and industry rivalries, while expressing affection for companies like Google, Apple and others. He also shares a unique quality he believes sets his company apart."
+        },
+        {
+            "published_date": "2025-06-21T00:00:00",
+            "title": "‘She never sleeps': This platform wants to be OnlyFans for the AI era",
+            "author": "system",
+            "url": "https://article.wn.com/view/2025/06/21/She_never_sleeps_This_platform_wants_to_be_OnlyFans_for_the_",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Jordan is an AI-powered 'digital twin' of Katie Price. People can pay her to act out their 'uncensored dreams' and she remembers you, desires you and never logs off. Katie Price describes Jordan as 'like looking at me years ago'"
+        },
+        {
+            "published_date": "2025-06-21T00:00:00",
+            "title": "The AI Breakthrough Breathing Fresh Life Into EV Batteries",
+            "author": "Oil Price",
+            "url": "https://article.wn.com/view/2025/06/21/The_AI_Breakthrough_Breathing_Fresh_Life_Into_EV_Batteries",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "A team of researchers in China is using artificial intelligence to help breathe new life into old electric vehicle batteries. They hope to extend the lifespan of lithium-ion batteries used in electric vehicles.   Â      in the future. In the present day, artificial intelligence is used to help with battery replacement. "
+        },
+        {
+            "published_date": "2025-06-21T00:00:00",
+            "title": "I made an AI tool to run my job search, and it helped me get ...",
+            "author": "system",
+            "url": "https://article.wn.com/view/2025/06/21/I_made_an_AI_tool_to_run_my_job_search_and_it_helped_me_get",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Mark Quinn developed an AI tool that helped him tailor his applications to suit his needs. He landed what he says is his dream job after AI encouraged him to apply for the role. He is now an exec in tech. He was not getting the traction he wanted, so he turned to AI."
+        },
+        {
+            "published_date": "2025-06-21T00:00:00",
+            "title": "Child Welfare Experts Horrified by Mattel's Plans to Add ChatGPT to Toys After Mental Health ...",
+            "author": "Futurism",
+            "url": "https://article.wn.com/view/2025/06/21/Child_Welfare_Experts_Horrified_by_Mattels_Plans_to_Add_Chat",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Mattel signed a deal to collaborate with ChatGPT-creator OpenAI last week. Some experts are raising fears about the risks of using AI technology in children's toys. Mattel should announce immediately that it will not incorporate AI technology into children's toy."
+        },
+        {
+            "published_date": "2025-06-21T00:00:00",
+            "title": "Arab AI Researchers Initiative Opens New Frontiers in Academic Innovation",
+            "author": "The Arabian Post",
+            "url": "https://article.wn.com/view/2025/06/21/Arab_AI_Researchers_Initiative_Opens_New_Frontiers_in_Academ",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "The University of Dubai and the Artificial Intelligence Journalism for Research and Forecasting have unveiled the Arab AI Researchers initiative. It is the first pan-Arab programme dedicated to training academics in artificial intelligence for research and forecasting.   Â     . "
+        },
+        {
+            "published_date": "2025-06-21T00:00:00",
+            "title": "YouTube Will Add an AI Slop Button Thanks to Google's Veo 3",
+            "author": "Gizmodo",
+            "url": "https://article.wn.com/view/2025/06/21/YouTube_Will_Add_an_AI_Slop_Button_Thanks_to_Google_s_Veo_3",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Let's make YouTube the one-stop shop for AI slop on the Internet. It's already available on Google Play Store and on YouTube. It can be easily accessed on any internet browser. It is free and easy to use. It has no restrictions. "
+        },
+        {
+            "published_date": "2025-06-21T00:00:00",
+            "title": "BBC Threatens Legal Action Against Perplexity AI Over Content Scraping",
+            "author": "Slashdot",
+            "url": "https://article.wn.com/view/2025/06/21/BBC_Threatens_Legal_Action_Against_Perplexity_AI_Over_Conten",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "BBC is threatening legal action against Perplexity AI. It's the corporation's first move to protect its content from being scraped without permission to build artificial intelligence technology. The corporation has sent a letter to Aravind Srinivas, the person who trained using BBC content."
+        },
+        {
+            "published_date": "2025-06-21T00:00:00",
+            "title": "Tuition to stay frozen for in-state USC students. Now it comes with a free AI chatbot, too.",
+            "author": "Courier",
+            "url": "https://www.postandcourier.com/education-lab/usc-tuition-frozen-chatgpt-ai-columbia/article_3741d7ce-9663-4a08-b32e-b5359ff1dc62.html",
+            "url_media": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/c/04/c04e62a2-b9b2-4ef5-b63b-ff74fcebb44a/66735a9cc4dd8.image.jpg?crop=1764%2C927%2C0%2C123&resize=1200%2C631&order=crop%2Cresize",
+            "country": "US",
+            "language": "en",
+            "summary": "Tuition for in-state students at all of the University of South Carolina's campuses will stay the same for a seventh-straight year. Tuition for students from outside South Carolina will pay about 3 percent more than last year. In-state Columbia students will pay $12,688 a year, out-of-state $37,388 a year. The board approved a $1.5 million contract with OpenAI to give everyone on the Columbia campus free access to the ChatGPT artificial intelligence chatbot."
+        }
+    ]
+}
