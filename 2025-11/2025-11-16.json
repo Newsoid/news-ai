@@ -1,0 +1,16 @@
+{
+    "status": "ok",
+    "total_articles": 1,
+    "articles": [
+        {
+            "published_date": "2025-11-16T00:00:00",
+            "title": "Mozilla Introduces ‘AI Window' Feature for Firefox Users",
+            "author": "The Arabian Post",
+            "url": "https://article.wn.com/view/2025/11/16/mozilla_introduces_8216ai_window_8217_feature_for_firefox_us",
+            "url_media": "https://ecdn0.wn.com/st/favicon-20131209.ico",
+            "country": "US",
+            "language": "en",
+            "summary": "Mozilla has announced a new feature set to enhance user experience in its Firefox browser. The company unveiled plans for an 'AI Window' browsing mode. It promises to transform the way users interact with the internet by integrating an AI assistant directly into their browsing environment."
+        }
+    ]
+}
